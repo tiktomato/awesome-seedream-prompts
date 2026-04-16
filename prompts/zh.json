@@ -1,0 +1,1782 @@
+[
+  {
+    "id": "sd-001",
+    "title": "商务高管形象照",
+    "prompt": "自信的女性高管职业形象照，短栗色头发，身穿剪裁精良的炭灰色西装外套搭配奶油色真丝衬衫，中性暖灰色影棚背景，伦勃朗光配合柔和补光，f/2.8光圈85mm镜头对焦于眼部，自然肤色还原，高端商务人像摄影",
+    "prompt_ori": "Professional headshot of a confident female executive with short auburn hair, wearing a tailored charcoal blazer over a cream silk blouse, neutral warm gray studio background, Rembrandt lighting with soft fill, sharp focus on eyes at f/2.8, 85mm lens, natural skin tones, high-end corporate photography",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "sd-002",
+    "title": "烛光温暖自拍",
+    "prompt": "年轻男性近距离自拍风格肖像，温暖的棕色眼睛和淡淡的胡茬，柔和烛光照亮面部一侧，另一半隐入冷调阴影，温馨的夜晚氛围，50mm镜头浅景深拍摄，表情真挚自然，社交媒体头像风格",
+    "prompt_ori": "Close-up self-portrait style photo of a young man with warm brown eyes and light stubble, soft candlelight illuminating one side of his face, the other half in cool shadow, cozy evening atmosphere, shot on 50mm lens with shallow depth of field, intimate and genuine expression, social media profile aesthetic",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "sd-003",
+    "title": "极简渐变头像",
+    "prompt": "风格化3D半身像，年轻女性以柔和的哑光黏土材质渲染，圆润光滑的五官，粉紫渐变至蜜桃色的柔和背景，干净极简的影棚布光无硬阴影，现代社交媒体头像风格，居中构图",
+    "prompt_ori": "Stylized 3D portrait bust of a young woman rendered in soft matte clay material, smooth rounded features, pastel gradient background shifting from lavender to peach, clean minimal studio lighting with no harsh shadows, modern social media avatar style, centered composition",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "sd-004",
+    "title": "户外探险头像",
+    "prompt": "登山者在黄金时刻登顶山峰的生活方式人像，微风吹拂头发面带微笑，身穿藏蓝色羽绒马甲，脚下是辽阔的山谷与云海，逆光在发丝上勾勒出轮廓光，35mm广角镜头配合壮阔天空，冒险与真实的氛围，Instagram个人头像级画质",
+    "prompt_ori": "Lifestyle portrait of a smiling hiker at a mountain summit during golden hour, windswept hair, wearing a navy puffer vest, expansive valley and clouds below, backlit rim light on hair, 35mm wide-angle lens with dramatic sky, adventurous and authentic mood, Instagram profile photo quality",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "sd-005",
+    "title": "精致平铺美学",
+    "prompt": "暖白大理石台面俯拍平铺：手工陶瓷杯中的抹茶拿铁，一本摊开的皮质手账写满手写笔记，一台富士Instax拍立得相机，陶土盆中的小多肉，散落的尤加利干枝叶，清晨阳光投下柔和的斜线光影，简洁极简构图，生活方式博主美学，35mm镜头",
+    "prompt_ori": "Overhead flat lay on warm white marble: a matcha latte in a handmade ceramic cup, an open leather journal with handwritten notes, a Fujifilm Instax camera, small succulent in terracotta pot, scattered dried eucalyptus leaves, morning sunlight casting soft diagonal shadows, clean minimalist composition, lifestyle blogging aesthetic, 35mm lens",
+    "category": "social",
+    "images": []
+  },
+  {
+    "id": "sd-006",
+    "title": "励志语录卡片",
+    "prompt": "优雅的语录卡片设计，深炭色背景，居中金色衬线字体写着'Create the life you can't stop thinking about'，文字后方隐约的暖色聚光效果，上下点缀极简装饰线分隔，Instagram竖版故事9:16比例，精致而富有感召力",
+    "prompt_ori": "Elegant quote card design with deep charcoal background, centered gold serif typography reading 'Create the life you can't stop thinking about', subtle warm spotlight glow behind the text, minimalist decorative line dividers above and below, Instagram story format 9:16, refined and inspirational",
+    "category": "social",
+    "images": []
+  },
+  {
+    "id": "sd-007",
+    "title": "一次性相机派对快照",
+    "prompt": "朋友们在夜间天台派对上欢笑的抓拍，一次性相机直闪的粗粝效果，高颗粒胶片质感，微微红眼，暖钨丝灯肤色，右下角橙色日期戳标注'2025.07.20'，边缘运动模糊，真实的傻瓜相机风格，怀旧而无忧无虑",
+    "prompt_ori": "Candid snapshot of friends laughing at a rooftop party at night, harsh direct flash of a disposable camera, grainy film stock, slight red-eye effect, warm tungsten skin tones, visible date stamp reading '2025.07.20' in orange, motion blur on the edges, authentic point-and-shoot aesthetic, nostalgic and carefree",
+    "category": "social",
+    "images": []
+  },
+  {
+    "id": "sd-008",
+    "title": "分屏前后对比",
+    "prompt": "垂直分屏对比图：左侧是杂乱的办公桌，纸张散落、线缆缠绕；右侧是同一张桌子整理后的极简工作空间，摆着显示器、绿植和整齐的配件，强烈的视觉反差，干净的分割线，适合社交媒体轮播图首页，明亮自然光",
+    "prompt_ori": "Split-screen comparison image divided vertically: left side shows a cluttered messy desk with scattered papers and tangled cables, right side shows the same desk transformed into a clean minimalist workspace with a monitor, plant, and organized accessories, dramatic contrast, clean dividing line, social media carousel first slide, bright natural lighting",
+    "category": "social",
+    "images": []
+  },
+  {
+    "id": "sd-009",
+    "title": "营养成分可视化",
+    "prompt": "简洁的信息图排版，展示牛油果营养分析：左侧大幅写实牛油果切面作为主视觉，右侧用柔和绿色调的营养素条形图标注精确数值（热量：160千卡，脂肪：15克，膳食纤维：7克，钾：485毫克），白色背景，现代无衬线字体，健康科普风格，16:9横版",
+    "prompt_ori": "Clean infographic layout showing nutritional breakdown of avocado: large photorealistic avocado half as hero image on the left, right side displays macronutrient bars in soft green tones with precise values (Calories: 160kcal, Fat: 15g, Fiber: 7g, Potassium: 485mg), white background, modern sans-serif typography, health and wellness educational style, 16:9 landscape",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "sd-010",
+    "title": "创业融资时间线",
+    "prompt": "水平时间线信息图，展示创业融资各阶段从种子轮到IPO，每个里程碑是彩色节点通过渐变流线相连，配有对应图标（灯泡、火箭、大楼、地球），深海军蓝背景搭配鲜明强调色，简洁的数据可视化，现代企业演示风格，16:9",
+    "prompt_ori": "Horizontal timeline infographic showing startup funding stages from Seed to IPO, each milestone as a colored node connected by a flowing gradient line, icons representing each stage (lightbulb, rocket, building, globe), dark navy background with vibrant accent colors, clean data visualization, modern corporate presentation style, 16:9",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "sd-011",
+    "title": "咖啡冲泡方式指南",
+    "prompt": "教学式视觉指南，2x2网格对比四种咖啡冲泡方式：手冲、法压壶、意式浓缩机、冷萃。每个面板以等距3D插画风格展示器具并标注步骤，暖棕与奶油色调，清晰的教学版式，淡淡的纸张肌理背景，咖啡师教学美学",
+    "prompt_ori": "Educational visual guide comparing 4 coffee brewing methods in a 2x2 grid: pour-over, French press, espresso machine, cold brew. Each panel shows the equipment in isometric 3D illustration style with labeled steps, warm brown and cream color palette, clean instructional layout, subtle paper texture background, barista education aesthetic",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "sd-012",
+    "title": "优秀Logo解剖",
+    "prompt": "分解式教学信息图，标题'优秀Logo的解剖学'，展示一个虚构Logo被拆解为设计元素的过程：色板色卡、字体选择、负空间运用、网格结构叠加、黄金比例螺旋线。白色干净背景，标注线连接每个元素与说明文字，平面设计教科书风格",
+    "prompt_ori": "Exploded-view educational infographic titled 'Anatomy of a Great Logo' showing a fictional logo being deconstructed into its design elements: color palette swatches, typography choice, negative space usage, grid structure overlay, golden ratio spiral. Clean white background, annotation lines connecting each element to its label, graphic design textbook style",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "sd-013",
+    "title": "科技评测封面",
+    "prompt": "YouTube视频封面：大胆明亮的黄色背景高对比度，右侧年轻男性张大嘴巴瞪大眼睛的夸张表情，左侧一个巨大的3D红色箭头指向悬浮的精致手机，白色粗体文字'GAME CHANGER'黑色描边，戏剧性定向光，背景漫画式速度线，在小尺寸下依然抢眼",
+    "prompt_ori": "YouTube thumbnail: bold bright yellow background with high contrast, an expressive shocked face of a young man with mouth open and wide eyes on the right, large 3D red arrow pointing to a sleek floating smartphone on the left, bold white text 'GAME CHANGER' with black outline, dramatic directional lighting, comic-book speed lines in background, designed to pop at small sizes",
+    "category": "thumbnail",
+    "images": []
+  },
+  {
+    "id": "sd-014",
+    "title": "美食频道封面",
+    "prompt": "YouTube美食封面：金黄酥脆炸鸡的极致特写，热气蒸腾升起，红色粗体文字'SECRET RECIPE'白色描边，角落小圆框内是厨师兴奋的表情，暖橙红色调，高饱和度，诱人的美食摄影布光，小尺寸同样吸睛",
+    "prompt_ori": "YouTube cooking thumbnail: extreme close-up of golden crispy fried chicken with steam rising, bold red text 'SECRET RECIPE' with white stroke, small inset circle showing a chef's excited face in the corner, warm orange and red color scheme, high saturation, appetizing food photography lighting, eye-catching at small scale",
+    "category": "thumbnail",
+    "images": []
+  },
+  {
+    "id": "sd-015",
+    "title": "旅行Vlog封面",
+    "prompt": "YouTube旅行封面：碧蓝海水与白色沙滩的震撼航拍视角，白色粗体文字'HIDDEN PARADISE'投影效果，沙滩上一个小小人影作为尺度参照，鲜艳饱和的热带色彩，细白色边框，唤起旅行渴望的氛围，为最大点击率而设计",
+    "prompt_ori": "YouTube travel thumbnail: stunning aerial view of turquoise waters and white sand beach, bold white text 'HIDDEN PARADISE' with drop shadow, a small figure standing on the shore for scale, vibrant saturated tropical colors, thin white border frame, wanderlust mood, designed for maximum click-through",
+    "category": "thumbnail",
+    "images": []
+  },
+  {
+    "id": "sd-016",
+    "title": "爵士音乐节字体海报",
+    "prompt": "大幅字体排版爵士音乐节海报：深海军蓝窄体无衬线标题'BLUE NOTE SESSIONS'，优雅手写体副标题'Summer 2026 · Central Park'，从午夜蓝过渡到暖琥珀的渐变背景，右侧边缘金色萨克斯剪影，表演者名单以简洁字体排列，复古音乐会海报美学 --ar 2:3",
+    "prompt_ori": "Large-format typographic poster for a jazz festival: bold navy condensed sans-serif title 'BLUE NOTE SESSIONS', subtitle in elegant script 'Summer 2026 · Central Park', gradient background from midnight blue to warm amber, gold saxophone silhouette on the right edge, performer names listed in clean type, vintage concert poster aesthetic --ar 2:3",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "sd-017",
+    "title": "科幻电影海报",
+    "prompt": "电影级科幻惊悚片海报，片名'CHRONOS'：一名宇航员独自面对深空中巨大的旋转时间漩涡，强烈逆光勾勒出宇航服的剪影轮廓，底部金属质感粗体片名字体，副标语'Time waits for no one'以较小字号呈现，照片级写实数字艺术，史诗级宏大场面 --ar 2:3",
+    "prompt_ori": "Cinematic movie poster for a sci-fi thriller titled 'CHRONOS': a lone astronaut facing a massive swirling time vortex in deep space, dramatic backlighting revealing the suit's silhouette, bold metallic title typography at the bottom, tagline 'Time waits for no one' in smaller text, photorealistic digital art, epic scale --ar 2:3",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "sd-018",
+    "title": "复古婚礼请柬",
+    "prompt": "典雅复古风格婚礼请柬：深森林绿底色覆以奶油色有纹理卡纸，金箔手写体印着'Together with their families'与新人名字'Emily & James'，橄榄枝装饰性植物边框，底部火漆印章细节，印刷级品质，浪漫而隽永",
+    "prompt_ori": "Elegant vintage-style wedding invitation: dark forest green base with textured cream paper overlay, gold foil script typography reading 'Together with their families' and couple names 'Emily & James', decorative botanical border with olive branches, wax seal detail at bottom, print-ready quality, romantic and timeless",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "sd-019",
+    "title": "迷幻音乐节海报",
+    "prompt": "'ETHEREAL BLOOM'夏季音乐节迷幻风海报：液态色彩与有机形态的超现实爆发，新艺术运动风格流动字体呈现节名，不同大小的表演者名字层叠其中，60年代演唱会海报美学与现代设计的碰撞，万花筒般的洋红、青蓝与金色配色 --ar 2:3",
+    "prompt_ori": "Vibrant psychedelic poster for 'ETHEREAL BLOOM' summer music festival: surreal explosion of liquid colors and organic shapes, flowing art nouveau typography for the festival name, performer names layered throughout in various sizes, 60s concert poster aesthetic meets modern design, kaleidoscopic color palette of magenta, teal, and gold --ar 2:3",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "sd-020",
+    "title": "极简艺术展海报",
+    "prompt": "极简主义艺术展海报：米白背景大面积留白，画面偏右位置一根黑色墨线描绘的人物侧脸轮廓，干净无衬线字体标注展览名'LINES & SILENCE'，下方是展期与画廊名称，精致的画廊级排版，内敛而高雅",
+    "prompt_ori": "Minimalist art exhibition poster: off-white background with generous whitespace, a single black ink line drawing of a human profile positioned slightly right of center, clean sans-serif typography with exhibition title 'LINES & SILENCE', dates and gallery name below, refined gallery-quality layout, sophisticated and understated",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "sd-021",
+    "title": "悬浮手机产品照",
+    "prompt": "现代智能手机以动感角度悬浮于深色渐变背景前，左上方单一光源的影棚布光在玻璃屏幕和金属边框上投射锐利的高光反射，微妙的蓝色辉光点缀，超精细产品纹理，商业级主视觉品质，4K",
+    "prompt_ori": "Modern smartphone floating at a dynamic angle against a clean dark gradient background, dramatic single-source studio lighting from upper left creating sharp specular highlights on the glass screen and metal frame, subtle blue accent glow, ultra-detailed product textures, commercial hero shot quality, 4K",
+    "category": "product",
+    "images": []
+  },
+  {
+    "id": "sd-022",
+    "title": "奢华香水瓶",
+    "prompt": "奢华玻璃香水瓶置于抛光黑曜石台面上，柔和的金色边缘逆光营造优雅的光晕效果，晶莹水珠在弧形瓶身上闪烁，琥珀色液体在瓶内折射光线，专业时尚编辑级产品摄影，浅景深柔美虚化背景，超高清画质",
+    "prompt_ori": "Luxury glass perfume bottle resting on polished dark obsidian surface, soft golden rim backlight creating an elegant halo effect, crystal-clear water droplets glistening on the curved glass, amber-colored liquid catching the light inside, professional editorial product photography, shallow bokeh background, ultra-high-definition",
+    "category": "product",
+    "images": []
+  },
+  {
+    "id": "sd-023",
+    "title": "无线耳机广告",
+    "prompt": "极简无线耳机连同哑光白色充电盒的主视角产品照，阳极氧化铝外壳配拉丝不锈钢装饰，微小水滴凝固在空中暗示防溅性能，柔和影棚光线勾勒清晰的边缘高光，哑光黑色台面的镜面倒影，产品目录级商业摄影，4K",
+    "prompt_ori": "Hero-angle product shot of minimal wireless earbuds in a matte white charging case, anodized aluminum finish with brushed steel accent, tiny water droplets frozen mid-air around the product suggesting splash resistance, soft studio lighting with crisp edge highlights, reflection on matte black surface, catalog-quality commercial photography, 4K",
+    "category": "product",
+    "images": []
+  },
+  {
+    "id": "sd-024",
+    "title": "护肤品平铺",
+    "prompt": "白色大理石上精心摆放的平铺场景：三瓶玻璃护肤品呈松散三角排列，瓶间穿插新鲜植物和干花，左侧窗户柔和的散射光，粉色与奶油色的柔和色调，俯拍居中构图，植物浅景深虚化、产品标签锐利对焦，4K产品摄影",
+    "prompt_ori": "Styled flat lay on white marble: three glass skincare bottles arranged in a loose triangle, fresh botanicals and dried flowers between bottles, soft diffused window light from the left, pastel pink and cream palette, overhead shot with centered composition, shallow depth of field on botanicals, sharp focus on product labels, 4K product photography",
+    "category": "product",
+    "images": []
+  },
+  {
+    "id": "sd-025",
+    "title": "热带水果水花",
+    "prompt": "鲜艳的热带水果在晶莹水花中爆裂飞溅的定格瞬间，芒果、草莓和猕猴桃在纯白影棚背景前悬浮于动态运动中，高速商业摄影，超锐利的细节捕捉每一颗水珠，清新活力的氛围",
+    "prompt_ori": "Vibrant tropical fruit arrangement frozen mid-explosion in a splash of crystal-clear water, vivid mangoes, strawberries, and kiwis suspended in dynamic motion against a clean white studio background, high-speed commercial photography, ultra-sharp detail capturing individual water droplets, fresh and energetic mood",
+    "category": "product",
+    "images": []
+  },
+  {
+    "id": "sd-026",
+    "title": "黄金时刻时装人像",
+    "prompt": "年轻女性身穿飘逸翡翠绿真丝长裙站在洒满阳光的野花草地上，温暖的夏日微风轻拂发丝，面部自然雀斑清晰可见，背景虚化为朦胧花丛光斑，时尚编辑级摄影配合柔和黄金时刻光线，85mm镜头f/1.8光圈，温暖电影色调",
+    "prompt_ori": "A young woman in a flowing emerald silk dress standing in a sunlit wildflower meadow, hair gently tossed by warm summer breeze, natural freckles visible, shallow bokeh background of blurred blossoms, editorial fashion photography with soft golden-hour lighting, 85mm lens at f/1.8, warm cinematic color grade",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "sd-027",
+    "title": "沧桑渔夫肖像",
+    "prompt": "年迈渔夫特写肖像，皮肤纹理深邃饱经风霜，一双穿透力极强的蓝眼睛，身穿磨损褪色的海风侵蚀羊毛外套，伦勃朗侧光映衬大西洋风暴海景，8K超写实皮肤纹理细节，纪实摄影风格，50mm镜头",
+    "prompt_ori": "Close-up portrait of an elderly fisherman with deeply weathered skin and piercing blue eyes, wearing a fraying sea-worn wool coat, dramatic Rembrandt side lighting against a stormy Atlantic seascape, ultra-realistic 8K skin texture detail, documentary photography style, 50mm lens",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "sd-028",
+    "title": "胶片低保真人像",
+    "prompt": "年轻女性坐在阳光公寓窗台上的肖像，柯达Portra 400胶片35mm拍摄，温暖金色调带微妙绿色暗部，可见胶片颗粒与左侧边缘淡淡漏光，黑色微微泛灰，复古50mm镜头，放松自然的抓拍表情，低保真怀旧情绪",
+    "prompt_ori": "Portrait of a young woman sitting on a windowsill in a sunlit apartment, shot on Kodak Portra 400 35mm film, warm golden tones with subtle green shadows, visible film grain and gentle light leaks on the left edge, slightly faded blacks, vintage 50mm lens, candid relaxed expression, lo-fi nostalgic mood",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "sd-029",
+    "title": "暮色中的雪豹",
+    "prompt": "雄伟的雪豹栖息于喜马拉雅悬崖边缘，暮色渐沉，深蓝天幕中繁星初现，毛发细节纤毫毕现，《国家地理》野生动物摄影风格，戏剧性自然光线，400mm长焦镜头，浅景深，8K",
+    "prompt_ori": "Majestic snow leopard perched on a Himalayan cliff edge at twilight, stars beginning to appear in the deep blue sky, fur detail with individual strands visible, National Geographic wildlife photography style, dramatic natural lighting, 400mm telephoto lens, shallow depth of field, 8K",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "sd-030",
+    "title": "非洲雄狮金色草原",
+    "prompt": "雄壮的非洲雄狮拥有一头深色鬃毛，行走在日落时分金色高草的热带草原上，温暖逆光在鬃毛四周勾勒出灿烂光晕，琥珀色双眼直视镜头，400mm长焦镜头，《国家地理》风格，浅景深，8K",
+    "prompt_ori": "Male African lion with a magnificent dark mane walking through tall golden savanna grass at sunset, warm backlight creating a glowing halo around his mane, amber eyes looking directly at camera, 400mm telephoto lens, National Geographic style, shallow depth of field, 8K",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "sd-031",
+    "title": "北欧冰湖极光",
+    "prompt": "严冬中的北欧冰封湖面，头顶绿色与紫色极光如绸带般舞动，湖岸两侧覆雪的云杉林，镜面般的冰面完美倒映夜空，长曝光摄影美学，空灵缥缈的光芒，8K星空摄影",
+    "prompt_ori": "A frozen Nordic lake at midwinter beneath dancing aurora borealis in ribbons of green and violet, snow-covered spruce forest lining the banks, mirror-like ice surface perfectly reflecting the night sky above, long-exposure photography aesthetic, ethereal light, 8K astrophotography",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "sd-032",
+    "title": "沙漠银河拱桥",
+    "prompt": "午夜时分银河拱桥横跨辽阔沙漠上空，砂岩奇岩怪石在满天繁星下化为剪影，前景一堆小篝火在红色沙地上投射温暖橙光，25秒长曝光美学效果，星空摄影，大景深，8K",
+    "prompt_ori": "The Milky Way galaxy arching over a vast desert landscape at midnight, sandstone rock formations silhouetted against a sky filled with millions of stars, a small campfire in the foreground casting warm orange light on red sand, 25-second exposure aesthetic, astrophotography, deep depth of field, 8K",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "sd-033",
+    "title": "和牛汉堡特写",
+    "prompt": "高级和牛汉堡极致特写，融化的陈年切达芝士沿侧面缓缓淌下，焦糖洋葱、新鲜芝麻菜、撒满芝麻的奶油面包，肉饼表面油光闪闪，45度侧光打光，深色暗调背景，浅景深，餐厅菜单级美食摄影，85mm微距",
+    "prompt_ori": "Extreme close-up of a gourmet wagyu beef burger with melted aged cheddar dripping down the side, caramelized onions, fresh arugula, brioche bun with sesame seeds, juice glistening on the patty surface, dramatic side lighting at 45 degrees, dark moody background, shallow depth of field, restaurant menu photography, 85mm macro",
+    "category": "food",
+    "images": []
+  },
+  {
+    "id": "sd-034",
+    "title": "蜂蜜缓流微距",
+    "prompt": "金色蜂蜜从木勺缓缓淌向烤制酸面包的极致微距，蜜丝在逆光中呈现琥珀色透明质感与缓慢粘稠的流动，细小气泡清晰可见，前景面包纹理锐利，背景厨房暖色柔和虚化，清晨窗光自然照明，4K，浅景深",
+    "prompt_ori": "Extreme macro of golden honey poured from a wooden dipper onto toasted sourdough, honey strand catches warm backlight showing amber transparency and slow viscous movement, tiny air bubbles visible, bread texture sharp in foreground, soft warm kitchen tones in background, natural morning window light, 4K, shallow depth of field",
+    "category": "food",
+    "images": []
+  },
+  {
+    "id": "sd-035",
+    "title": "主厨精选寿司拼盘",
+    "prompt": "深色板岩上主厨精选寿司拼盘俯拍：八贯握寿司精确排列成弧形——金枪鱼、三文鱼、黄尾鱼、海胆、扇贝、甜虾、和牛、鲑鱼子。寿司间点缀微型蔬菜和紫苏叶。右下方小陶瓷酱油碟。左上方柔和定向影棚光，锐利对焦，4K",
+    "prompt_ori": "Overhead flat lay of premium omakase sushi platter on dark slate: eight nigiri pieces in a precise arc — tuna, salmon, yellowtail, sea urchin, scallop, prawn, wagyu, ikura. Microgreens and shiso leaves between pieces. Small ceramic soy sauce dish at bottom right. Soft directional studio light from upper left, sharp focus, 4K",
+    "category": "food",
+    "images": []
+  },
+  {
+    "id": "sd-036",
+    "title": "拉花艺术",
+    "prompt": "咖啡师缓缓将牛奶注入手工陶瓷杯中拉出精致的拉花图案，细腻的蒸汽轻轻升腾，背景是温暖虚化的咖啡馆内景，电影感浅景深，柔和散射的清晨窗光，特写捕捉奶泡中正在成形的树叶拉花",
+    "prompt_ori": "A barista slowly pouring intricate latte art into a handcrafted ceramic mug, delicate steam rising softly, warm blurred cafe interior in the background, cinematic shallow depth of field, soft diffused morning window light, close-up of the rosetta pattern forming in the milk foam",
+    "category": "food",
+    "images": []
+  },
+  {
+    "id": "sd-037",
+    "title": "手工马卡龙塔",
+    "prompt": "粉彩马卡龙精致叠塔：薰衣草紫、薄荷绿与玫瑰粉色马卡龙优雅堆叠，每一枚都有完美光滑的外壳与精致褶裙，顶部点缀细碎金箔与可食用小花，深色暗调背景搭配单一暖色定向光，高级甜点摄影，100mm微距f/4光圈",
+    "prompt_ori": "Pastel macaron tower arrangement: lavender, mint green, and rose pink macarons stacked elegantly, each with perfectly smooth shells and ruffled feet, delicate gold leaf flakes on top, tiny edible flowers, dark moody background with single warm directional light, fine dining pastry photography, 100mm macro at f/4",
+    "category": "food",
+    "images": []
+  },
+  {
+    "id": "sd-038",
+    "title": "粗野主义混凝土图书馆",
+    "prompt": "粗野主义混凝土图书馆广角室内全景：裸露清水混凝土墙面刻有深邃几何藻井，两侧落地书架配有滑动黄铜梯子直达天花，长橡木阅读桌配黄铜台灯，午后阳光从巨大天窗倾泻投下对角线阴影，无人场景，照片级写实，8K",
+    "prompt_ori": "Wide-angle interior of a brutalist concrete library: raw exposed concrete walls with deep geometric coffers, floor-to-ceiling bookshelves on both sides accessible by rolling brass ladders, long oak reading tables with brass task lamps, late afternoon light from a massive skylight casting diagonal shadows, no people, photorealistic, 8K",
+    "category": "architecture",
+    "images": []
+  },
+  {
+    "id": "sd-039",
+    "title": "北欧风客厅",
+    "prompt": "现代北欧风客厅：鼠尾草绿丝绒沙发搭配亚麻靠枕，浅橡木硬木地板，墙上大幅大地色调抽象艺术画，极简置物架上垂坠的绿萝，午后暖阳透过亚麻薄纱窗帘洒入，奶油色羊毛地毯，利落线条与天然材质，室内设计杂志级摄影",
+    "prompt_ori": "Modern Scandinavian living room: plush sage-green velvet sofa with linen throw pillows, light oak hardwood floors, large abstract art print in earthy tones on the wall, trailing pothos plants on a minimalist shelf, warm afternoon sunlight through sheer linen curtains, wool rug in cream, clean lines and natural materials, interior design magazine photography",
+    "category": "architecture",
+    "images": []
+  },
+  {
+    "id": "sd-040",
+    "title": "雨夜东京街头",
+    "prompt": "午夜东京雨后街道，日文霓虹招牌在沥青路面的深水洼中映出斑斓倒影，一个孤身行人撑着透明伞穿行在光影之中，路面格栅蒸汽升腾，85mm镜头变形宽银幕散景效果，电影黑色氛围，超写实",
+    "prompt_ori": "Rain-soaked Tokyo street at midnight, neon signs in Japanese reflecting in deep puddles on the asphalt, a lone figure carrying a clear umbrella walking through the glowing scene, steam rising from grates, 85mm lens with anamorphic bokeh, cinematic noir atmosphere, ultra-realistic",
+    "category": "architecture",
+    "images": []
+  },
+  {
+    "id": "sd-041",
+    "title": "韦斯·安德森风格酒店大堂",
+    "prompt": "韦斯·安德森风格完美对称的酒店大堂：粉色墙面配华丽金色线脚，中央接待台前站着制服门童，构图两侧对称摆放复古扶手椅，薄荷绿与奶油色棋盘格地砖，正中一点透视，复古枝形吊灯的暖钨丝灯光，精致而充满童趣，35mm胶片",
+    "prompt_ori": "Perfectly symmetrical hotel lobby in Wes Anderson style: pastel pink walls with ornate gold molding, central reception desk staffed by a uniformed concierge, matching vintage armchairs flanking the composition, checkered mint-green and cream floor tiles, centered one-point perspective, warm tungsten lighting from vintage chandeliers, whimsical yet precise, 35mm film",
+    "category": "architecture",
+    "images": []
+  },
+  {
+    "id": "sd-042",
+    "title": "未来生态住宅",
+    "prompt": "未来感生态住宅外观，墙面整合垂直花园覆满茂盛绿植，太阳能屋顶与天然木质外墙无缝衔接，落地玻璃幕墙，前景无边际水镜倒影池，远处山脉背景，黄金时刻光线投射温暖的反射，可持续建筑概念渲染",
+    "prompt_ori": "Futuristic eco-house exterior with integrated vertical garden walls covered in lush greenery, solar panel roof seamlessly blending with natural wood cladding, floor-to-ceiling glass walls, infinity reflecting pool in foreground, mountain backdrop, golden hour lighting creating warm reflections, sustainable architectural concept render",
+    "category": "architecture",
+    "images": []
+  },
+  {
+    "id": "sd-043",
+    "title": "江南水乡破晓",
+    "prompt": "清晨的中国传统江南水乡：白墙黛瓦倒映在平静的运河水面，一叶小木船载着船夫缓缓滑过石拱桥下，晨雾弥漫杨柳依依，水墨画意境以照片级写实手法呈现，恬静安宁的构图，8K",
+    "prompt_ori": "Traditional Chinese watertown at dawn: white walls and dark tile roofs reflected in calm canal water, a wooden boat with a boatman glides under a stone bridge, morning mist and weeping willows, ink painting atmosphere rendered in photorealistic detail, serene composition, 8K",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "sd-044",
+    "title": "数字水墨龙",
+    "prompt": "传统中国水墨画的当代重构：一条由电路板与流动数据构成的巨龙穿行于发光粒子云雾中，古老的毛笔笔触与数字美学融为一体，在宣纸质感上仅用墨黑与电光蓝点缀的极简色调",
+    "prompt_ori": "Traditional Chinese ink wash painting reimagined: a dragon made of circuit boards and flowing data streams flying through clouds of luminous particles, ancient calligraphy brush strokes blending with digital aesthetics, limited palette of ink black and electric blue accents on rice paper texture",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "sd-045",
+    "title": "山水画意境",
+    "prompt": "传统中国山水水墨画：迷蒙山峦穿破云层以竹笔于宣纸上挥就，墨色浓淡变化从深黑主峰到远山淡灰，悬崖峭壁上一株孤松傲立，瀑布之上小桥处隐约一个文人身影，大面积留白化作云烟缥缈，宋代山水画风格",
+    "prompt_ori": "Traditional Chinese shan shui ink wash painting: misty mountains rising through clouds painted with bamboo brush on rice paper, varying ink density from deep black peaks to pale gray distant ranges, a lone pine tree clinging to a cliff, tiny scholar figure on a bridge over a waterfall, generous empty space representing mist, Song dynasty landscape style",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "sd-046",
+    "title": "双重曝光·狼与森林",
+    "prompt": "双重曝光摄影，将狼的肖像与茂密松林融合：狼的面部由树干、枝桠和雾气弥漫的树冠构成，双眼保持锐利的琥珀色穿透力，黑色背景，艺术摄影，高对比度，黑白基调仅双眼保留温暖琥珀色",
+    "prompt_ori": "Double exposure photograph merging a wolf portrait with a dense pine forest: the wolf's face composed of tree trunks, branches, and misty canopy, eyes remaining sharp and piercing amber, black background, fine art photography, high contrast, monochrome with selective warm amber tones on the eyes",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "sd-047",
+    "title": "流金抽象",
+    "prompt": "液态黄金与深邃宝石蓝交织旋转的流体抽象构图，高速摄影定格瞬间，金属光泽与深沉哑光质感的强烈对比，奢华艺术版画美学，动态运动凝固于时间之中",
+    "prompt_ori": "Fluid abstract composition of liquid gold and deep sapphire blue merging and swirling together, captured in high-speed photography, dramatic contrast between metallic shine and deep matte tones, luxury art print aesthetic, dynamic motion frozen in time",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "sd-048",
+    "title": "水彩牡丹植物画",
+    "prompt": "细腻的牡丹花水彩植物插画，以腮红粉与奶油白为主调带微妙紫色暗部，湿叠湿技法使色彩边缘自然晕染，可见纸张肌理，一片花瓣上挂着一颗晶莹露珠，笔触潇洒写意，茎叶以鼠尾草绿精细刻画，白色背景大面积留白",
+    "prompt_ori": "Delicate botanical watercolor illustration of a blooming peony flower, soft washes of blush pink and cream with subtle purple undertones, wet-on-wet technique with bleeding color edges, visible paper texture, a single dewdrop on one petal, loose expressive brushwork, fine stem and leaf details in sage green, white background with generous negative space",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "sd-049",
+    "title": "十九世纪植物学图鉴",
+    "prompt": "十九世纪科学植物学图鉴插画，一株热带开花植物展示完整根系，圆形局部放大图展示花朵横切面与种荚内部结构，在陈旧奶油色羊皮纸上以精细墨线描绘配合淡彩上色，手写拉丁文标注配精致引线，复古铜版画风格",
+    "prompt_ori": "19th-century scientific botanical illustration of a tropical flowering plant with fully exposed root system, circular inset diagrams showing flower cross-section and seed pod interior, fine ink linework with soft watercolor on aged cream parchment, handwritten Latin labels with delicate annotation lines, vintage engraving style",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "sd-050",
+    "title": "深海生物荧光森林",
+    "prompt": "生物荧光点缀的海底森林，半透明深海生物游弋其间，蓝紫色发光珊瑚塔向上延伸，远处海面的光线如梦幻光柱洒落深海，8K水下摄影风格，超凡脱俗的空灵氛围，深海的神秘感",
+    "prompt_ori": "Bioluminescent underwater forest with translucent deep-sea creatures, glowing blue and violet coral towers stretching upward, dreamy shafts of distant surface light filtering down, 8K underwater photography style, otherworldly and ethereal atmosphere, deep ocean mystery",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "sd-051",
+    "title": "天界女巫",
+    "prompt": "天界女巫悬浮于午夜崩塌的古代神殿废墟之上，周身环绕着星云般绚丽色彩的魔法能量旋涡，身后星空中双月高悬散发光辉，超写实数字绘画，电影级史诗构图，飘逸长袍与灵动光迹，8K",
+    "prompt_ori": "A celestial sorceress floating above crumbling ancient temple ruins at midnight, surrounded by swirling nebula-colored magical energy, twin moons glowing in a star-filled sky behind her, hyperrealistic digital painting, cinematic epic scale composition, flowing robes and ethereal light trails, 8K",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "sd-052",
+    "title": "彩色玻璃凤凰",
+    "prompt": "精美的彩色玻璃窗描绘一只展翅浴火重生的凤凰，宝石般的宝石红、宝蓝、翡翠绿与琥珀金的浓郁色调，粗黑色铅条分隔每块玻璃，背后透射的光线营造通透发光效果，哥特大教堂玫瑰窗的圆形构图",
+    "prompt_ori": "Intricate stained glass window depicting a majestic phoenix rising with spread wings, rich jewel tones of ruby red, sapphire blue, emerald green, and amber gold, thick black lead lines separating each glass section, light streaming through from behind creating luminous glow, Gothic cathedral rose window circular composition",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "sd-053",
+    "title": "折纸狐狸",
+    "prompt": "一只以折纸风格制作的端坐狐狸，棱角分明的纸面折痕线条利落精准，可见折痕与折叠阴影，橙白双色纸质纹理，置于极简白色台面上配柔和漫射影棚光，干净的几何美学，照片级纸质材质渲染",
+    "prompt_ori": "A sitting fox crafted in origami style with crisp precise paper folds and angular geometric surfaces, visible crease lines and fold shadows, orange and white paper textures, placed on minimalist white surface with soft diffused studio lighting, clean geometric aesthetic, photorealistic paper material rendering",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "sd-054",
+    "title": "液态玻璃UI界面",
+    "prompt": "未来感智能手机展示半透明液态玻璃UI界面，磨砂玻璃面板层叠，光线穿过透明层折射，表面泛起微妙彩虹焦散效果，深靛蓝渐变至暖珊瑚色的柔和背景，影棚光线在玻璃边缘勾勒高光，苹果风极简设计，照片级3D渲染",
+    "prompt_ori": "Futuristic smartphone displaying a translucent liquid glass UI with frosted glass panels, light refracting through transparent layers, subtle rainbow caustics on surface, soft gradient background from deep indigo to warm coral, studio lighting with specular highlights on glass edges, Apple-inspired minimal design, photorealistic 3D render",
+    "category": "ui",
+    "images": []
+  },
+  {
+    "id": "sd-055",
+    "title": "健身App界面",
+    "prompt": "三个手机屏幕展示健康健身App设计：仪表盘页面配环形进度指示器，训练详情页配运动动作插图，营养追踪页配彩色营养素柱状图。干净白色背景，现代圆角UI元素，鲜亮绿蓝强调色，统一设计体系，应用商店营销截图风格",
+    "prompt_ori": "Three smartphone screens showing a health and fitness app design: dashboard with circular progress rings, workout detail page with exercise illustrations, nutrition tracking with colorful macro bars. Clean white background, modern rounded UI elements, vibrant green and blue accent colors, consistent design system, app store marketing screenshot style",
+    "category": "ui",
+    "images": []
+  },
+  {
+    "id": "sd-056",
+    "title": "电商落地页",
+    "prompt": "现代电商网站落地页在悬浮笔记本电脑上的效果图展示：大幅产品图主视觉区，简洁导航栏，粗体标题排版，珊瑚色'Shop Now'行动号召按钮，下方统一卡片式产品网格，暖中性色调，专业网页设计，微微透视倾斜",
+    "prompt_ori": "Modern e-commerce website landing page mockup on a floating laptop: hero section with large product image, clean navigation bar, bold headline typography, 'Shop Now' call-to-action button in coral, product grid below with consistent card layout, warm neutral color palette, professional web design, slight perspective tilt",
+    "category": "ui",
+    "images": []
+  },
+  {
+    "id": "sd-057",
+    "title": "四格漫画",
+    "prompt": "简洁现代漫画风格四格漫画：第一格是程序员盯着代码沉思，第二格突然灵光乍现头顶亮起灯泡，第三格兴奋地飞速打字配速度线，第四格屏幕显示'Error: undefined'，人物表情沮丧额头冒汗。利落线条，表情丰富夸张，对话气泡配文字，角色设计前后一致",
+    "prompt_ori": "A 4-panel comic strip in clean modern manga style: Panel 1 shows a programmer staring at code, Panel 2 shows sudden realization with lightbulb effect, Panel 3 shows excited typing with speed lines, Panel 4 shows the screen displaying 'Error: undefined', dejected expression with sweat drop. Clean linework, expressive faces, speech bubbles with text, consistent character design",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "sd-058",
+    "title": "奇幻分镜故事板",
+    "prompt": "电影分镜故事板排版：2x3网格6个画面展示奇幻冒险序列——画面1：日落时分中世纪城堡全景，画面2：骑士拔剑特写，画面3：巨龙逼近的过肩视角，画面4：骑士飞身跃起的动态画面，画面5：震撼的龙息烈焰，画面6：胜利者的剪影。每格下方标注镜头角度，铅笔素描配灰色调明暗",
+    "prompt_ori": "Film storyboard layout: 6 panels in 2x3 grid showing a fantasy adventure sequence — Panel 1: wide shot of medieval castle at sunset, Panel 2: close-up of knight drawing sword, Panel 3: over-shoulder shot of dragon approaching, Panel 4: dynamic action of knight leaping, Panel 5: dramatic fire breath, Panel 6: triumphant silhouette. Camera angle annotations below each panel, pencil sketch style with gray tone shading",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "sd-059",
+    "title": "条漫浪漫场景",
+    "prompt": "韩国条漫风格浪漫场景：一对年轻情侣在樱花雨中共撑一把伞，柔和的粉白色调，干净的数字线稿配赛璐璐着色，星光闪烁效果，男生低头温柔微笑注视女生，飘落的花瓣构成梦幻画框，竖屏滚动式构图，少女漫画美学",
+    "prompt_ori": "Korean webtoon style romantic scene: a young couple sharing an umbrella in cherry blossom rain, soft pastel pink and white color palette, clean digital linework with cel shading, sparkling light effects, the boy looking down at the girl with a gentle smile, flowing petals creating a dreamy frame, vertical scroll format composition, shoujo manga aesthetic",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "sd-060",
+    "title": "复古像素游戏场景",
+    "prompt": "16位像素风横版卷轴游戏关卡：勇敢的骑士手持发光宝剑站在黑暗水晶洞穴入口，像素精确的精灵角色，NES风格深蓝、紫色与暖橙色火把光配色，洞壁上动画风格的火把，远处可见宝箱，顶部复古游戏HUD显示生命值爱心图标，SNES时代冒险游戏美学",
+    "prompt_ori": "16-bit pixel art side-scrolling game level: a brave knight with a glowing sword at the entrance of a dark crystal cave, pixel-perfect sprites, NES-inspired color palette of deep blues, purples and warm orange torchlight, animated-style torches on cave walls, treasure chest in the distance, retro game HUD with health hearts at the top, SNES-era adventure aesthetic",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "se-061",
+    "title": "未来感赛博头像",
+    "prompt": "赛博朋克黑客的精细肖像，霓虹发光的双眼，复杂的纹身纹样，五官棱角分明，暗色都市背景，高分辨率，写实风格",
+    "prompt_ori": "A highly detailed portrait of a cyberpunk hacker with glowing neon eyes, intricate tattoos, sharp features, in a dark urban background, high resolution, realistic style",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "se-062",
+    "title": "旅行推广图",
+    "prompt": "引人入胜的社交媒体旅行推广图，展示日落时分的热带海滩与棕榈树，文字叠加'Escape to Paradise'，色彩鲜艳，现代排版布局",
+    "prompt_ori": "Engaging social media graphic for a travel promotion, featuring a tropical beach at sunset, palm trees, text overlay 'Escape to Paradise', vibrant colors, modern layout",
+    "category": "social",
+    "images": []
+  },
+  {
+    "id": "se-063",
+    "title": "气候变化信息图",
+    "prompt": "一张关于气候变化的信息图，包含全球温度上升趋势图表、冰川消融图标，以绿色为主色调，排版清晰易读，科普教育风格",
+    "prompt_ori": "一个关于气候变化的信息图，包含温度上升图表、冰川融化图标、绿色主题，清晰排版，教育性强",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-064",
+    "title": "游戏视频封面",
+    "prompt": "动感十足的YouTube动作RPG游戏封面，勇士与巨龙激战，爆炸特效四溅，粗体文字'Epic Boss Fight'，高对比度",
+    "prompt_ori": "Dynamic YouTube thumbnail for a action RPG game, showing a warrior battling a dragon, explosive effects, bold text 'Epic Boss Fight', high contrast",
+    "category": "thumbnail",
+    "images": []
+  },
+  {
+    "id": "se-065",
+    "title": "复古太空海报",
+    "prompt": "复古风格太空冒险电影海报，宇航员站在外星球表面，怀旧字体，红蓝配色方案，构图戏剧性十足",
+    "prompt_ori": "Vintage-style poster for a space adventure movie, featuring astronauts on an alien planet, retro fonts, red and blue color scheme, dramatic composition",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-066",
+    "title": "高端手机展示",
+    "prompt": "高端智能手机的写实产品照，置于玻璃展台之上，屏幕显示内容细节丰富，柔和影棚布光，专业商业摄影风格",
+    "prompt_ori": "一个高端智能手机的现实主义产品照，放在玻璃台上，细节丰富的屏幕显示，柔和灯光，专业摄影风格",
+    "category": "product",
+    "images": []
+  },
+  {
+    "id": "se-067",
+    "title": "雪山晨曦风光",
+    "prompt": "壮美的雪山日出风光摄影，晨雾缭绕的山谷，澄澈湖面完美倒映山峰，广角镜头取景，自然光线",
+    "prompt_ori": "Stunning landscape photography of snow-capped mountains at dawn, misty valleys, crystal-clear lake reflection, wide-angle shot, natural lighting",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "se-068",
+    "title": "诱人披萨",
+    "prompt": "刚出炉的意大利辣香肠披萨写实图，芝士融化拉丝，热气升腾，木质砧板承托，纹理细节诱人",
+    "prompt_ori": "Realistic image of a freshly baked pepperoni pizza, melted cheese dripping, steam rising, wooden board setting, appetizing and detailed textures",
+    "category": "food",
+    "images": []
+  },
+  {
+    "id": "se-069",
+    "title": "现代建筑摄影",
+    "prompt": "一座玻璃幕墙现代高层建筑，城市天际线为背景，几何线条设计感十足，日落暖光照射，建筑摄影风格",
+    "prompt_ori": "一座玻璃幕墙的现代高层建筑，城市天际线背景，几何线条设计，日落照明，建筑摄影风格",
+    "category": "architecture",
+    "images": []
+  },
+  {
+    "id": "se-070",
+    "title": "蓝金抽象艺术",
+    "prompt": "蓝色与金色旋涡交织的抽象数字艺术，几何形体相互穿插，空灵梦幻的氛围，细节精致，现代美学",
+    "prompt_ori": "Abstract digital art with swirling patterns of blue and gold, geometric shapes intersecting, ethereal atmosphere, high detail, modern aesthetic",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "se-071",
+    "title": "超级英雄漫画",
+    "prompt": "超级英雄飞翔的动感漫画画面，披风随风飘扬，脚下城市全景，线条粗犷有力，色彩鲜明，充满动作张力",
+    "prompt_ori": "A dynamic comic book panel of a superhero in flight, cape flowing, cityscape below, bold lines, vibrant colors, action-packed style",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-072",
+    "title": "简约移动端UI",
+    "prompt": "一款移动应用的用户界面设计，简约风格，蓝色主题按钮与导航栏，图标清晰规整，响应式布局",
+    "prompt_ori": "一个移动应用的用户界面，简约风格，蓝色主题按钮和导航栏，图标清晰，响应式布局",
+    "category": "ui",
+    "images": []
+  },
+  {
+    "id": "se-073",
+    "title": "精灵射手头像",
+    "prompt": "精灵弓箭手精细头像，尖耳长发飘逸，神秘森林为背景，奇幻艺术风格，高分辨率",
+    "prompt_ori": "Detailed avatar of an elven archer with pointed ears, flowing hair, mystical forest background, fantasy art style, high resolution",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "se-074",
+    "title": "音乐节活动海报",
+    "prompt": "社交媒体音乐节活动海报，展示现场人群与舞台灯光效果，文字'Join the Fest'，充满活力的色彩",
+    "prompt_ori": "一个社交媒体活动海报，展示音乐节现场，人群和舞台灯效，文字 'Join the Fest', 活力色彩",
+    "category": "social",
+    "images": []
+  },
+  {
+    "id": "se-075",
+    "title": "健康饮食信息图",
+    "prompt": "关于健康饮食的信息图，包含食物金字塔图标、营养统计数据图表，以绿色为主色调，版式清晰易读",
+    "prompt_ori": "一个关于健康饮食的信息图，包含食物金字塔图标、统计数据图表，绿色调，易读设计",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-076",
+    "title": "恐怖电影封面",
+    "prompt": "恐怖片预告的悬疑视频封面，鬼屋中若隐若现的暗影人形，红色微光渲染，配文'Watch if You Dare'",
+    "prompt_ori": "Thrilling thumbnail for a horror movie trailer, featuring a shadowy figure in a haunted house, red glow, suspenseful text 'Watch if You Dare'",
+    "category": "thumbnail",
+    "images": []
+  },
+  {
+    "id": "se-077",
+    "title": "环保主题海报",
+    "prompt": "环保主题海报设计，展示地球与树木元素，标语'Save the Planet'，色彩对比强烈，视觉冲击力强",
+    "prompt_ori": "一个环保主题的海报，展示地球和树木元素， slogan 'Save the Planet', 强烈对比色",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-078",
+    "title": "奢华腕表产品照",
+    "prompt": "奢华金色腕表在丝绒展台上的写实产品照，精密细节毕现，影棚布光，典雅背景",
+    "prompt_ori": "Realistic product shot of a luxury gold watch on a velvet stand, intricate details, studio lighting, elegant background",
+    "category": "product",
+    "images": []
+  },
+  {
+    "id": "se-079",
+    "title": "城市夜景街拍",
+    "prompt": "繁华都市夜间街头摄影，霓虹灯光闪烁，行人穿梭，广角镜头，氛围感十足",
+    "prompt_ori": "Vibrant street photography of a bustling city at night, neon lights, people walking, wide-angle lens, atmospheric mood",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "se-080",
+    "title": "印象派花园",
+    "prompt": "印象派风格数字艺术，描绘花园中盛开的花朵，色调柔和笔触细腻，如梦似幻的意境",
+    "prompt_ori": "一幅印象派风格的数字艺术，描绘花园中的花朵，柔和色调和笔触，梦幻效果",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "se-081",
+    "title": "山顶少女头像",
+    "prompt": "山顶微笑的年轻女孩头像，日出为背景，发丝飘逸，眼神明亮，细节丰富，艺术风格",
+    "prompt_ori": "使用 seedream 模型生成一个在山顶上微笑的年轻女孩头像，背景是日出，头发飘逸，眼睛明亮，细节丰富，艺术风格",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "se-082",
+    "title": "守护自然海报",
+    "prompt": "环保主题海报，展示森林、河流与野生动物，文字'保护地球，从我做起'，色彩鲜艳，催人奋进",
+    "prompt_ori": "seedream 生成一个环保主题的海报，展示森林、河流和野生动物，文字：'保护地球，从我做起'，颜色鲜艳，激励人心",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-083",
+    "title": "智能手表展示",
+    "prompt": "高科技智能手表置于现代桌面，精致光影反射，蓝色点缀的未来感设计元素",
+    "prompt_ori": "A high-tech smartwatch on a modern desk, detailed reflections, seedream style, with blue accents and futuristic elements",
+    "category": "product",
+    "images": []
+  },
+  {
+    "id": "se-084",
+    "title": "雨中街头纪实",
+    "prompt": "城市雨中街头摄影，行人撑伞穿行，霓虹灯映入水洼倒影，黑白色调处理，纪实感强烈",
+    "prompt_ori": "seedream 生成一个城市街头摄影，雨中行人撑伞，霓虹灯反射在水坑中，黑白调色，真实感强",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "se-085",
+    "title": "多汁牛肉汉堡",
+    "prompt": "一个汁水丰盈的汉堡，搭配新鲜蔬菜与融化芝士，热气升腾，照片级写实质感，置于木质餐盘上",
+    "prompt_ori": "A juicy burger with fresh veggies and cheese, steam rising, photorealistic, seedream rendering, on a wooden plate",
+    "category": "food",
+    "images": []
+  },
+  {
+    "id": "se-086",
+    "title": "璀璨夜景高楼",
+    "prompt": "玻璃幕墙高层建筑夜景，灯光璀璨辉煌，周围是繁华城市景观，建筑细节精致",
+    "prompt_ori": "seedream 生成一座玻璃幕墙的高层建筑，夜景灯光璀璨，周围是城市景观，细节精致",
+    "category": "architecture",
+    "images": []
+  },
+  {
+    "id": "se-087",
+    "title": "旋涡抽象画",
+    "prompt": "色彩旋涡与几何形体交融的抽象画作，唤起情感共鸣与视觉纵深",
+    "prompt_ori": "An abstract painting with swirling colors and geometric shapes, seedream style, evoking emotion and depth",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "se-088",
+    "title": "英雄激战漫画",
+    "prompt": "超级英雄激战漫画场景，爆炸特效四射，动态动作线条，色彩饱满浓烈，叙事感十足",
+    "prompt_ori": "seedream 生成一个超级英雄战斗漫画，爆炸效果，动态动作，色彩饱和，故事感强",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-089",
+    "title": "极简移动端UI",
+    "prompt": "简洁的移动应用UI设计，包含导航栏、图标和按钮，极简现代风格",
+    "prompt_ori": "A clean mobile app UI design with navigation bars, icons, and buttons, seedream generated, minimalist and modern",
+    "category": "ui",
+    "images": []
+  },
+  {
+    "id": "se-090",
+    "title": "朋友聚会分享图",
+    "prompt": "社交媒体分享图，展示朋友聚会的欢乐氛围，搭配爱心和评论图标",
+    "prompt_ori": "seedream 生成一个社交媒体分享图，展示朋友聚会，快乐氛围，添加爱心和评论图标",
+    "category": "social",
+    "images": []
+  },
+  {
+    "id": "se-091",
+    "title": "气候数据图表",
+    "prompt": "关于气候变化数据的信息图，配有图表和图标，色彩丰富，清晰易懂",
+    "prompt_ori": "An infographic on climate change data, with charts and icons, seedream style, colorful and easy to understand",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-092",
+    "title": "游戏战斗缩略图",
+    "prompt": "游戏视频缩略图，展示角色激烈战斗场景与爆炸效果，吸引眼球",
+    "prompt_ori": "seedream 生成一个游戏视频缩略图，显示角色战斗场景，爆炸效果，吸引眼球",
+    "category": "thumbnail",
+    "images": []
+  },
+  {
+    "id": "se-093",
+    "title": "演唱会海报",
+    "prompt": "乐队演唱会海报，乐手与舞台灯光交相辉映，色彩鲜明，构图动感十足",
+    "prompt_ori": "A concert poster with band members and lights, seedream rendered, vibrant colors and dynamic composition",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-094",
+    "title": "高端手袋产品图",
+    "prompt": "高端手袋产品摄影，皮质纹理细腻逼真，布光精准打亮，简约干净的背景",
+    "prompt_ori": "seedream 生成一个高端手袋产品图，皮质纹理细腻，灯光打亮，背景简约",
+    "category": "product",
+    "images": []
+  },
+  {
+    "id": "se-095",
+    "title": "晨雾山湖风光",
+    "prompt": "宁静山湖晨曦风光摄影，薄雾缭绕，远处野生动物隐约可见",
+    "prompt_ori": "A serene landscape photography of a mountain lake at dawn, seedream style, with mist and wildlife",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "se-096",
+    "title": "宫保鸡丁美食",
+    "prompt": "热气腾腾的宫保鸡丁，搭配米饭与蔬菜，色泽诱人，质感真实",
+    "prompt_ori": "seedream 生成一个热气腾腾的宫保鸡丁，配上米饭和蔬菜，色彩诱人，真实口感",
+    "category": "food",
+    "images": []
+  },
+  {
+    "id": "se-097",
+    "title": "古寺黄昏",
+    "prompt": "古代寺庙建筑，雕刻纹饰精美繁复，沐浴在黄金时刻的暖光中",
+    "prompt_ori": "An ancient temple architecture with intricate carvings, seedream generated, under golden hour light",
+    "category": "architecture",
+    "images": []
+  },
+  {
+    "id": "se-098",
+    "title": "田园印象派油画",
+    "prompt": "印象派风格油画，描绘田园乡间风光，花朵与河流交织，色彩柔和温润",
+    "prompt_ori": "seedream 生成一幅印象派风格的油画，描绘田园风光，花朵和河流，色彩柔和",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "se-099",
+    "title": "冒险漫画连环画",
+    "prompt": "冒险故事连环画，英雄与反派对峙，画面戏剧性十足",
+    "prompt_ori": "A comic strip of an adventure story, with heroes and villains, seedream style, dramatic panels",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-100",
+    "title": "响应式网页UI",
+    "prompt": "响应式网页UI设计，包含按钮、下拉菜单和表单组件，现代扁平化设计风格",
+    "prompt_ori": "seedream 生成一个响应式网页UI，包含按钮、下拉菜单和表单，现代扁平化设计",
+    "category": "ui",
+    "images": []
+  },
+  {
+    "id": "se-101",
+    "title": "活力音乐海报",
+    "prompt": "动感音乐主题海报设计，粗体无衬线字体排版，抽象声波图案，红蓝鲜明配色，高对比度，4K分辨率",
+    "prompt_ori": "A dynamic poster design featuring bold typography with sans-serif fonts, centered on a musical theme with abstract wave patterns, vibrant colors like red and blue, high contrast, in the style of Seedream AI, 4K resolution.",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-102",
+    "title": "极简科技海报",
+    "prompt": "极简风格海报，纤细优雅的字体排版，展示电路板与全息投影等未来科技元素，蓝色单色方案，版面干净利落，超高清",
+    "prompt_ori": "A minimalist poster with elegant typography using thin fonts, showcasing futuristic tech elements like circuits and holograms, monochromatic blue scheme, clean layout, generated with Seedream model, ultra HD.",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-103",
+    "title": "抽象艺术海报",
+    "prompt": "抽象艺术海报设计，创意字体将几何形体与流动字母融为一体，灵感源自现代艺术运动，暖色调，细节丰富",
+    "prompt_ori": "An abstract poster design with creative typography blending geometric shapes and fluid letters, inspired by modern art movements, warm color palette, high detail, using Seedream AI for generation.",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-104",
+    "title": "绿色环保海报",
+    "prompt": "环保主题海报设计，衬线字体突出重点，融入叶片纹样与绿色渐变效果，构图均衡，1080p品质",
+    "prompt_ori": "A poster emphasizing typography with eco themes, using serif fonts for emphasis, incorporating leaf motifs and green gradients, balanced composition, rendered in Seedream style, 1080p quality.",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-105",
+    "title": "复古风格海报",
+    "prompt": "复古风格海报，粗体斜体等怀旧字体排版，融入1950年代汽车与餐厅元素，温暖的棕褐色调，纹理细节丰富",
+    "prompt_ori": "A retro-inspired poster with vintage typography, bold and italic fonts, featuring 1950s elements like cars and diners, warm sepia tones, detailed textures, via Seedream AI.",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-106",
+    "title": "企业品牌海报",
+    "prompt": "专业企业品牌海报，精致的定制字体排版，融合品牌标志与抽象背景，冷色调企业配色，高分辨率",
+    "prompt_ori": "A professional poster with sleek corporate typography, using custom fonts for branding, integrated with logo elements and abstract backgrounds, cool corporate colors, Seedream generated, high resolution.",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-107",
+    "title": "节日活动海报",
+    "prompt": "欢快的节日活动海报设计，手写体与方块字体混搭，配合缤纷插画围绕活动信息，充满活力与朝气",
+    "prompt_ori": "A festive poster design with playful typography, mixing script and block fonts, centered on event details with colorful illustrations, vibrant and energetic vibe, created with Seedream model.",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-108",
+    "title": "科幻创意海报",
+    "prompt": "创新科幻海报，未来感发光字体效果，太空行星与星辰主题，深色背景搭配霓虹色点缀，细节精致",
+    "prompt_ori": "An innovative sci-fi poster featuring futuristic typography with glowing effects, space themes with planets and stars, dark background with neon accents, detailed in Seedream AI style.",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-109",
+    "title": "大胆排版海报",
+    "prompt": "大胆排版的现代海报，粗体字体突出主题，融入抽象几何图案，黑白为主色调，版面清晰，高清效果",
+    "prompt_ori": "一个大胆排版的现代海报，使用粗体字体突出主题，融入抽象几何图案，颜色以黑白为主，清晰布局，高清效果，由 Seedream 模型生成。",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-110",
+    "title": "艺术风海报设计",
+    "prompt": "艺术风格海报，以优雅曲线字体为核心，结合花朵与线条等绘画元素，柔和色彩渐变，4K分辨率",
+    "prompt_ori": "一个艺术风格的海报， typography 以优雅曲线字体为主，结合绘画元素如花朵和线条，柔和色彩渐变，使用 Seedream AI 渲染，4K 分辨率。",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-111",
+    "title": "科技主题海报",
+    "prompt": "科技主题海报，未来感字体排版，数字矩阵与光线效果的背景，蓝绿色调，高对比度，高品质画面",
+    "prompt_ori": "一个科技主题的海报， typography 使用未来感字体，背景是数字矩阵和光线效果，蓝绿色调，高对比度，Seedream 生成的高质量图像。",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-112",
+    "title": "文化节海报",
+    "prompt": "文化节海报设计，传统与现代字体融合，配以民族图案与文字元素，暖色系，构图平衡和谐",
+    "prompt_ori": "一个文化节的海报设计， typography 融合传统和现代字体，包含民族图案和文字，温暖色系，平衡构图，运用 Seedream 模型创建。",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-113",
+    "title": "时尚品牌海报",
+    "prompt": "时尚品牌海报，精致字体排版为核心，搭配模特与服饰元素，高级灰色调，细节丰富",
+    "prompt_ori": "一个时尚品牌的海报， typography 以精致字体为主，搭配模型和服饰元素，高级灰色调，细节丰富，Seedream AI 输出。",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-114",
+    "title": "运动赛事海报",
+    "prompt": "运动赛事海报，动态字体呈现力量感，融入运动员与赛场画面，红白为主色调，高清画质",
+    "prompt_ori": "一个运动赛事的海报， typography 使用动态字体，融入运动员和赛场图像，红色和白色为主， Seedream 风格的高清版本。",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-115",
+    "title": "流体抽象海报",
+    "prompt": "创意抽象海报，扭曲变形的字体呈现独特视觉，流体艺术效果的背景，多彩渐变，细节精致",
+    "prompt_ori": "一个创意抽象的海报， typography 以扭曲变形字体呈现，背景是流体艺术效果，多彩渐变，Seedream 生成的精细细节。",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-116",
+    "title": "时尚手机商拍",
+    "prompt": "现代智能手机的高分辨率商业摄影，极简白色背景，戏剧性灯光突出产品特征，专业产品摄影风格",
+    "prompt_ori": "A high-resolution commercial photograph of a modern smartphone on a minimalist white background, with dramatic lighting highlighting its features, professional product photography style, seedream AI model.",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "se-117",
+    "title": "奢华腕表广告",
+    "prompt": "奢华金色腕表的专业产品照，深色丝绒台面，柔和影棚布光，高精度细节与光影反射，腕表商业广告风格",
+    "prompt_ori": "Professional product photo of a gold luxury watch on a dark velvet surface, soft studio lights, high detail and reflections, commercial advertising for watches, seedream model.",
+    "category": "product",
+    "images": []
+  },
+  {
+    "id": "se-118",
+    "title": "香水瓶花艺广告",
+    "prompt": "玻璃香水瓶搭配花卉元素的精致商业图片，窗边自然光线，色彩鲜明，对焦锐利",
+    "prompt_ori": "A polished commercial image of a glass perfume bottle with floral elements around it, natural daylight from a window, vibrant colors and sharp focus, seedream AI generated.",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "se-119",
+    "title": "化妆品陈列",
+    "prompt": "化妆刷与彩妆盘的高品质产品摄影，排列整齐有序，均匀布光展示质感，美妆商业风格",
+    "prompt_ori": "High-quality product photography of makeup brushes and palettes arranged neatly, even lighting to show textures, commercial style for beauty products, seedream model.",
+    "category": "product",
+    "images": []
+  },
+  {
+    "id": "se-120",
+    "title": "无线耳机特写",
+    "prompt": "无线耳机充电盒的精细商业特写，微距镜头捕捉精密细节，蓝色氛围光，专业摄影场景",
+    "prompt_ori": "Detailed commercial shot of wireless earbuds in a charging case, macro lens for intricate details, blue ambient lighting, professional setup, seedream AI.",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "se-121",
+    "title": "皮具手袋摄影",
+    "prompt": "时尚皮质手袋在木质展架上的商业摄影，温暖室内灯光，高对比度与层次感阴影",
+    "prompt_ori": "A stylish commercial photograph of leather handbags on a wooden shelf, warm indoor lighting, high contrast and shadows for depth, seedream generated image.",
+    "category": "product",
+    "images": []
+  },
+  {
+    "id": "se-122",
+    "title": "厨房电器广告",
+    "prompt": "料理机搭配新鲜水果的专业产品图，明亮厨房场景，逼真质感与光影反射，商业推广风格",
+    "prompt_ori": "Professional product image of a blender with fresh fruits around it, bright kitchen setting, realistic textures and reflections, commercial promotion, seedream model.",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "se-123",
+    "title": "钻石耳饰展示",
+    "prompt": "钻石耳环在黑色展台上的高端商业照，聚光灯照射，璀璨闪耀效果与精细细节",
+    "prompt_ori": "High-end commercial photo of diamond earrings on a black stand, spotlight illumination, sparkling effects and fine details, seedream AI style.",
+    "category": "product",
+    "images": []
+  },
+  {
+    "id": "se-124",
+    "title": "护肤精华液",
+    "prompt": "护肤精华液瓶身的简洁商业图片，晶莹水珠点缀，柔和漫射光线，透明玻璃质感，专业包装摄影",
+    "prompt_ori": "A clean commercial image of a skincare serum bottle with droplets, soft diffused light, transparent glass effects, professional packaging shot, seedream generated.",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "se-125",
+    "title": "笔记本电脑展示",
+    "prompt": "笔记本电脑搭配桌面配件的动感产品摄影，办公环境灯光，屏幕反射与锐利边缘，商业用途",
+    "prompt_ori": "Dynamic product photography of a laptop on a desk with accessories, office environment lighting, sharp edges and screen reflections, commercial use, seedream model.",
+    "category": "product",
+    "images": []
+  },
+  {
+    "id": "se-126",
+    "title": "花瓶家居装饰",
+    "prompt": "陶瓷花瓶插花的商业摄影，窗边自然光线，精致花纹与质感呈现，室内设计写实风格",
+    "prompt_ori": "Commercial photo of a ceramic vase with flowers, natural window light, intricate patterns and textures, high realism for interior design, seedream AI.",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "se-127",
+    "title": "健身器材广告",
+    "prompt": "哑铃与瑜伽垫在健身房中的专业产品照，激励感布光，汗水与材质纹理细节，健身商业推广",
+    "prompt_ori": "Professional image of dumbbells and a mat in a gym setting, motivational lighting, sweat and texture details, commercial fitness promotion, seedream generated.",
+    "category": "product",
+    "images": []
+  },
+  {
+    "id": "se-128",
+    "title": "汽水饮料商拍",
+    "prompt": "汽水罐身挂满凝结水珠的高清商业摄影，户外野餐背景，色彩鲜艳，气泡感十足",
+    "prompt_ori": "High-resolution commercial photograph of a soda can with condensation, outdoor picnic background, vibrant colors and bubbles, seedream model style.",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "se-129",
+    "title": "工具套装展示",
+    "prompt": "一套工具展开陈列的精细产品图，工作坊灯光，金属光泽与整齐排列，五金商业广告",
+    "prompt_ori": "A detailed product image of a toolkit spread out, workshop lighting, metallic shine and organization, commercial hardware advertising, seedream AI.",
+    "category": "product",
+    "images": []
+  },
+  {
+    "id": "se-130",
+    "title": "服装系列摄影",
+    "prompt": "人台上夹克外套的商业时装摄影，影棚闪光灯，面料纹理与褶皱细节，专业服装系列推广",
+    "prompt_ori": "Commercial fashion photography of a jacket on a mannequin, studio flash lights, fabric textures and folds, professional clothing line promotion, seedream generated.",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "se-131",
+    "title": "科技趋势封面",
+    "prompt": "高能量YouTube社交媒体视频封面，未来都市天际线，前景手机展示全息投影，红蓝大胆配色，文字叠加'Top Tech 2024'，赛博朋克风格，高清，16:9比例",
+    "prompt_ori": "A high-energy YouTube thumbnail for a social media video on emerging tech trends, featuring a futuristic cityscape, a smartphone in the foreground with holographic displays, bold red and blue color scheme, text overlay 'Top Tech 2024', in the style of cyberpunk art, high resolution, 16:9 aspect ratio",
+    "category": "thumbnail",
+    "images": []
+  },
+  {
+    "id": "se-132",
+    "title": "健身激励图",
+    "prompt": "YouTube社交媒体健身激励封面，展示一群人在健身房充满活力地训练，动感姿态，文字'Crush Your Goals'，橙绿色调，真实摄影风格，高清细节，16:9",
+    "prompt_ori": "YouTube thumbnail for social media fitness motivation, showing a diverse group of people working out in a gym, energetic poses, motivational text 'Crush Your Goals', vibrant orange and green tones, realistic photography style, high detail, 16:9",
+    "category": "social",
+    "images": []
+  },
+  {
+    "id": "se-133",
+    "title": "户外徒步信息图",
+    "prompt": "社交媒体YouTube旅行Vlog封面，山巅徒步者的壮阔风光，融入距离和海拔等信息图标，文字'Epic Hikes 2024'，插画风格，大地暖色调，高分辨率",
+    "prompt_ori": "Social media YouTube thumbnail for travel vlogs, depicting a mountain landscape with a hiker at the peak, integrated infographic elements like icons for distance and elevation, text 'Epic Hikes 2024', in a illustrative style, warm earthy colors, high resolution",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-134",
+    "title": "烹饪食谱封面",
+    "prompt": "YouTube社交媒体美食频道封面，新鲜食材烹制的意面特写，热气升腾，文字'Easy Pasta Recipes'，自然光线摄影风格，色泽诱人，16:9比例",
+    "prompt_ori": "YouTube thumbnail for social media cooking channel, featuring a close-up of a delicious pasta dish with fresh ingredients, steam rising, text 'Easy Pasta Recipes', photography style with natural lighting, appetizing colors, 16:9 aspect",
+    "category": "food",
+    "images": []
+  },
+  {
+    "id": "se-135",
+    "title": "商业增长海报",
+    "prompt": "专业YouTube社交媒体商业建议封面，上升曲线图表与团队协作场景，文字'Scale Your Business Now'，现代信息图设计，蓝灰配色，简洁风格",
+    "prompt_ori": "A professional YouTube thumbnail for social media business tips, showing upward graphs and a team collaborating, text 'Scale Your Business Now', modern infographic design, blue and gray palette, clean and minimalistic style",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-136",
+    "title": "时尚穿搭缩略图",
+    "prompt": "YouTube社交媒体时尚视频缩略图，年轻模特身穿潮流街头服饰，都市街道背景，文字叠加'2024 潮流穿搭'，摄影风格，高清细节，16:9比例",
+    "prompt_ori": "YouTube 缩略图用于社交媒体时尚视频，展示一个年轻模特穿着流行街头服饰，背景是都市街道，文字叠加'2024 潮流穿搭'，摄影风格，高清细节，16:9 比例",
+    "category": "social",
+    "images": []
+  },
+  {
+    "id": "se-137",
+    "title": "游戏主播头像",
+    "prompt": "动感YouTube社交媒体游戏直播封面，动漫风战士角色激战画面，爆炸特效，文字'Ultimate Gaming Tips'，漫画风格鲜明色彩，充满活力",
+    "prompt_ori": "Dynamic YouTube thumbnail for social media gaming streams, featuring an animated avatar of a warrior in battle, explosive effects, text 'Ultimate Gaming Tips', comic book style with vibrant colors, high energy",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "se-138",
+    "title": "环保宣传海报",
+    "prompt": "社交媒体YouTube环保主题缩略图，展示森林与野生动物，融入碳足迹等信息图标，文字'拯救地球行动'，艺术风格，绿色调为主，高清",
+    "prompt_ori": "社交媒体 YouTube 缩略图关于环境保护，显示森林和野生动物，融入信息图表如碳足迹图标，文字'拯救地球行动'，艺术风格，绿色调为主，高清分辨率",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-139",
+    "title": "音乐节现场封面",
+    "prompt": "YouTube社交媒体音乐活动推广封面，演唱会人群与舞台灯光，中央DJ身影，文字'Live Music Fest 2024'，霓虹鲜艳色彩，运动模糊摄影效果，16:9",
+    "prompt_ori": "YouTube thumbnail for social media music event promo, showing a crowd at a concert with stage lights, DJ in center, text 'Live Music Fest 2024', vibrant neon colors, photography with motion blur, 16:9",
+    "category": "thumbnail",
+    "images": []
+  },
+  {
+    "id": "se-140",
+    "title": "健康餐食插图",
+    "prompt": "YouTube社交媒体健康饮食视频缩略图，展示各类新鲜蔬果与沙拉，艺术插画风格，文字'每日健康餐单'，明亮色彩，细节精美",
+    "prompt_ori": "YouTube 缩略图用于社交媒体健康饮食视频，展示各种新鲜蔬果和沙拉，艺术风格插画，文字'每日健康餐单'，明亮色彩，高细节",
+    "category": "food",
+    "images": []
+  },
+  {
+    "id": "se-141",
+    "title": "创业灵感信息图",
+    "prompt": "社交媒体YouTube创业点子缩略图，灯泡与图表图标，文字'Innovate in 2024'，信息图排版，简洁矢量风格，专业蓝色调",
+    "prompt_ori": "Social media YouTube thumbnail for startup ideas, with icons of lightbulbs and charts, text 'Innovate in 2024', infographic layout, clean vector style, professional blue tones",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-142",
+    "title": "旅行摄影海报",
+    "prompt": "YouTube社交媒体旅行摄影缩略图，海滩日出场景中摄影师在拍摄，文字'完美旅行照'，真实摄影风格，温暖色调，高分辨率",
+    "prompt_ori": "YouTube 缩略图用于社交媒体旅行摄影，展示海滩日出场景，摄影师在拍摄，文字'完美旅行照'，真实摄影风格，温暖色调，高分辨率",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "se-143",
+    "title": "笔记本电脑评测",
+    "prompt": "精致YouTube社交媒体科技评测封面，新款笔记本配参数叠加，文字'Best Laptops 2024'，现代产品设计风格，银灰配色，细节丰富",
+    "prompt_ori": "A sleek YouTube thumbnail for social media tech reviews, featuring a new laptop with specs overlay, text 'Best Laptops 2024', modern product design style, silver and black colors, high detail",
+    "category": "product",
+    "images": []
+  },
+  {
+    "id": "se-144",
+    "title": "励志人物头像",
+    "prompt": "社交媒体YouTube励志人物头像缩略图，背景是象征成功之路的抽象图案，文字'追梦之路'，艺术风格，激励色调",
+    "prompt_ori": "社交媒体 YouTube 缩略图展示励志人物头像，背景是抽象的成功路径，文字'追梦之路'，艺术风格，激励色调",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "se-145",
+    "title": "喜剧短片封面",
+    "prompt": "趣味YouTube社交媒体喜剧短片封面，两个角色摆出搞笑姿势，文字'Funny Skits 2024'，漫画风格夸张特征，明快欢乐的色彩，16:9",
+    "prompt_ori": "Fun YouTube thumbnail for social media comedy sketches, showing two characters in humorous poses, text 'Funny Skits 2024', comic style with exaggerated features, bright and playful colors, 16:9",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-146",
+    "title": "全球教育发展时间线",
+    "prompt": "全面的信息图，可视化1900年到2023年全球教育体系演变，包含关键里程碑、入学率与识字率统计，以清晰线条、鲜明色彩和图标呈现，便于理解",
+    "prompt_ori": "A comprehensive infographic visualizing the evolution of global education systems from 1900 to 2023, including key milestones, enrollment rates, and literacy statistics, using clean lines, vibrant colors, and icons for easy understanding.",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-147",
+    "title": "气候变化教育",
+    "prompt": "气候变化教育主题信息图，数据可视化呈现二氧化碳浓度、温度上升与全球教育举措，配合饼图、柱状图和地图，专业风格",
+    "prompt_ori": "Infographic on climate change education, showing data visualization of CO2 levels, temperature rises, and educational initiatives worldwide, with pie charts, bar graphs, and maps in a professional style.",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-148",
+    "title": "STEM教育统计",
+    "prompt": "STEM教育参与率详细信息图，按性别和地区分类统计，配有交互式风格图表、图标和流程图，教育科普用途",
+    "prompt_ori": "Detailed infographic displaying statistics on STEM education participation by gender and region, featuring interactive-style graphs, icons, and flowcharts for educational purposes.",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-149",
+    "title": "全球识字率分布",
+    "prompt": "引人入胜的信息图，可视化各大洲全球识字率，包含历史数据趋势、柱状图和世界地图，面向教育推广设计",
+    "prompt_ori": "An engaging infographic visualizing global literacy rates across continents, including historical data trends, bar charts, and world maps, designed for educational outreach.",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-150",
+    "title": "在线教育增长",
+    "prompt": "信息图展示2010年至2023年在线教育增长趋势，折线图呈现用户数量，饼图展示平台份额，配有关键技术图标",
+    "prompt_ori": "Infographic illustrating the growth of online education from 2010 to 2023, with line graphs showing user numbers, pie charts for platform shares, and icons representing key technologies.",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-151",
+    "title": "教育预算分析",
+    "prompt": "以饼图和柱状图可视化各主要国家的教育预算分配，标注小学、中学和高等教育的占比，清晰现代的设计风格",
+    "prompt_ori": "Visualize education budget allocations in major countries using pie charts and bar graphs, highlighting percentages for primary, secondary, and higher education in a clear, modern design.",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-152",
+    "title": "疫情对教育的影响",
+    "prompt": "COVID-19对教育影响的信息图，数据可视化呈现学校停课情况、远程教学普及率和学生成绩指标，配有时间线和图表",
+    "prompt_ori": "Infographic on the impact of COVID-19 on education, featuring data visualization of school closures, remote learning adoption, and student performance metrics with timelines and charts.",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-153",
+    "title": "AI教育概览",
+    "prompt": "数据驱动型信息图，探讨AI在教育中的角色，包含采用率、优势和挑战的统计数据，运用流程图和信息图元素",
+    "prompt_ori": "A data-driven infographic exploring the role of AI in education, including statistics on adoption rates, benefits, and challenges, using flowcharts and infographics elements.",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-154",
+    "title": "青年失业率数据",
+    "prompt": "信息图可视化与教育水平相关的青年失业率，配有地图、图表和关键洞察，面向教育政策制定者",
+    "prompt_ori": "Infographic visualizing youth unemployment rates linked to education levels, with maps, graphs, and key insights for educational policy makers.",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-155",
+    "title": "可持续教育实践",
+    "prompt": "学校可持续实践的教育信息图，展示节能数据、回收利用率和环境教育项目，配有说明性图表",
+    "prompt_ori": "Educational infographic on sustainable practices in schools, showing data on energy savings, recycling rates, and environmental education programs with illustrative charts.",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-156",
+    "title": "教育数据可视化图表",
+    "prompt": "全球教育发展信息图，展示2000年至2023年的入学率和识字率数据，运用条形图、饼图和时间线，设计简洁明了",
+    "prompt_ori": "一个关于全球教育发展的信息图，展示从2000年到2023年的入学率和识字率数据，使用条形图、饼图和时间线，设计简洁明了。",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-157",
+    "title": "STEM教育统计分析",
+    "prompt": "STEM教育全球统计信息图，涵盖性别差异和区域分布，以彩色图表和图标呈现，适合教育宣传",
+    "prompt_ori": "信息图展示STEM教育的全球统计，包括性别差异和区域分布，使用彩色图表和图标，适合教育宣传。",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-158",
+    "title": "在线教育趋势图",
+    "prompt": "在线教育发展趋势可视化，2015年至2023年用户增长与平台数据，运用折线图和流程图呈现",
+    "prompt_ori": "可视化在线教育的发展趋势，从2015年到2023年的用户增长和平台数据，使用折线图和流程图。",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-159",
+    "title": "气候教育数据图",
+    "prompt": "气候变化教育数据信息图，涵盖温室气体排放与教育项目成效，配有地图和柱状图",
+    "prompt_ori": "信息图解释气候变化教育的数据，包括温室气体排放和教育项目效果，使用地图和柱状图。",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-160",
+    "title": "疫情下教育影响",
+    "prompt": "疫情对教育影响的信息图，包含在线学习数据和学生表现统计，以时间线和饼图设计呈现",
+    "prompt_ori": "信息图展示疫情对教育的影响，包括在线学习数据和学生表现统计，使用时间线和饼图设计。",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-161",
+    "title": "社交App深色UI",
+    "prompt": "时尚的社交媒体平台移动端UI设计，深色模式，自定义图标，交互元素与流畅导航体验",
+    "prompt_ori": "A sleek mobile app UI for a social media platform, featuring dark mode, custom icons, interactive elements, and seamless navigation, generated with the seedream model.",
+    "category": "ui",
+    "images": []
+  },
+  {
+    "id": "se-162",
+    "title": "电商网页原型",
+    "prompt": "电商网站响应式网页原型设计，包含产品列表、购物车、支付页面和用户评价区域，高清细节",
+    "prompt_ori": "设计一个电商网站的响应式网页 mockup，包括产品列表、购物车、支付页面和用户评论区，使用 seedream 模型生成的高清细节。",
+    "category": "ui",
+    "images": []
+  },
+  {
+    "id": "se-163",
+    "title": "健身App高保真线框",
+    "prompt": "健身追踪App高保真线框图，包含实时运动数据、进度图表和游戏化激励功能",
+    "prompt_ori": "High-fidelity wireframe for a fitness tracking app, with real-time workout stats, progress charts, and gamification features, created using the seedream AI model.",
+    "category": "ui",
+    "images": []
+  },
+  {
+    "id": "se-164",
+    "title": "新闻App界面设计",
+    "prompt": "新闻应用移动端UI设计，包含滑动新闻流、个性化推荐、搜索功能和视频播放器，高品质生成",
+    "prompt_ori": "一个新闻应用的移动 UI 设计，包含滑动新闻 feed、个性化推荐、搜索功能和视频播放器，采用 seedream 模型的高质量生成。",
+    "category": "ui",
+    "images": []
+  },
+  {
+    "id": "se-165",
+    "title": "作品集网页原型",
+    "prompt": "专业作品集网站响应式网页设计原型，包含动态画廊、联系表单和个人简介区域",
+    "prompt_ori": "Responsive web design mockup for a professional portfolio site, including dynamic galleries, contact forms, and bio sections, styled with the seedream model.",
+    "category": "ui",
+    "images": []
+  },
+  {
+    "id": "se-166",
+    "title": "银行App移动端UI",
+    "prompt": "银行应用移动端UI设计，注重指纹登录等安全功能、转账界面和账户概览，现代交互设计风格",
+    "prompt_ori": "设计一个银行应用的移动 UI，强调安全功能如指纹登录、转账界面和账户概览，使用 seedream 模型创建的现代交互设计。",
+    "category": "ui",
+    "images": []
+  },
+  {
+    "id": "se-167",
+    "title": "项目管理仪表盘",
+    "prompt": "项目管理工具的极简仪表盘UI，包含交互式图表、任务列表、日历和通知功能",
+    "prompt_ori": "Minimalist dashboard UI for a project management tool, featuring interactive charts, task lists, calendars, and notifications, generated via the seedream AI.",
+    "category": "ui",
+    "images": []
+  },
+  {
+    "id": "se-168",
+    "title": "在线教育平台设计",
+    "prompt": "教育平台网页设计原型，包含在线课程视频、测验模块、用户进度跟踪和互动论坛，细节精致",
+    "prompt_ori": "一个教育平台的网页设计 mockup，包含在线课程视频、测验模块、用户进度跟踪和互动论坛，使用 seedream 模型的详细渲染。",
+    "category": "ui",
+    "images": []
+  },
+  {
+    "id": "se-169",
+    "title": "旅行预订App UI",
+    "prompt": "旅行预订系统交互式App界面，包含地图、航班筛选、酒店搜索和预订确认功能",
+    "prompt_ori": "Interactive app UI for a travel booking system, with maps, flight filters, hotel searches, and booking confirmations, produced using the seedream model.",
+    "category": "ui",
+    "images": []
+  },
+  {
+    "id": "se-170",
+    "title": "音乐流媒体UI",
+    "prompt": "音乐流媒体应用界面设计，包含播放列表、搜索功能、推荐算法可视化和音频波形显示，高清输出",
+    "prompt_ori": "设计一个音乐流媒体应用的界面，包含播放列表、搜索功能、推荐算法可视化和音频波形显示，使用 seedream 模型的高清输出。",
+    "category": "ui",
+    "images": []
+  },
+  {
+    "id": "se-171",
+    "title": "银发动漫战士",
+    "prompt": "高度精细的动漫风格男性战士肖像，银色长发，深红色锐利双眼，身披古代铠甲，戏剧性灯光，高分辨率",
+    "prompt_ori": "A highly detailed anime-style portrait of a male warrior with silver hair, intense red eyes, wearing ancient armor, dramatic lighting, high resolution, seedream model specific.",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "se-172",
+    "title": "可爱动漫少女",
+    "prompt": "可爱动漫少女头部特写，双马尾造型，湛蓝大眼，微红脸颊，身穿校服，柔和粉彩背景，细节精致",
+    "prompt_ori": "Headshot of a cute anime girl with twin tails, big blue eyes, blushing cheeks, in a school uniform, soft pastel background, intricate details, generated with seedream.",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "se-173",
+    "title": "神秘兜帽动漫头像",
+    "prompt": "神秘兜帽人物的动漫风头像，双眼散发幽光，置身迷雾森林，超凡空灵的氛围，高对比度",
+    "prompt_ori": "Anime style avatar of a mysterious hooded figure with glowing eyes, standing in a foggy forest, ethereal atmosphere, high contrast, seedream optimized.",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "se-174",
+    "title": "持剑动漫女英雄",
+    "prompt": "动漫女英雄肖像，长发飘逸，手握发光宝剑，史诗级动态姿态，色彩与光影鲜明",
+    "prompt_ori": "Portrait of an anime heroine with long flowing hair, wielding a glowing sword, epic dynamic pose, vibrant colors and shadows, using seedream for best results.",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "se-175",
+    "title": "刺猬头动漫少年",
+    "prompt": "动漫少年头部特写，黑色刺猬头造型，坚定的眼神，佩戴高科技耳机，未来感背景",
+    "prompt_ori": "Detailed headshot of an anime boy with spiky black hair, determined expression, wearing a high-tech headset, futuristic background, seedream generation.",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "se-176",
+    "title": "精灵动漫头像",
+    "prompt": "精灵角色动漫头像，尖耳翡翠绿瞳，周身魔法光环萦绕，发光粒子飘浮",
+    "prompt_ori": "Anime avatar featuring an elf character with pointed ears, emerald green eyes, magical aura, surrounded by glowing particles, seedream style.",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "se-177",
+    "title": "超英动漫漫画",
+    "prompt": "超级英雄战斗中的漫画风动漫肖像，动态角度，粗犷线条与鲜明色彩，爆炸性背景",
+    "prompt_ori": "Comic book style anime portrait of a superhero in mid-action, dynamic angles, bold lines and colors, explosive background, optimized for seedream.",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-178",
+    "title": "和服动漫淑女",
+    "prompt": "身着传统和服的优雅动漫女性肖像，神态恬静从容，背景樱花烂漫，柔和灯光",
+    "prompt_ori": "Elegant anime style portrait of a lady in a traditional kimono, serene expression, cherry blossoms in the background, soft lighting, seedream render.",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "se-179",
+    "title": "反派动漫头像",
+    "prompt": "动漫反派角色头部特写，面部刀疤，阴险的笑容，暗色调与红色光影，细节逼真",
+    "prompt_ori": "Headshot of an anime villain with facial scars, menacing smile, dark shadows and red hues, intense details, generated via seedream.",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "se-180",
+    "title": "动漫冒险团",
+    "prompt": "四人冒险小队动漫风格合影，表情各异服饰精致，色彩明快的户外场景",
+    "prompt_ori": "Group portrait in anime style of four friends on an adventure, various expressions and detailed clothing, vibrant outdoor setting, seedream high-quality.",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "se-181",
+    "title": "猫耳动漫女孩头像",
+    "prompt": "动漫风格头像，微笑的粉色头发女孩戴着猫耳，星空为背景，细节丰富",
+    "prompt_ori": "一个动漫风格的头像，展示一位微笑的女孩，粉红色头发，戴着猫耳，背景是星空，细节丰富，使用 seedream 模型生成。",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "se-182",
+    "title": "热血动漫英雄",
+    "prompt": "高清动漫风格英雄肖像，肌肉健硕手持武器，火焰背景，动态姿态",
+    "prompt_ori": "高清动漫风格的英雄肖像，肌肉发达，拿着武器，火焰背景，动态姿态，seedream 优化效果。",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "se-183",
+    "title": "面具动漫角色",
+    "prompt": "神秘动漫头像，一个戴面具的角色，双眼散发诡异光芒，暗色氛围，纹理精细",
+    "prompt_ori": "神秘的动漫头像，一个戴面具的角色，眼睛发光，黑暗氛围，精细纹理，seedream 生成。",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "se-184",
+    "title": "金发动漫少女",
+    "prompt": "可爱动漫少女头像，碧蓝眼眸金色秀发，身穿精致礼服，柔和光影渲染",
+    "prompt_ori": "可爱动漫少女头像，蓝眼睛，金色头发，穿礼服，柔和光影，seedream 风格渲染。",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "se-185",
+    "title": "武士激战漫画",
+    "prompt": "动态动漫武士战斗场景，剑光闪耀，爆炸效果背景，高对比度",
+    "prompt_ori": "动态动漫艺术，一个武士在战斗，剑光效果，爆炸背景，高对比度，seedream 模型使用。",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-186",
+    "title": "武忍大战漫画",
+    "prompt": "动感漫画风格故事板，武士与忍者在云雾山村展开激战，夸张的表情与速度线，戏剧性分格排版，细节丰富，色彩鲜明",
+    "prompt_ori": "A dynamic manga-style storyboard featuring an intense battle between samurais and ninjas in a misty mountain village, with exaggerated expressions, speed lines, and dramatic panel layouts, high detail, vibrant colors, seedream style.",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-187",
+    "title": "樱花初吻条漫",
+    "prompt": "条漫风格画面，一对情侣在夜晚樱花树下初吻，柔和粉彩色调，情感特写，飘落花瓣的精致背景，浪漫氛围",
+    "prompt_ori": "A webtoon-style panel of a couple sharing a first kiss under cherry blossoms at night, soft pastel colors, emotional close-ups, detailed backgrounds with falling petals, romantic atmosphere, seedream AI generation.",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-188",
+    "title": "暗巷悬疑分镜",
+    "prompt": "漫画悬疑系列分镜，午夜暗巷中侦探调查的场景，阴影笼罩，雨水效果，紧张的镜头角度，高对比度布光，精密细节",
+    "prompt_ori": "A storyboard for a manga mystery series, showing a detective investigating a dark alley at midnight, with shadows, rain effects, suspenseful angles, high contrast lighting, intricate details, seedream model.",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-189",
+    "title": "奇幻召龙漫画",
+    "prompt": "一组漫画分格，描绘巫师在古老森林中召唤巨龙，魔法光效四溢，史诗级场面，角色设计精细，奇幻元素丰富",
+    "prompt_ori": "A sequence of manga panels depicting a wizard summoning dragons in an ancient forest, magical effects, epic scale, detailed character designs, vibrant fantasy elements, seedream style rendering.",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-190",
+    "title": "科幻太空条漫",
+    "prompt": "科幻条漫排版，宇航员探索外星球，奇异生物与高科技装备，动感分格，霓虹色彩，高科技细节",
+    "prompt_ori": "Webtoon layout of a futuristic sci-fi story, astronauts exploring an alien planet with strange creatures and advanced technology, dynamic panels, neon colors, high-tech details, seedream AI prompt.",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-191",
+    "title": "都市怪兽大战",
+    "prompt": "超级英雄在都市中对抗怪兽的漫画故事板，爆炸效果、动态动作和英雄变身场景，高度精细描绘",
+    "prompt_ori": "一个关于超级英雄在都市中对抗怪兽的漫画故事板，包含爆炸效果、动态动作和英雄变身场景，高细节描绘，seedream 风格。",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-192",
+    "title": "鬼宅恐怖漫画",
+    "prompt": "一系列恐怖漫画分格，幽灵出没于古老宅邸，诡异灯光，扭曲人形，层层递进的悬念，阴影与纹理精细",
+    "prompt_ori": "A series of horror manga panels with a ghost haunting an old mansion, eerie lighting, distorted figures, building suspense, detailed shadows and textures, seedream generation.",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-193",
+    "title": "失落神殿探险",
+    "prompt": "条漫风格冒险故事，探险者发现失落神殿，机关陷阱、古代文物与野生动物，色彩鲜明，动作场面紧凑",
+    "prompt_ori": "Webtoon-style adventure story of explorers finding a lost temple, with traps, ancient artifacts, and wildlife, vibrant colors, action-packed panels, seedream AI art.",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-194",
+    "title": "雨中邂逅条漫",
+    "prompt": "网络漫画浪漫剧情，女主角在雨中与男主角偶遇，温柔的神情、雨滴效果和街景细节",
+    "prompt_ori": "一个网络漫画中的浪漫剧情，女主角在雨中遇见男主角，温柔表情、雨滴效果和街景细节，seedream 模型生成。",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-195",
+    "title": "超英城市决战",
+    "prompt": "超级英雄在城市中与反派激战的漫画分镜，能量冲击波、戏剧性动作姿态、都市破坏场景，动作细节丰富",
+    "prompt_ori": "Manga storyboard of a superhero battling villains in a cityscape, with energy blasts, dramatic poses, and urban destruction, high action details, seedream style.",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-196",
+    "title": "奇幻魔法世界",
+    "prompt": "魔幻奇幻世界的精细漫画画面，精灵与骑士穿行于魔法森林，设计精美，神秘灵光环绕",
+    "prompt_ori": "A detailed comic panel set in a magical fantasy world, elves and knights in a enchanted forest, intricate designs, mystical auras, seedream AI prompt.",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-197",
+    "title": "太空站科幻漫画",
+    "prompt": "科幻漫画故事板，宇航员在太空站与外星生物遭遇，未来主义元素与高科技细节",
+    "prompt_ori": "一个科幻漫画故事板，展示宇航员在太空站与外星生物的遭遇，未来主义元素、高科技细节，seedream 风格。",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-198",
+    "title": "霓虹都市追逐",
+    "prompt": "条漫飞车追逐画面，穿越霓虹都市的汽车与摩托，动态运动模糊，紧张的角色表情",
+    "prompt_ori": "Webtoon panel of a high-speed chase through a neon city, cars and motorcycles, dynamic motion blur, intense expressions, seedream generation.",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-199",
+    "title": "迷雾侦探漫画",
+    "prompt": "漫画风侦探故事板，雾气弥漫的街头遍布线索与嫌疑人，黑色电影美学，锐利阴影，侦查细节丰富",
+    "prompt_ori": "A manga-style detective story board with clues and suspects in a foggy street, noir aesthetics, sharp shadows, investigative details, seedream AI.",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-200",
+    "title": "都市日常条漫",
+    "prompt": "网络漫画描绘都市日常生活的故事板，朋友聚会、咖啡店场景、轻松惬意的氛围和精细人物刻画",
+    "prompt_ori": "一个网络漫画描绘都市日常生活的故事板，朋友聚会、咖啡店场景、轻松氛围和高细节人物，seedream 模型。",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "sd-201",
+    "title": "吉卜力动画风格",
+    "prompt": "将图片转换为吉卜力风格，保持角色特征不变。柔和水彩质感，温暖柔和色调，奇幻梦幻氛围，手绘感觉配以柔和光线和梦幻云朵背景",
+    "prompt_ori": "Turn the image into Ghibli Style, maintain the character's features. Soft watercolor textures, warm pastel colors, whimsical atmosphere, hand-drawn feel with gentle lighting and dreamy clouds in the background",
+    "category": "art",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-202",
+    "title": "古典油画",
+    "prompt": "将这张照片转换为古典油画风格。厚重可见的笔触，丰富的厚涂质感。暖色调配以深橙和金黄。保持相同的构图和元素",
+    "prompt_ori": "Convert this photograph into a classic oil painting. Thick visible brushstrokes, rich impasto texture on the sky and fields. Warm color palette with deep oranges and golden yellows. Keep the same composition and elements",
+    "category": "art",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-203",
+    "title": "中国水墨画",
+    "prompt": "将这张风景照转换成中国传统水墨画风格，黑白墨色调，强调流动的线条和山水意境，融入轻雾和竹林元素，保持原图的主体轮廓但增加留白和东方美学",
+    "prompt_ori": "将这张风景照转换成中国传统水墨画风格，黑白墨色调，强调流动的线条和山水意境，融入轻雾和竹林元素，保持原图的主体轮廓但增加留白和东方美学",
+    "category": "art",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-204",
+    "title": "浮世绘木版画",
+    "prompt": "将场景重新想象为广重风格的日本浮世绘木版画——平面透视，粗黑轮廓线，靛蓝、朱红和赭石的限定配色，樱花元素，和纸质感",
+    "prompt_ori": "Reimagine this scene as a traditional Japanese Ukiyo-e woodblock print in the style of Hiroshige — flat perspective, bold outlines, limited color palette of indigo, vermillion, and ochre. Cherry blossoms, washi paper texture",
+    "category": "art",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-205",
+    "title": "16位像素风",
+    "prompt": "转换为16位像素艺术风格。有限调色板，可见方块像素，复古游戏美学。保持相同的构图。超任时代画面风格，轻微CRT扫描线效果",
+    "prompt_ori": "Convert this into 16-bit pixel art style. Limited color palette, visible square pixels, retro video game aesthetic. Keep the same landscape composition. SNES-era graphics look with slight CRT scanline effect",
+    "category": "art",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-206",
+    "title": "水彩速写",
+    "prompt": "将照片转换为轻松的水彩画。可见笔触，柔和色彩晕染相互渗透，白色纸张透出。保持相同构图。手工质感水彩纸上的传统水彩插画",
+    "prompt_ori": "Convert this photograph into a loose watercolor painting. Visible brushstrokes, soft color washes bleeding into each other, white paper showing through in places. Keep the same composition. Traditional watercolor illustration on textured paper",
+    "category": "art",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-207",
+    "title": "盒装手办",
+    "prompt": "将照片中的人物变成精细的可收藏手办，放在透明塑料包装盒内配有印刷纸板背板。玩具摄影风格，棚拍灯光，微缩比例，逼真塑料质感",
+    "prompt_ori": "Turn the person in this photo into a highly detailed collectible action figure, placed inside clear plastic packaging with a printed cardboard backing. Toy photography style, studio lighting, miniature scale, realistic plastic texture",
+    "category": "product",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-208",
+    "title": "3D Q版拍立得突破",
+    "prompt": "请根据照片将画面中的角色转化为3D Q版风格，真实世界的光影，保留人物细节包括服装和造型。整体放在一张拍立得照片中，有一只漂亮的手握着拍立得相纸。图中角色从拍立得相纸中突破边框延伸进入现实世界",
+    "prompt_ori": "请根据照片将画面中的角色转化为3D Q版风格，真实世界的光影，保留人物细节包括服装和造型。整体放在一张拍立得照片中，有一只漂亮的手握着拍立得相纸。图中角色从拍立得相纸中突破边框延伸进入现实世界",
+    "category": "art",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-209",
+    "title": "乐高积木重建",
+    "prompt": "将照片转换为乐高积木版本，所有元素替换为彩色乐高块，同时保持整体形状、构图和细节。可见积木纹理和凸起，明亮均匀光线，玩具摄影",
+    "prompt_ori": "Convert this photo into a LEGO brick version, replacing all elements with colorful LEGO blocks while preserving the overall shape, composition and details. Authentic brick texture and studs visible, bright even lighting, toy photography",
+    "category": "art",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-210",
+    "title": "3D粘土渲染",
+    "prompt": "将图中角色转换为柔和圆润的3D粘土渲染风格。哑光材质，光滑表面，柔和色调，环境光遮蔽阴影，可爱极简风格，Blender粘土着色器美学，棚拍灯光",
+    "prompt_ori": "Convert the character in the picture into a soft, rounded 3D clay render style. Matte material, smooth surfaces, pastel color palette, ambient occlusion shadows, cute and minimal, Blender clay shader aesthetic, studio lighting",
+    "category": "art",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-211",
+    "title": "季节变换·冬天",
+    "prompt": "将场景转变为寒冷的冬天。田野覆盖厚厚积雪，树木光秃挂满霜花。天空转为冷蓝和淡粉色调。保持道路、建筑和构图不变",
+    "prompt_ori": "Transform this into a cold winter scene. The fields are covered in deep snow, trees are bare with frost on branches. The sky shifts to cool blues and pale pinks. Keep the same road, buildings, and composition unchanged",
+    "category": "photography",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-212",
+    "title": "日转夜",
+    "prompt": "将场景转换为晴朗夜景。天空布满银河和繁星，表面反射星光。保持建筑和布局不变。冷蓝色调，窗户透出温暖灯光，长曝光摄影质感",
+    "prompt_ori": "Transform this to a clear night scene. The sky is filled with the Milky Way and thousands of stars. Surfaces reflect the starlight. Keep the same buildings and layout. Cool blue tones, warm window lights glowing, long exposure photography feel",
+    "category": "photography",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-213",
+    "title": "添加暴雨",
+    "prompt": "为场景添加暴雨效果。头发湿透，皮肤和衣物上有水珠。空中可见雨线，背景湿润表面反射光线。保持人物、姿势和构图不变",
+    "prompt_ori": "Add heavy rain to this scene. Hair is wet, water droplets on skin and clothing. Rain streaks visible in the air, wet surfaces reflecting light in the background. Keep the same person, pose, and framing unchanged",
+    "category": "photography",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-214",
+    "title": "背景替换",
+    "prompt": "将背景替换为巴黎日落街道，保持主体清晰不变。在主体上添加暖橙色轮廓光以配合新的日落氛围",
+    "prompt_ori": "Replace the background with a Parisian street at sunset, keeping the subject sharp and unchanged. Add warm orange rim lighting on the subject to match the new sunset atmosphere",
+    "category": "photography",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-215",
+    "title": "穿搭平铺拆解",
+    "prompt": "将这套穿搭拆解为单件衣物和配饰，在干净白色表面上整齐排列为平铺展示布局，俯视角度，均匀光线，有序网格排列，时尚摄影风格",
+    "prompt_ori": "Decompose this outfit into individual clothing items and accessories, arrange them neatly in a flat lay knolling layout on clean white surface, overhead view, even lighting, organized grid pattern, fashion photography style",
+    "category": "product",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-216",
+    "title": "时尚杂志封面",
+    "prompt": "将人物放在高端时尚杂志封面上。顶部添加优雅衬线体杂志标题，两侧添加封面标题，专业调色，魅力棚拍灯光，Vogue编辑风格美学",
+    "prompt_ori": "Place this person on a high-fashion magazine cover. Add elegant serif typography for the magazine title at the top, feature headlines along the sides, professional color grading, glamorous studio lighting, Vogue editorial aesthetic",
+    "category": "poster",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-217",
+    "title": "千年废墟",
+    "prompt": "将建筑老化1000年。苔藓和藤蔓覆盖的碎裂石墙，破碎窗户，自然重新占据建筑，阴沉天空，末世废墟氛围，逼真的风化腐蚀效果",
+    "prompt_ori": "Age this building by 1000 years. Crumbling stone walls covered in moss and vines, broken windows, nature reclaiming the structure, dramatic overcast sky, post-apocalyptic atmosphere, photorealistic decay and weathering",
+    "category": "architecture",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-218",
+    "title": "奢华产品摆拍",
+    "prompt": "将产品放置在高端生活方式场景中，柔和晨光透过薄纱窗帘照在大理石台面上，旁边有鲜花和金色装饰，浅景深，奢侈品牌广告摄影风格",
+    "prompt_ori": "Place this product in a premium lifestyle setting, marble countertop with soft morning light streaming through sheer curtains, fresh flowers and gold accents nearby, shallow depth of field, luxury brand advertising photography style",
+    "category": "product",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-219",
+    "title": "赛博朋克之夜",
+    "prompt": "将这辆车放在夜晚的赛博朋克城市中。湿润路面反射粉蓝霓虹灯。雨后街道，未来主义建筑和全息广告牌。保持车型和角度不变。电影级夜景光线，银翼杀手氛围",
+    "prompt_ori": "Place this car in a cyberpunk city at night. Wet pavement reflecting neon signs in pink and blue. Rain-soaked street with futuristic buildings and holographic advertisements in the background. Keep the same car model and angle. Cinematic night lighting, Blade Runner atmosphere",
+    "category": "art",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-220",
+    "title": "漫画分镜",
+    "prompt": "将照片转换为戏剧性漫画分镜。动态速度线，网点阴影，精细眼睛绘制的表情丰富角色，日式漫画对话泡泡，黑白高对比，少年Jump动作风格",
+    "prompt_ori": "Convert this photo into a dramatic manga panel. Dynamic speed lines, screentone shading, expressive character with detailed eyes, Japanese manga speech bubbles, black and white with high contrast, Shonen Jump action style",
+    "category": "comic",
+    "type": "image-to-image",
+    "images": []
+  }
+]

@@ -1,0 +1,1782 @@
+[
+  {
+    "id": "sd-001",
+    "title": "企業エグゼクティブのヘッドショット",
+    "prompt": "ショートオーバーンヘアの自信に満ちた女性エグゼクティブのプロフェッショナルなヘッドショット、仕立ての良いチャコールブレザーにクリーム色のシルクブラウスを着用、ニュートラルなウォームグレーのスタジオ背景、ソフトなフィルライト付きのレンブラントライティング、f/2.8で瞳にシャープなフォーカス、85mmレンズ、自然な肌色、ハイエンドの企業撮影",
+    "prompt_ori": "Professional headshot of a confident female executive with short auburn hair, wearing a tailored charcoal blazer over a cream silk blouse, neutral warm gray studio background, Rembrandt lighting with soft fill, sharp focus on eyes at f/2.8, 85mm lens, natural skin tones, high-end corporate photography",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "sd-002",
+    "title": "キャンドルライトのセルフポートレート",
+    "prompt": "温かみのあるブラウンの瞳と薄い無精髭の若い男性のクローズアップセルフポートレート風写真、柔らかいキャンドルライトが顔の片側を照らし、もう片側はクールなシャドウに、居心地の良い夜の雰囲気、50mmレンズで浅い被写界深度、親密で自然な表情、SNSプロフィール向けの美学",
+    "prompt_ori": "Close-up self-portrait style photo of a young man with warm brown eyes and light stubble, soft candlelight illuminating one side of his face, the other half in cool shadow, cozy evening atmosphere, shot on 50mm lens with shallow depth of field, intimate and genuine expression, social media profile aesthetic",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "sd-003",
+    "title": "ミニマルグラデーションアバター",
+    "prompt": "ソフトマットクレイ素材でレンダリングされた若い女性のスタイリッシュな3Dポートレート胸像、滑らかで丸みのある造形、ラベンダーからピーチへ移り変わるパステルグラデーション背景、強い影のないクリーンでミニマルなスタジオライティング、モダンなSNSアバタースタイル、中央配置の構図",
+    "prompt_ori": "Stylized 3D portrait bust of a young woman rendered in soft matte clay material, smooth rounded features, pastel gradient background shifting from lavender to peach, clean minimal studio lighting with no harsh shadows, modern social media avatar style, centered composition",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "sd-004",
+    "title": "アウトドアアドベンチャープロフィール",
+    "prompt": "ゴールデンアワーの山頂で微笑むハイカーのライフスタイルポートレート、風になびく髪、ネイビーのパファーベストを着用、眼下に広がる谷と雲、髪に逆光のリムライト、35mm広角レンズでドラマチックな空、冒険心とリアルなムード、Instagramプロフィール写真クオリティ",
+    "prompt_ori": "Lifestyle portrait of a smiling hiker at a mountain summit during golden hour, windswept hair, wearing a navy puffer vest, expansive valley and clouds below, backlit rim light on hair, 35mm wide-angle lens with dramatic sky, adventurous and authentic mood, Instagram profile photo quality",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "sd-005",
+    "title": "おしゃれなフラットレイ投稿",
+    "prompt": "温かみのある白い大理石の上に俯瞰フラットレイ：手作りの陶器カップに入った抹茶ラテ、手書きノートが開かれた革のジャーナル、富士フイルムInstaxカメラ、テラコッタポットの小さな多肉植物、散らばったドライユーカリの葉、朝の光が柔らかい斜めの影を落とす、クリーンでミニマルな構図、ライフスタイルブログの美学、35mmレンズ",
+    "prompt_ori": "Overhead flat lay on warm white marble: a matcha latte in a handmade ceramic cup, an open leather journal with handwritten notes, a Fujifilm Instax camera, small succulent in terracotta pot, scattered dried eucalyptus leaves, morning sunlight casting soft diagonal shadows, clean minimalist composition, lifestyle blogging aesthetic, 35mm lens",
+    "category": "social",
+    "images": []
+  },
+  {
+    "id": "sd-006",
+    "title": "モチベーション名言カード",
+    "prompt": "エレガントな名言カードデザイン、ディープチャコール背景にゴールドのセリフ体タイポグラフィで中央に「Create the life you can't stop thinking about」の文字、テキスト背面に繊細な暖色のスポットライトグロー、上下にミニマルな装飾ライン、Instagramストーリー形式9:16、洗練されたインスピレーショナルデザイン",
+    "prompt_ori": "Elegant quote card design with deep charcoal background, centered gold serif typography reading 'Create the life you can't stop thinking about', subtle warm spotlight glow behind the text, minimalist decorative line dividers above and below, Instagram story format 9:16, refined and inspirational",
+    "category": "social",
+    "images": []
+  },
+  {
+    "id": "sd-007",
+    "title": "使い捨てカメラのパーティーショット",
+    "prompt": "夜の屋上パーティーで笑い合う友人たちのキャンディッドスナップ、使い捨てカメラの直接フラッシュ、粒子感のあるフィルム、わずかな赤目効果、暖かいタングステンの肌色、オレンジ色で「2025.07.20」と読めるデートスタンプ、エッジのモーションブラー、本物のスナップ写真の美学、ノスタルジックで自由な雰囲気",
+    "prompt_ori": "Candid snapshot of friends laughing at a rooftop party at night, harsh direct flash of a disposable camera, grainy film stock, slight red-eye effect, warm tungsten skin tones, visible date stamp reading '2025.07.20' in orange, motion blur on the edges, authentic point-and-shoot aesthetic, nostalgic and carefree",
+    "category": "social",
+    "images": []
+  },
+  {
+    "id": "sd-008",
+    "title": "ビフォー＆アフター分割画面",
+    "prompt": "縦に二分割された比較画像：左側は散らかった紙やケーブルが絡まった雑然としたデスク、右側は同じデスクがモニター、植物、整理されたアクセサリーのあるクリーンでミニマルなワークスペースに変身、劇的なコントラスト、明瞭な分割線、SNSカルーセルの最初のスライド、明るい自然光",
+    "prompt_ori": "Split-screen comparison image divided vertically: left side shows a cluttered messy desk with scattered papers and tangled cables, right side shows the same desk transformed into a clean minimalist workspace with a monitor, plant, and organized accessories, dramatic contrast, clean dividing line, social media carousel first slide, bright natural lighting",
+    "category": "social",
+    "images": []
+  },
+  {
+    "id": "sd-009",
+    "title": "栄養成分ビジュアル",
+    "prompt": "アボカドの栄養成分を表示するクリーンなインフォグラフィックレイアウト：左側にフォトリアルな半分のアボカドをヒーロー画像として配置、右側にソフトグリーンの栄養素バーと正確な数値（カロリー：160kcal、脂質：15g、食物繊維：7g、カリウム：485mg）を表示、白背景、モダンなサンセリフタイポグラフィ、健康ウェルネス教育スタイル、16:9横型",
+    "prompt_ori": "Clean infographic layout showing nutritional breakdown of avocado: large photorealistic avocado half as hero image on the left, right side displays macronutrient bars in soft green tones with precise values (Calories: 160kcal, Fat: 15g, Fiber: 7g, Potassium: 485mg), white background, modern sans-serif typography, health and wellness educational style, 16:9 landscape",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "sd-010",
+    "title": "スタートアップ資金調達タイムライン",
+    "prompt": "シードからIPOまでのスタートアップ資金調達段階を示す水平タイムラインインフォグラフィック、各マイルストーンは流れるようなグラデーションラインで繋がれたカラーノード、各段階を表すアイコン（電球、ロケット、ビル、地球）、ダークネイビー背景に鮮やかなアクセントカラー、クリーンなデータビジュアライゼーション、モダンな企業プレゼンテーションスタイル、16:9",
+    "prompt_ori": "Horizontal timeline infographic showing startup funding stages from Seed to IPO, each milestone as a colored node connected by a flowing gradient line, icons representing each stage (lightbulb, rocket, building, globe), dark navy background with vibrant accent colors, clean data visualization, modern corporate presentation style, 16:9",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "sd-011",
+    "title": "コーヒー抽出方法ガイド",
+    "prompt": "4つのコーヒー抽出方法を2x2グリッドで比較する教育ビジュアルガイド：ハンドドリップ、フレンチプレス、エスプレッソマシン、コールドブリュー。各パネルにはアイソメトリック3Dイラスト風の器具とラベル付き手順を表示、温かみのあるブラウンとクリームの配色、クリーンな説明レイアウト、さりげない紙テクスチャ背景、バリスタ教育の美学",
+    "prompt_ori": "Educational visual guide comparing 4 coffee brewing methods in a 2x2 grid: pour-over, French press, espresso machine, cold brew. Each panel shows the equipment in isometric 3D illustration style with labeled steps, warm brown and cream color palette, clean instructional layout, subtle paper texture background, barista education aesthetic",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "sd-012",
+    "title": "優れたロゴの解剖図",
+    "prompt": "「優れたロゴの解剖図」と題された分解図式の教育インフォグラフィック、架空のロゴをデザイン要素に分解：カラーパレットのスウォッチ、タイポグラフィの選定、ネガティブスペースの活用法、グリッド構造のオーバーレイ、黄金比スパイラル。クリーンな白背景、各要素とラベルをつなぐ注釈線、グラフィックデザイン教科書スタイル",
+    "prompt_ori": "Exploded-view educational infographic titled 'Anatomy of a Great Logo' showing a fictional logo being deconstructed into its design elements: color palette swatches, typography choice, negative space usage, grid structure overlay, golden ratio spiral. Clean white background, annotation lines connecting each element to its label, graphic design textbook style",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "sd-013",
+    "title": "テックレビューサムネイル",
+    "prompt": "YouTubeサムネイル：高コントラストの鮮やかなイエロー背景、右側に口を開けて目を見開いた驚きの表情の若い男性、左側に浮かぶスタイリッシュなスマートフォンを指す大きな3Dの赤い矢印、黒い縁取りの太い白文字で「GAME CHANGER」、ドラマチックな方向性のあるライティング、背景にコミック風のスピードライン、小さいサイズでも目立つデザイン",
+    "prompt_ori": "YouTube thumbnail: bold bright yellow background with high contrast, an expressive shocked face of a young man with mouth open and wide eyes on the right, large 3D red arrow pointing to a sleek floating smartphone on the left, bold white text 'GAME CHANGER' with black outline, dramatic directional lighting, comic-book speed lines in background, designed to pop at small sizes",
+    "category": "thumbnail",
+    "images": []
+  },
+  {
+    "id": "sd-014",
+    "title": "料理チャンネルサムネイル",
+    "prompt": "YouTube料理サムネイル：湯気が立ち上るゴールデンクリスピーなフライドチキンの超クローズアップ、白い縁取りの太い赤文字で「SECRET RECIPE」、コーナーにシェフの興奮した顔の小さな丸いインセット、暖かいオレンジとレッドの配色、高彩度、食欲をそそる料理写真のライティング、小さいサイズでも目を引くデザイン",
+    "prompt_ori": "YouTube cooking thumbnail: extreme close-up of golden crispy fried chicken with steam rising, bold red text 'SECRET RECIPE' with white stroke, small inset circle showing a chef's excited face in the corner, warm orange and red color scheme, high saturation, appetizing food photography lighting, eye-catching at small scale",
+    "category": "thumbnail",
+    "images": []
+  },
+  {
+    "id": "sd-015",
+    "title": "旅行Vlogサムネイル",
+    "prompt": "YouTube旅行サムネイル：ターコイズブルーの海と白い砂浜の息をのむ空撮、ドロップシャドウ付きの太い白文字で「HIDDEN PARADISE」、スケール感を出すために浜辺に立つ小さな人影、鮮やかで彩度の高いトロピカルカラー、細い白い枠線フレーム、旅への憧れを誘うムード、クリック率最大化のデザイン",
+    "prompt_ori": "YouTube travel thumbnail: stunning aerial view of turquoise waters and white sand beach, bold white text 'HIDDEN PARADISE' with drop shadow, a small figure standing on the shore for scale, vibrant saturated tropical colors, thin white border frame, wanderlust mood, designed for maximum click-through",
+    "category": "thumbnail",
+    "images": []
+  },
+  {
+    "id": "sd-016",
+    "title": "ジャズフェスティバル・タイポグラフィックポスター",
+    "prompt": "ジャズフェスティバルの大判タイポグラフィックポスター：太いネイビーのコンデンスドサンセリフ体で「BLUE NOTE SESSIONS」のタイトル、エレガントなスクリプト体のサブタイトル「Summer 2026 · Central Park」、ミッドナイトブルーからウォームアンバーへのグラデーション背景、右端にゴールドのサクソフォンシルエット、クリーンなタイプで並ぶ出演者名、ヴィンテージコンサートポスターの美学 --ar 2:3",
+    "prompt_ori": "Large-format typographic poster for a jazz festival: bold navy condensed sans-serif title 'BLUE NOTE SESSIONS', subtitle in elegant script 'Summer 2026 · Central Park', gradient background from midnight blue to warm amber, gold saxophone silhouette on the right edge, performer names listed in clean type, vintage concert poster aesthetic --ar 2:3",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "sd-017",
+    "title": "SF映画ポスター",
+    "prompt": "「CHRONOS」というSFスリラー映画のシネマティックポスター：深宇宙に渦巻く巨大な時空の渦に向かって立つ孤独な宇宙飛行士、ドラマチックな逆光でスーツのシルエットが浮かび上がる、下部にメタリックな太いタイトルタイポグラフィ、小さい文字でキャッチコピー「Time waits for no one」、フォトリアリスティックなデジタルアート、壮大なスケール --ar 2:3",
+    "prompt_ori": "Cinematic movie poster for a sci-fi thriller titled 'CHRONOS': a lone astronaut facing a massive swirling time vortex in deep space, dramatic backlighting revealing the suit's silhouette, bold metallic title typography at the bottom, tagline 'Time waits for no one' in smaller text, photorealistic digital art, epic scale --ar 2:3",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "sd-018",
+    "title": "ヴィンテージウェディング招待状",
+    "prompt": "エレガントなヴィンテージスタイルのウェディング招待状：ダークフォレストグリーンのベースにテクスチャのあるクリーム色の紙を重ね、ゴールド箔のスクリプト体タイポグラフィで「Together with their families」とカップル名「Emily & James」、オリーブの枝の装飾ボタニカルボーダー、下部にワックスシールのディテール、印刷品質、ロマンチックでタイムレス",
+    "prompt_ori": "Elegant vintage-style wedding invitation: dark forest green base with textured cream paper overlay, gold foil script typography reading 'Together with their families' and couple names 'Emily & James', decorative botanical border with olive branches, wax seal detail at bottom, print-ready quality, romantic and timeless",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "sd-019",
+    "title": "サイケデリック音楽フェスティバル",
+    "prompt": "「ETHEREAL BLOOM」夏の音楽フェスティバルの鮮烈なサイケデリックポスター：液体のような色彩と有機的なフォルムの超現実的な爆発、フェスティバル名をアールヌーヴォー風の流れるタイポグラフィで表現、さまざまなサイズで散りばめられた出演者名、60年代のコンサートポスターとモダンデザインの融合、マゼンタ、ティール、ゴールドの万華鏡カラーパレット --ar 2:3",
+    "prompt_ori": "Vibrant psychedelic poster for 'ETHEREAL BLOOM' summer music festival: surreal explosion of liquid colors and organic shapes, flowing art nouveau typography for the festival name, performer names layered throughout in various sizes, 60s concert poster aesthetic meets modern design, kaleidoscopic color palette of magenta, teal, and gold --ar 2:3",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "sd-020",
+    "title": "ミニマリスト美術展覧会",
+    "prompt": "ミニマリストの美術展覧会ポスター：オフホワイトの背景にたっぷりの余白、中央やや右に配置された一本の黒インクの線画による人物の横顔、クリーンなサンセリフ体で展覧会タイトル「LINES & SILENCE」、その下に日程とギャラリー名、洗練されたギャラリー品質のレイアウト、上品で控えめなデザイン",
+    "prompt_ori": "Minimalist art exhibition poster: off-white background with generous whitespace, a single black ink line drawing of a human profile positioned slightly right of center, clean sans-serif typography with exhibition title 'LINES & SILENCE', dates and gallery name below, refined gallery-quality layout, sophisticated and understated",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "sd-021",
+    "title": "浮遊するスマートフォン・ヒーローショット",
+    "prompt": "クリーンなダークグラデーション背景に、ダイナミックな角度で浮遊するモダンなスマートフォン、左上からの単一光源のドラマチックなスタジオライティングがガラススクリーンとメタルフレームにシャープなスペキュラーハイライトを生み出す、さりげないブルーのアクセントグロー、超精細なプロダクトテクスチャ、コマーシャルヒーローショット品質、4K",
+    "prompt_ori": "Modern smartphone floating at a dynamic angle against a clean dark gradient background, dramatic single-source studio lighting from upper left creating sharp specular highlights on the glass screen and metal frame, subtle blue accent glow, ultra-detailed product textures, commercial hero shot quality, 4K",
+    "category": "product",
+    "images": []
+  },
+  {
+    "id": "sd-022",
+    "title": "ラグジュアリー香水ボトル",
+    "prompt": "磨かれたダークオブシディアンの表面に置かれたラグジュアリーガラス香水ボトル、ソフトなゴールドのリムバックライトがエレガントなハロー効果を生み出す、カーブしたガラスの上で水滴がきらめく、アンバー色の液体が内部で光を捉える、プロフェッショナルなエディトリアル商品撮影、浅いボケ背景、超高精細",
+    "prompt_ori": "Luxury glass perfume bottle resting on polished dark obsidian surface, soft golden rim backlight creating an elegant halo effect, crystal-clear water droplets glistening on the curved glass, amber-colored liquid catching the light inside, professional editorial product photography, shallow bokeh background, ultra-high-definition",
+    "category": "product",
+    "images": []
+  },
+  {
+    "id": "sd-023",
+    "title": "ワイヤレスイヤホン広告",
+    "prompt": "マットホワイトの充電ケースに入ったミニマルワイヤレスイヤホンのヒーローアングル商品撮影、ブラッシュドスチールのアクセント付きアノダイズドアルミ仕上げ、防水性を示唆するように空中に凍りついた微小な水滴、クリスプなエッジハイライトのソフトスタジオライティング、マットブラック面の反射、カタログ品質のコマーシャルフォトグラフィー、4K",
+    "prompt_ori": "Hero-angle product shot of minimal wireless earbuds in a matte white charging case, anodized aluminum finish with brushed steel accent, tiny water droplets frozen mid-air around the product suggesting splash resistance, soft studio lighting with crisp edge highlights, reflection on matte black surface, catalog-quality commercial photography, 4K",
+    "category": "product",
+    "images": []
+  },
+  {
+    "id": "sd-024",
+    "title": "スキンケア・フラットレイ",
+    "prompt": "白い大理石の上にスタイリングされたフラットレイ：3本のガラス製スキンケアボトルをゆるやかな三角形に配置、ボトルの間にフレッシュなボタニカルとドライフラワー、左からの柔らかい拡散窓光、パステルピンクとクリームの配色、真上からのショットで中央配置の構図、ボタニカルに浅い被写界深度、商品ラベルにシャープなフォーカス、4K商品撮影",
+    "prompt_ori": "Styled flat lay on white marble: three glass skincare bottles arranged in a loose triangle, fresh botanicals and dried flowers between bottles, soft diffused window light from the left, pastel pink and cream palette, overhead shot with centered composition, shallow depth of field on botanicals, sharp focus on product labels, 4K product photography",
+    "category": "product",
+    "images": []
+  },
+  {
+    "id": "sd-025",
+    "title": "トロピカルフルーツ・スプラッシュ",
+    "prompt": "透き通った水のスプラッシュの中で爆発する瞬間を捉えたカラフルなトロピカルフルーツの配置、鮮やかなマンゴー、イチゴ、キウイがクリーンなホワイトスタジオ背景の前でダイナミックに躍動、ハイスピードコマーシャルフォトグラフィー、個々の水滴まで捉えた超シャープなディテール、フレッシュで活力あふれるムード",
+    "prompt_ori": "Vibrant tropical fruit arrangement frozen mid-explosion in a splash of crystal-clear water, vivid mangoes, strawberries, and kiwis suspended in dynamic motion against a clean white studio background, high-speed commercial photography, ultra-sharp detail capturing individual water droplets, fresh and energetic mood",
+    "category": "product",
+    "images": []
+  },
+  {
+    "id": "sd-026",
+    "title": "ゴールデンアワーのファッションポートレート",
+    "prompt": "陽光が降り注ぐワイルドフラワーの草原に佇む、流れるようなエメラルドグリーンのシルクドレスを纏った若い女性、暖かい夏風にそっと髪がなびく、自然なそばかすが見える、ぼやけた花々の浅いボケ背景、ソフトなゴールデンアワーライティングのエディトリアルファッション撮影、85mmレンズ f/1.8、暖かいシネマティックカラーグレード",
+    "prompt_ori": "A young woman in a flowing emerald silk dress standing in a sunlit wildflower meadow, hair gently tossed by warm summer breeze, natural freckles visible, shallow bokeh background of blurred blossoms, editorial fashion photography with soft golden-hour lighting, 85mm lens at f/1.8, warm cinematic color grade",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "sd-027",
+    "title": "風雪に鍛えられた漁師のポートレート",
+    "prompt": "深く刻まれたしわのある肌と鋭いブルーの瞳を持つ老漁師のクローズアップポートレート、擦り切れた海風にさらされたウールコートを着用、嵐の大西洋の海景を背にしたドラマチックなレンブラントサイドライティング、超リアルな8K肌テクスチャのディテール、ドキュメンタリー写真スタイル、50mmレンズ",
+    "prompt_ori": "Close-up portrait of an elderly fisherman with deeply weathered skin and piercing blue eyes, wearing a fraying sea-worn wool coat, dramatic Rembrandt side lighting against a stormy Atlantic seascape, ultra-realistic 8K skin texture detail, documentary photography style, 50mm lens",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "sd-028",
+    "title": "ローファイ・フィルムポートレート",
+    "prompt": "陽光の差し込むアパートの窓辺に座る若い女性のポートレート、Kodak Portra 400 35mmフィルムで撮影、暖かいゴールデントーンと繊細なグリーンシャドウ、左端にわずかな光漏れとフィルムグレイン、やや褪せたブラック、ヴィンテージ50mmレンズ、くつろいだ自然な表情、ローファイでノスタルジックなムード",
+    "prompt_ori": "Portrait of a young woman sitting on a windowsill in a sunlit apartment, shot on Kodak Portra 400 35mm film, warm golden tones with subtle green shadows, visible film grain and gentle light leaks on the left edge, slightly faded blacks, vintage 50mm lens, candid relaxed expression, lo-fi nostalgic mood",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "sd-029",
+    "title": "黄昏のユキヒョウ",
+    "prompt": "ヒマラヤの崖の端に佇む荘厳なユキヒョウ、夕暮れの深い青空に星が現れ始める、毛並みの一本一本まで見える精緻なディテール、ナショナルジオグラフィック風のワイルドライフフォトグラフィー、ドラマチックな自然光、400mm望遠レンズ、浅い被写界深度、8K",
+    "prompt_ori": "Majestic snow leopard perched on a Himalayan cliff edge at twilight, stars beginning to appear in the deep blue sky, fur detail with individual strands visible, National Geographic wildlife photography style, dramatic natural lighting, 400mm telephoto lens, shallow depth of field, 8K",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "sd-030",
+    "title": "黄金のサバンナを歩くアフリカライオン",
+    "prompt": "見事なダークメインを持つ雄のアフリカライオンが夕陽の中、黄金に輝く背の高いサバンナの草原を歩く、暖かい逆光がたてがみの周りに光り輝くハローを作る、琥珀色の瞳がカメラをまっすぐ見つめる、400mm望遠レンズ、ナショナルジオグラフィック風、浅い被写界深度、8K",
+    "prompt_ori": "Male African lion with a magnificent dark mane walking through tall golden savanna grass at sunset, warm backlight creating a glowing halo around his mane, amber eyes looking directly at camera, 400mm telephoto lens, National Geographic style, shallow depth of field, 8K",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "sd-031",
+    "title": "凍てつく北欧のオーロラ",
+    "prompt": "真冬の凍った北欧の湖上に踊るグリーンとバイオレットのリボン状のオーロラ、湖畔に並ぶ雪に覆われたトウヒの森、鏡のような氷の表面が夜空を完璧に映し出す、長時間露光撮影の美学、幻想的な光、8K天体写真",
+    "prompt_ori": "A frozen Nordic lake at midwinter beneath dancing aurora borealis in ribbons of green and violet, snow-covered spruce forest lining the banks, mirror-like ice surface perfectly reflecting the night sky above, long-exposure photography aesthetic, ethereal light, 8K astrophotography",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "sd-032",
+    "title": "砂漠の天の川",
+    "prompt": "真夜中の広大な砂漠の風景にアーチを描く天の川、数百万の星で満たされた空をバックに砂岩の岩層がシルエットとなる、前景に赤い砂に暖かいオレンジの光を投げかける小さなキャンプファイヤー、25秒露光撮影の美学、天体写真、深い被写界深度、8K",
+    "prompt_ori": "The Milky Way galaxy arching over a vast desert landscape at midnight, sandstone rock formations silhouetted against a sky filled with millions of stars, a small campfire in the foreground casting warm orange light on red sand, 25-second exposure aesthetic, astrophotography, deep depth of field, 8K",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "sd-033",
+    "title": "和牛バーガーのクローズアップ",
+    "prompt": "グルメな和牛ビーフバーガーの超クローズアップ、溶けた熟成チェダーが側面を滴り落ちる、キャラメリゼオニオン、フレッシュルッコラ、セサミシード付きブリオッシュバン、パティの表面で肉汁がきらめく、45度からのドラマチックなサイドライティング、ダークムーディーな背景、浅い被写界深度、レストランメニュー用フォトグラフィー、85mmマクロ",
+    "prompt_ori": "Extreme close-up of a gourmet wagyu beef burger with melted aged cheddar dripping down the side, caramelized onions, fresh arugula, brioche bun with sesame seeds, juice glistening on the patty surface, dramatic side lighting at 45 degrees, dark moody background, shallow depth of field, restaurant menu photography, 85mm macro",
+    "category": "food",
+    "images": []
+  },
+  {
+    "id": "sd-034",
+    "title": "はちみつのスローポア・マクロ",
+    "prompt": "木製ディッパーからトーストしたサワードウに注がれる黄金の蜂蜜の超マクロ撮影、蜂蜜の糸が暖かい逆光を受けて琥珀色の透明感とゆっくりした粘性の動きを見せる、微小な気泡が見える、前景のパンのテクスチャにシャープなフォーカス、背景にソフトで暖かいキッチンのトーン、自然な朝の窓光、4K、浅い被写界深度",
+    "prompt_ori": "Extreme macro of golden honey poured from a wooden dipper onto toasted sourdough, honey strand catches warm backlight showing amber transparency and slow viscous movement, tiny air bubbles visible, bread texture sharp in foreground, soft warm kitchen tones in background, natural morning window light, 4K, shallow depth of field",
+    "category": "food",
+    "images": []
+  },
+  {
+    "id": "sd-035",
+    "title": "おまかせ寿司プラッター",
+    "prompt": "ダークスレートの上のプレミアムおまかせ寿司プラッターの俯瞰フラットレイ：精密な弧を描く8貫の握り — マグロ、サーモン、ブリ、ウニ、ホタテ、エビ、和牛、イクラ。ネタの間にマイクログリーンと紫蘇の葉。右下に小さな陶器の醤油皿。左上からのソフトなディレクショナルスタジオライト、シャープなフォーカス、4K",
+    "prompt_ori": "Overhead flat lay of premium omakase sushi platter on dark slate: eight nigiri pieces in a precise arc — tuna, salmon, yellowtail, sea urchin, scallop, prawn, wagyu, ikura. Microgreens and shiso leaves between pieces. Small ceramic soy sauce dish at bottom right. Soft directional studio light from upper left, sharp focus, 4K",
+    "category": "food",
+    "images": []
+  },
+  {
+    "id": "sd-036",
+    "title": "ラテアートのポア",
+    "prompt": "ハンドクラフトの陶器マグに繊細なラテアートを注ぐバリスタ、繊細な湯気がそっと立ち上る、背景に暖かくぼやけたカフェのインテリア、シネマティックな浅い被写界深度、ソフトに拡散された朝の窓光、ミルクフォームに形成されるロゼッタパターンのクローズアップ",
+    "prompt_ori": "A barista slowly pouring intricate latte art into a handcrafted ceramic mug, delicate steam rising softly, warm blurred cafe interior in the background, cinematic shallow depth of field, soft diffused morning window light, close-up of the rosetta pattern forming in the milk foam",
+    "category": "food",
+    "images": []
+  },
+  {
+    "id": "sd-037",
+    "title": "アルチザン・マカロンタワー",
+    "prompt": "パステルマカロンのタワーアレンジメント：ラベンダー、ミントグリーン、ローズピンクのマカロンがエレガントに積み重なる、それぞれ完璧に滑らかなシェルとフリル状のピエ、上部に繊細な金箔フレーク、小さなエディブルフラワー、シングルウォームディレクショナルライトのダークムーディー背景、ファインダイニングのペストリー撮影、100mmマクロ f/4",
+    "prompt_ori": "Pastel macaron tower arrangement: lavender, mint green, and rose pink macarons stacked elegantly, each with perfectly smooth shells and ruffled feet, delicate gold leaf flakes on top, tiny edible flowers, dark moody background with single warm directional light, fine dining pastry photography, 100mm macro at f/4",
+    "category": "food",
+    "images": []
+  },
+  {
+    "id": "sd-038",
+    "title": "ブルータリスト・コンクリート図書館",
+    "prompt": "ブルータリストコンクリート図書館の広角インテリア：深い幾何学模様のコッファーを持つ打ちっ放しコンクリートの壁、両側に床から天井まで続く書架とそれにアクセスするためのスライド式真鍮はしご、真鍮のタスクランプが並ぶ長いオーク製読書テーブル、巨大なスカイライトから差し込む午後遅くの光が斜めの影を投げかける、人影なし、フォトリアリスティック、8K",
+    "prompt_ori": "Wide-angle interior of a brutalist concrete library: raw exposed concrete walls with deep geometric coffers, floor-to-ceiling bookshelves on both sides accessible by rolling brass ladders, long oak reading tables with brass task lamps, late afternoon light from a massive skylight casting diagonal shadows, no people, photorealistic, 8K",
+    "category": "architecture",
+    "images": []
+  },
+  {
+    "id": "sd-039",
+    "title": "スカンジナビアンリビングルーム",
+    "prompt": "モダンなスカンジナビアンリビングルーム：リネンのクッション付きのプラッシュなセージグリーンベルベットソファ、ライトオーク無垢材フロア、壁にはアースカラーの大判アブストラクトアートプリント、ミニマルな棚に垂れ下がるポトス、シアーリネンカーテン越しに差し込む暖かい午後の日差し、クリーム色のウールラグ、クリーンなラインとナチュラル素材、インテリアデザイン誌の写真",
+    "prompt_ori": "Modern Scandinavian living room: plush sage-green velvet sofa with linen throw pillows, light oak hardwood floors, large abstract art print in earthy tones on the wall, trailing pothos plants on a minimalist shelf, warm afternoon sunlight through sheer linen curtains, wool rug in cream, clean lines and natural materials, interior design magazine photography",
+    "category": "architecture",
+    "images": []
+  },
+  {
+    "id": "sd-040",
+    "title": "雨に濡れた東京の夜",
+    "prompt": "真夜中の雨に濡れた東京の街路、日本語のネオンサインがアスファルトの深い水たまりに反射する、透明な傘を差して光の中を歩く一人の人影、格子から立ち上る湯気、85mmレンズのアナモルフィックボケ、シネマティックなフィルム・ノワールの雰囲気、超リアル",
+    "prompt_ori": "Rain-soaked Tokyo street at midnight, neon signs in Japanese reflecting in deep puddles on the asphalt, a lone figure carrying a clear umbrella walking through the glowing scene, steam rising from grates, 85mm lens with anamorphic bokeh, cinematic noir atmosphere, ultra-realistic",
+    "category": "architecture",
+    "images": []
+  },
+  {
+    "id": "sd-041",
+    "title": "ウェス・アンダーソン風ホテルロビー",
+    "prompt": "ウェス・アンダーソン風の完璧にシンメトリカルなホテルロビー：装飾的なゴールドモールディングのパステルピンクの壁、制服姿のコンシェルジュが立つ中央のレセプションデスク、構図の両端にお揃いのヴィンテージアームチェア、ミントグリーンとクリームの市松模様のフロアタイル、一点透視法の中央配置、ヴィンテージシャンデリアからの暖かいタングステンライティング、遊び心がありながら精密、35mmフィルム",
+    "prompt_ori": "Perfectly symmetrical hotel lobby in Wes Anderson style: pastel pink walls with ornate gold molding, central reception desk staffed by a uniformed concierge, matching vintage armchairs flanking the composition, checkered mint-green and cream floor tiles, centered one-point perspective, warm tungsten lighting from vintage chandeliers, whimsical yet precise, 35mm film",
+    "category": "architecture",
+    "images": []
+  },
+  {
+    "id": "sd-042",
+    "title": "未来型エコハウス",
+    "prompt": "緑豊かな植物で覆われた垂直庭園の壁を統合した未来型エコハウスの外観、天然木のクラッディングとシームレスに融合するソーラーパネル屋根、床から天井までのガラスウォール、前景にインフィニティリフレクティングプール、山の背景、ゴールデンアワーのライティングが暖かい反射を生み出す、サステナブル建築コンセプトレンダリング",
+    "prompt_ori": "Futuristic eco-house exterior with integrated vertical garden walls covered in lush greenery, solar panel roof seamlessly blending with natural wood cladding, floor-to-ceiling glass walls, infinity reflecting pool in foreground, mountain backdrop, golden hour lighting creating warm reflections, sustainable architectural concept render",
+    "category": "architecture",
+    "images": []
+  },
+  {
+    "id": "sd-043",
+    "title": "明け方の江南水郷",
+    "prompt": "夜明けの中国伝統的な水郷：白壁と黒い瓦屋根が穏やかな運河の水面に映る、石橋の下を船頭が操る木舟がゆるやかに進む、朝霧と枝垂れ柳、水墨画の情緒をフォトリアリスティックなディテールで再現、静謐な構図、8K",
+    "prompt_ori": "Traditional Chinese watertown at dawn: white walls and dark tile roofs reflected in calm canal water, a wooden boat with a boatman glides under a stone bridge, morning mist and weeping willows, ink painting atmosphere rendered in photorealistic detail, serene composition, 8K",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "sd-044",
+    "title": "デジタル龍の水墨画",
+    "prompt": "伝統的な中国水墨画の再解釈：回路基板と流れるデータストリームで構成された龍が光の粒子の雲の中を飛翔する、古代の書道の筆致とデジタル美学の融合、宣紙のテクスチャにインクの黒とエレクトリックブルーのアクセントの限定パレット",
+    "prompt_ori": "Traditional Chinese ink wash painting reimagined: a dragon made of circuit boards and flowing data streams flying through clouds of luminous particles, ancient calligraphy brush strokes blending with digital aesthetics, limited palette of ink black and electric blue accents on rice paper texture",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "sd-045",
+    "title": "山水画の風景",
+    "prompt": "伝統的な中国山水画：竹筆で宣紙に描かれた雲を突き抜けて聳える霧の山々、深い墨の山頂から淡い灰色の遠景まで変化する濃淡、崖に生えた一本の松、滝にかかる橋の上の小さな学者の姿、霧を表す豊かな余白、宋代の山水画様式",
+    "prompt_ori": "Traditional Chinese shan shui ink wash painting: misty mountains rising through clouds painted with bamboo brush on rice paper, varying ink density from deep black peaks to pale gray distant ranges, a lone pine tree clinging to a cliff, tiny scholar figure on a bridge over a waterfall, generous empty space representing mist, Song dynasty landscape style",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "sd-046",
+    "title": "二重露光 狼と森",
+    "prompt": "狼のポートレートと深い松林を融合させた二重露光写真：狼の顔が木の幹、枝、霧に包まれた樹冠で構成される、琥珀色の鋭い瞳だけがくっきりと残る、黒背景、ファインアートフォトグラフィー、ハイコントラスト、瞳のみに選択的な暖かい琥珀トーンのモノクロ",
+    "prompt_ori": "Double exposure photograph merging a wolf portrait with a dense pine forest: the wolf's face composed of tree trunks, branches, and misty canopy, eyes remaining sharp and piercing amber, black background, fine art photography, high contrast, monochrome with selective warm amber tones on the eyes",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "sd-047",
+    "title": "リキッドゴールド・アブストラクト",
+    "prompt": "リキッドゴールドとディープサファイアブルーが融合し渦を巻く流体アブストラクト構図、ハイスピードフォトグラフィーで捉えたメタリックな輝きと深いマットトーンのドラマチックなコントラスト、ラグジュアリーアートプリントの美学、時間が凍りついたダイナミックな動き",
+    "prompt_ori": "Fluid abstract composition of liquid gold and deep sapphire blue merging and swirling together, captured in high-speed photography, dramatic contrast between metallic shine and deep matte tones, luxury art print aesthetic, dynamic motion frozen in time",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "sd-048",
+    "title": "水彩画の牡丹ボタニカル",
+    "prompt": "咲き誇る牡丹の繊細なボタニカル水彩イラストレーション、ブラッシュピンクとクリームのソフトなウォッシュに微かなパープルのアンダートーン、ウェット・オン・ウェット技法で色が滲む縁、紙のテクスチャが見える、花びらに一粒の朝露、緩やかで表情豊かな筆致、セージグリーンの繊細な茎と葉のディテール、白背景に豊かなネガティブスペース",
+    "prompt_ori": "Delicate botanical watercolor illustration of a blooming peony flower, soft washes of blush pink and cream with subtle purple undertones, wet-on-wet technique with bleeding color edges, visible paper texture, a single dewdrop on one petal, loose expressive brushwork, fine stem and leaf details in sage green, white background with generous negative space",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "sd-049",
+    "title": "19世紀のボタニカルイラストレーション",
+    "prompt": "19世紀の科学的な植物図鑑イラスト：根系が完全に露出した熱帯の花植物、花の断面図と種鞘の内部を示す円形のインセット図、経年変化したクリーム色のパーチメント紙にファインインクの線描とソフトな水彩、繊細な注釈線と手書きのラテン語ラベル、ヴィンテージ銅版画スタイル",
+    "prompt_ori": "19th-century scientific botanical illustration of a tropical flowering plant with fully exposed root system, circular inset diagrams showing flower cross-section and seed pod interior, fine ink linework with soft watercolor on aged cream parchment, handwritten Latin labels with delicate annotation lines, vintage engraving style",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "sd-050",
+    "title": "生物発光の海底森林",
+    "prompt": "透明な深海生物が漂う生物発光の海底森林、青とバイオレットに輝くサンゴの塔が上方に伸びる、遥か水面からの光の筋が夢のように差し込む、8K水中写真スタイル、異世界的で幻想的な雰囲気、深海の神秘",
+    "prompt_ori": "Bioluminescent underwater forest with translucent deep-sea creatures, glowing blue and violet coral towers stretching upward, dreamy shafts of distant surface light filtering down, 8K underwater photography style, otherworldly and ethereal atmosphere, deep ocean mystery",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "sd-051",
+    "title": "天空の女魔術師",
+    "prompt": "真夜中の崩れかけた古代神殿遺跡の上空に浮遊する天空の女魔術師、渦巻くネビュラ色の魔法エネルギーに包まれる、彼女の背後で星空に輝く二つの月、ハイパーリアリスティックなデジタルペインティング、シネマティックで壮大なスケールの構図、流れるようなローブと幻想的な光の軌跡、8K",
+    "prompt_ori": "A celestial sorceress floating above crumbling ancient temple ruins at midnight, surrounded by swirling nebula-colored magical energy, twin moons glowing in a star-filled sky behind her, hyperrealistic digital painting, cinematic epic scale composition, flowing robes and ethereal light trails, 8K",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "sd-052",
+    "title": "ステンドグラスの不死鳥",
+    "prompt": "壮麗な不死鳥が翼を広げて飛び立つ姿を描いた精緻なステンドグラスの窓、ルビーレッド、サファイアブルー、エメラルドグリーン、アンバーゴールドの宝石色の豊かなトーン、各ガラスセクションを分ける太い黒い鉛線、背面から差し込む光が輝くグローを生み出す、ゴシック大聖堂のバラ窓の円形構図",
+    "prompt_ori": "Intricate stained glass window depicting a majestic phoenix rising with spread wings, rich jewel tones of ruby red, sapphire blue, emerald green, and amber gold, thick black lead lines separating each glass section, light streaming through from behind creating luminous glow, Gothic cathedral rose window circular composition",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "sd-053",
+    "title": "折り紙のキツネ",
+    "prompt": "シャープで精密な紙の折り目と角張った幾何学的な面で作られた折り紙スタイルの座るキツネ、折り目の線と影が見える、オレンジと白の紙テクスチャ、ミニマリストの白い面の上にソフトなディフューズドスタジオライティング、クリーンな幾何学的美学、フォトリアリスティックな紙素材レンダリング",
+    "prompt_ori": "A sitting fox crafted in origami style with crisp precise paper folds and angular geometric surfaces, visible crease lines and fold shadows, orange and white paper textures, placed on minimalist white surface with soft diffused studio lighting, clean geometric aesthetic, photorealistic paper material rendering",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "sd-054",
+    "title": "リキッドグラスUIアプリ",
+    "prompt": "フロストガラスパネルを持つ半透明のリキッドグラスUIを表示する未来型スマートフォン、透明なレイヤーを通して光が屈折する、表面に微かな虹のコースティクス、ディープインディゴからウォームコーラルへのソフトグラデーション背景、ガラスエッジにスペキュラーハイライトのスタジオライティング、Apple風のミニマルデザイン、フォトリアリスティック3Dレンダー",
+    "prompt_ori": "Futuristic smartphone displaying a translucent liquid glass UI with frosted glass panels, light refracting through transparent layers, subtle rainbow caustics on surface, soft gradient background from deep indigo to warm coral, studio lighting with specular highlights on glass edges, Apple-inspired minimal design, photorealistic 3D render",
+    "category": "ui",
+    "images": []
+  },
+  {
+    "id": "sd-055",
+    "title": "ヘルス＆フィットネスアプリ画面",
+    "prompt": "ヘルス＆フィットネスアプリデザインを表示する3つのスマートフォン画面：サーキュラープログレスリングのダッシュボード、エクササイズイラスト付きのワークアウト詳細ページ、カラフルなマクロバーの栄養管理画面。クリーンな白背景、モダンな丸みのあるUI要素、鮮やかなグリーンとブルーのアクセントカラー、一貫したデザインシステム、アプリストアのマーケティングスクリーンショットスタイル",
+    "prompt_ori": "Three smartphone screens showing a health and fitness app design: dashboard with circular progress rings, workout detail page with exercise illustrations, nutrition tracking with colorful macro bars. Clean white background, modern rounded UI elements, vibrant green and blue accent colors, consistent design system, app store marketing screenshot style",
+    "category": "ui",
+    "images": []
+  },
+  {
+    "id": "sd-056",
+    "title": "ECサイトのランディングページ",
+    "prompt": "浮遊するノートPCに表示されたモダンなECサイトのランディングページモックアップ：大きなプロダクト画像のヒーローセクション、クリーンなナビゲーションバー、太いヘッドラインタイポグラフィ、コーラル色の「Shop Now」CTAボタン、下部に統一されたカードレイアウトの商品グリッド、ウォームニュートラルカラーパレット、プロフェッショナルなウェブデザイン、わずかなパースペクティブティルト",
+    "prompt_ori": "Modern e-commerce website landing page mockup on a floating laptop: hero section with large product image, clean navigation bar, bold headline typography, 'Shop Now' call-to-action button in coral, product grid below with consistent card layout, warm neutral color palette, professional web design, slight perspective tilt",
+    "category": "ui",
+    "images": []
+  },
+  {
+    "id": "sd-057",
+    "title": "4コマ漫画",
+    "prompt": "クリーンでモダンなマンガスタイルの4コマ漫画：コマ1はコードを凝視するプログラマー、コマ2は電球エフェクト付きの突然のひらめき、コマ3はスピードライン付きの興奮したタイピング、コマ4は画面に「Error: undefined」が表示されうなだれた表情と汗マーク。クリーンな線画、表情豊かな顔、テキスト入りの吹き出し、一貫したキャラクターデザイン",
+    "prompt_ori": "A 4-panel comic strip in clean modern manga style: Panel 1 shows a programmer staring at code, Panel 2 shows sudden realization with lightbulb effect, Panel 3 shows excited typing with speed lines, Panel 4 shows the screen displaying 'Error: undefined', dejected expression with sweat drop. Clean linework, expressive faces, speech bubbles with text, consistent character design",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "sd-058",
+    "title": "ファンタジー絵コンテシーケンス",
+    "prompt": "映画の絵コンテレイアウト：ファンタジーアドベンチャーシーケンスを2x3グリッドの6パネルで表現 — パネル1：夕暮れの中世の城の広角ショット、パネル2：剣を抜く騎士のクローズアップ、パネル3：迫りくるドラゴンのオーバーショルダーショット、パネル4：飛び跳ねる騎士のダイナミックアクション、パネル5：ドラマチックな火炎ブレス、パネル6：勝利のシルエット。各パネル下にカメラアングルの注釈、鉛筆スケッチ風にグレートーンのシェーディング",
+    "prompt_ori": "Film storyboard layout: 6 panels in 2x3 grid showing a fantasy adventure sequence — Panel 1: wide shot of medieval castle at sunset, Panel 2: close-up of knight drawing sword, Panel 3: over-shoulder shot of dragon approaching, Panel 4: dynamic action of knight leaping, Panel 5: dramatic fire breath, Panel 6: triumphant silhouette. Camera angle annotations below each panel, pencil sketch style with gray tone shading",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "sd-059",
+    "title": "ウェブトゥーンのロマンスシーン",
+    "prompt": "韓国ウェブトゥーン風のロマンチックなシーン：桜吹雪の中で傘を共有する若いカップル、ソフトなパステルピンクと白のカラーパレット、セルシェーディング付きのクリーンなデジタル線画、きらめく光の効果、優しい微笑みで女の子を見下ろす男の子、夢のようなフレームを作り出す舞い散る花びら、縦スクロール形式の構図、少女漫画の美学",
+    "prompt_ori": "Korean webtoon style romantic scene: a young couple sharing an umbrella in cherry blossom rain, soft pastel pink and white color palette, clean digital linework with cel shading, sparkling light effects, the boy looking down at the girl with a gentle smile, flowing petals creating a dreamy frame, vertical scroll format composition, shoujo manga aesthetic",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "sd-060",
+    "title": "レトロピクセルゲームシーン",
+    "prompt": "16ビットピクセルアートの横スクロールゲームレベル：ダーククリスタル洞窟の入口に光る剣を持つ勇敢な騎士、ピクセルパーフェクトなスプライト、NES風のディープブルー、パープル、暖かいオレンジの松明の光のカラーパレット、洞窟壁面のアニメ風松明、遠くに見える宝箱、画面上部にライフハートのレトロゲームHUD、SNES時代のアドベンチャー美学",
+    "prompt_ori": "16-bit pixel art side-scrolling game level: a brave knight with a glowing sword at the entrance of a dark crystal cave, pixel-perfect sprites, NES-inspired color palette of deep blues, purples and warm orange torchlight, animated-style torches on cave walls, treasure chest in the distance, retro game HUD with health hearts at the top, SNES-era adventure aesthetic",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "se-061",
+    "title": "フューチャリスティック・アバター",
+    "prompt": "ネオンに輝く瞳と精緻なタトゥーを持つサイバーパンクハッカーの高精細ポートレート、シャープな顔立ち、暗い都市背景、高解像度、リアリスティックスタイル",
+    "prompt_ori": "A highly detailed portrait of a cyberpunk hacker with glowing neon eyes, intricate tattoos, sharp features, in a dark urban background, high resolution, realistic style",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "se-062",
+    "title": "SNS投稿グラフィック",
+    "prompt": "旅行プロモーション用の魅力的なSNSグラフィック、夕暮れのトロピカルビーチにヤシの木、テキストオーバーレイ「Escape to Paradise」、鮮やかな色彩、モダンなレイアウト",
+    "prompt_ori": "Engaging social media graphic for a travel promotion, featuring a tropical beach at sunset, palm trees, text overlay 'Escape to Paradise', vibrant colors, modern layout",
+    "category": "social",
+    "images": []
+  },
+  {
+    "id": "se-063",
+    "title": "気候変動インフォグラフィック",
+    "prompt": "気候変動に関するインフォグラフィック、気温上昇のグラフ、氷河融解のアイコン、グリーンテーマ、見やすいタイポグラフィ、教育的な内容",
+    "prompt_ori": "一个关于气候变化的信息图，包含温度上升图表、冰川融化图标、绿色主题，清晰排版，教育性强",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-064",
+    "title": "ゲーミングサムネイル",
+    "prompt": "アクションRPGゲームのダイナミックなYouTubeサムネイル、ドラゴンと戦う戦士を描写、爆発エフェクト、太字テキスト「Epic Boss Fight」、ハイコントラスト",
+    "prompt_ori": "Dynamic YouTube thumbnail for a action RPG game, showing a warrior battling a dragon, explosive effects, bold text 'Epic Boss Fight', high contrast",
+    "category": "thumbnail",
+    "images": []
+  },
+  {
+    "id": "se-065",
+    "title": "SF映画ポスター",
+    "prompt": "宇宙冒険映画のヴィンテージ風ポスター、異星の惑星に立つ宇宙飛行士たち、レトロフォント、赤と青の配色、ドラマチックな構図",
+    "prompt_ori": "Vintage-style poster for a space adventure movie, featuring astronauts on an alien planet, retro fonts, red and blue color scheme, dramatic composition",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-066",
+    "title": "ハイエンド・スマートフォン展示",
+    "prompt": "ガラス台の上に置かれた高級スマートフォンのリアリスティック商品写真、ディテール豊かなスクリーン表示、柔らかい照明、プロフェッショナルな撮影スタイル",
+    "prompt_ori": "一个高端智能手机的现实主义产品照，放在玻璃台上，细节丰富的屏幕显示，柔和灯光，专业摄影风格",
+    "category": "product",
+    "images": []
+  },
+  {
+    "id": "se-067",
+    "title": "山岳写真",
+    "prompt": "夜明けの雪山の圧巻のランドスケープフォトグラフィー、霧に包まれた谷、透き通った湖の反射、広角レンズ、自然光",
+    "prompt_ori": "Stunning landscape photography of snow-capped mountains at dawn, misty valleys, crystal-clear lake reflection, wide-angle shot, natural lighting",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "se-068",
+    "title": "食欲をそそるピザ",
+    "prompt": "焼きたてペパロニピザのリアルなイメージ、溶けたチーズが滴り落ちる、湯気が立ち上る、木製ボードのセッティング、食欲をそそる精緻なテクスチャ",
+    "prompt_ori": "Realistic image of a freshly baked pepperoni pizza, melted cheese dripping, steam rising, wooden board setting, appetizing and detailed textures",
+    "category": "food",
+    "images": []
+  },
+  {
+    "id": "se-069",
+    "title": "モダン建築デザイン",
+    "prompt": "ガラスカーテンウォールのモダンな高層ビル、都市のスカイラインを背景に、幾何学的な線のデザイン、夕日の照明、建築フォトグラフィースタイル",
+    "prompt_ori": "一座玻璃幕墙的现代高层建筑，城市天际线背景，几何线条设计，日落照明，建筑摄影风格",
+    "category": "architecture",
+    "images": []
+  },
+  {
+    "id": "se-070",
+    "title": "アブストラクトアート作品",
+    "prompt": "青とゴールドの渦巻くパターンに幾何学的な形が交差するアブストラクトデジタルアート、幽玄な雰囲気、ハイディテール、モダンな美学",
+    "prompt_ori": "Abstract digital art with swirling patterns of blue and gold, geometric shapes intersecting, ethereal atmosphere, high detail, modern aesthetic",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "se-071",
+    "title": "スーパーヒーロー・コミック",
+    "prompt": "飛翔するスーパーヒーローのダイナミックなコミックブックパネル、マントがなびく、眼下に広がる都市、太い線画、鮮やかな色彩、アクション満載のスタイル",
+    "prompt_ori": "A dynamic comic book panel of a superhero in flight, cape flowing, cityscape below, bold lines, vibrant colors, action-packed style",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-072",
+    "title": "シンプルUIデザイン",
+    "prompt": "モバイルアプリのユーザーインターフェース、ミニマルスタイル、ブルーテーマのボタンとナビゲーションバー、クリアなアイコン、レスポンシブレイアウト",
+    "prompt_ori": "一个移动应用的用户界面，简约风格，蓝色主题按钮和导航栏，图标清晰，响应式布局",
+    "category": "ui",
+    "images": []
+  },
+  {
+    "id": "se-073",
+    "title": "ファンタジーアバター",
+    "prompt": "尖った耳と流れるような髪を持つエルフの弓使いの精緻なアバター、神秘的な森の背景、ファンタジーアートスタイル、高解像度",
+    "prompt_ori": "Detailed avatar of an elven archer with pointed ears, flowing hair, mystical forest background, fantasy art style, high resolution",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "se-074",
+    "title": "SNSイベントポスター",
+    "prompt": "音楽フェスティバルの現場を映したSNSイベントポスター、群衆とステージの照明効果、テキスト「Join the Fest」、エネルギッシュなカラー",
+    "prompt_ori": "一个社交媒体活动海报，展示音乐节现场，人群和舞台灯效，文字 'Join the Fest', 活力色彩",
+    "category": "social",
+    "images": []
+  },
+  {
+    "id": "se-075",
+    "title": "健康食インフォグラフィック",
+    "prompt": "健康的な食事に関するインフォグラフィック、フードピラミッドのアイコン、統計データグラフ、グリーン基調、読みやすいデザイン",
+    "prompt_ori": "一个关于健康饮食的信息图，包含食物金字塔图标、统计数据图表，绿色调，易读设计",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-076",
+    "title": "映画サムネイル",
+    "prompt": "ホラー映画予告編のスリリングなサムネイル、お化け屋敷の中のシルエット、赤い光、サスペンスフルなテキスト「Watch if You Dare」",
+    "prompt_ori": "Thrilling thumbnail for a horror movie trailer, featuring a shadowy figure in a haunted house, red glow, suspenseful text 'Watch if You Dare'",
+    "category": "thumbnail",
+    "images": []
+  },
+  {
+    "id": "se-077",
+    "title": "エコポスターデザイン",
+    "prompt": "環境保護テーマのポスター、地球と樹木のモチーフ、スローガン「Save the Planet」、力強いコントラストカラー",
+    "prompt_ori": "一个环保主题的海报，展示地球和树木元素， slogan 'Save the Planet', 强烈对比色",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-078",
+    "title": "ラグジュアリーウォッチ商品写真",
+    "prompt": "ベルベットスタンドの上に置かれたラグジュアリーゴールドウォッチのリアリスティック商品写真、精緻なディテール、スタジオライティング、エレガントな背景",
+    "prompt_ori": "Realistic product shot of a luxury gold watch on a velvet stand, intricate details, studio lighting, elegant background",
+    "category": "product",
+    "images": []
+  },
+  {
+    "id": "se-079",
+    "title": "都市写真",
+    "prompt": "夜の賑やかな都市のヴィヴィッドなストリートフォトグラフィー、ネオンライト、行き交う人々、広角レンズ、アトモスフェリックなムード",
+    "prompt_ori": "Vibrant street photography of a bustling city at night, neon lights, people walking, wide-angle lens, atmospheric mood",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "se-080",
+    "title": "印象派アート",
+    "prompt": "庭園の花々を描いた印象派スタイルのデジタルアート、柔らかい色調と筆致、ドリーミーな効果",
+    "prompt_ori": "一幅印象派风格的数字艺术，描绘花园中的花朵，柔和色调和笔触，梦幻效果",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "se-081",
+    "title": "山頂の少女アバター",
+    "prompt": "山頂で微笑む若い少女のアバター、背景に日の出、なびく髪、輝く瞳、精緻なディテール、アーティスティックスタイル",
+    "prompt_ori": "使用 seedream 模型生成一个在山顶上微笑的年轻女孩头像，背景是日出，头发飘逸，眼睛明亮，细节丰富，艺术风格",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "se-082",
+    "title": "エコロジーポスターデザイン",
+    "prompt": "環境保護テーマのポスター、森林、河川、野生動物を描写、テキスト「保護地球、從我做起」、鮮やかな色彩、人の心を動かすデザイン",
+    "prompt_ori": "seedream 生成一个环保主题的海报，展示森林、河流和野生动物，文字：'保护地球，从我做起'，颜色鲜艳，激励人心",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-083",
+    "title": "スマートウォッチ商品写真",
+    "prompt": "モダンなデスクの上に置かれたハイテクスマートウォッチ、精緻な反射のディテール、ブルーのアクセントとフューチャリスティックな要素",
+    "prompt_ori": "A high-tech smartwatch on a modern desk, detailed reflections, seedream style, with blue accents and futuristic elements",
+    "category": "product",
+    "images": []
+  },
+  {
+    "id": "se-084",
+    "title": "ストリートフォトグラフィー",
+    "prompt": "雨の中の都市ストリートフォトグラフィー、傘をさす行人、水たまりに反射するネオン、モノクロ調色、高いリアリティ",
+    "prompt_ori": "seedream 生成一个城市街头摄影，雨中行人撑伞，霓虹灯反射在水坑中，黑白调色，真实感强",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "se-085",
+    "title": "ジューシーハンバーガー",
+    "prompt": "フレッシュな野菜とチーズが詰まったジューシーなハンバーガー、湯気が立ち上る、フォトリアリスティック、木製プレートに盛り付け",
+    "prompt_ori": "A juicy burger with fresh veggies and cheese, steam rising, photorealistic, seedream rendering, on a wooden plate",
+    "category": "food",
+    "images": []
+  },
+  {
+    "id": "se-086",
+    "title": "モダン建築図",
+    "prompt": "ガラスカーテンウォールの高層ビル、夜景にきらめくライト、周囲に都市景観、精緻なディテール",
+    "prompt_ori": "seedream 生成一座玻璃幕墙的高层建筑，夜景灯光璀璨，周围是城市景观，细节精致",
+    "category": "architecture",
+    "images": []
+  },
+  {
+    "id": "se-087",
+    "title": "アブストラクトペインティング",
+    "prompt": "渦巻く色彩と幾何学的な形が交差するアブストラクトペインティング、感情と深みを呼び起こすスタイル",
+    "prompt_ori": "An abstract painting with swirling colors and geometric shapes, seedream style, evoking emotion and depth",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "se-088",
+    "title": "ヒーロー漫画シーン",
+    "prompt": "スーパーヒーローの戦闘漫画、爆発エフェクト、ダイナミックなアクション、彩度の高い色彩、物語性のある構図",
+    "prompt_ori": "seedream 生成一个超级英雄战斗漫画，爆炸效果，动态动作，色彩饱和，故事感强",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-089",
+    "title": "モバイルUIインターフェース",
+    "prompt": "ナビゲーションバー、アイコン、ボタンを含むクリーンなモバイルアプリUIデザイン、ミニマリストでモダン",
+    "prompt_ori": "A clean mobile app UI design with navigation bars, icons, and buttons, seedream generated, minimalist and modern",
+    "category": "ui",
+    "images": []
+  },
+  {
+    "id": "se-090",
+    "title": "SNSシェア画像",
+    "prompt": "友人の集まりを描いたSNSシェア画像、楽しい雰囲気、ハートやコメントのアイコンを追加",
+    "prompt_ori": "seedream 生成一个社交媒体分享图，展示朋友聚会，快乐氛围，添加爱心和评论图标",
+    "category": "social",
+    "images": []
+  },
+  {
+    "id": "se-091",
+    "title": "データインフォグラフィック",
+    "prompt": "気候変動データのインフォグラフィック、チャートとアイコン付き、カラフルで分かりやすい",
+    "prompt_ori": "An infographic on climate change data, with charts and icons, seedream style, colorful and easy to understand",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-092",
+    "title": "動画サムネイル",
+    "prompt": "ゲーム動画のサムネイル、キャラクターの戦闘シーン、爆発エフェクト、目を引くデザイン",
+    "prompt_ori": "seedream 生成一个游戏视频缩略图，显示角色战斗场景，爆炸效果，吸引眼球",
+    "category": "thumbnail",
+    "images": []
+  },
+  {
+    "id": "se-093",
+    "title": "音楽ポスターアート",
+    "prompt": "バンドメンバーとライトを配したコンサートポスター、鮮やかな色彩とダイナミックな構図",
+    "prompt_ori": "A concert poster with band members and lights, seedream rendered, vibrant colors and dynamic composition",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-094",
+    "title": "ファッション商品展示",
+    "prompt": "高級ハンドバッグの商品写真、繊細なレザーテクスチャ、照明が映える、シンプルな背景",
+    "prompt_ori": "seedream 生成一个高端手袋产品图，皮质纹理细腻，灯光打亮，背景简约",
+    "category": "product",
+    "images": []
+  },
+  {
+    "id": "se-095",
+    "title": "自然風景写真",
+    "prompt": "夜明けの山上湖の静謐なランドスケープフォトグラフィー、霧と野生動物",
+    "prompt_ori": "A serene landscape photography of a mountain lake at dawn, seedream style, with mist and wildlife",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "se-096",
+    "title": "中華料理フォト",
+    "prompt": "湯気が立ち上る宮保鶏丁、ご飯と野菜を添えて、食欲をそそる色彩、リアルな質感",
+    "prompt_ori": "seedream 生成一个热气腾腾的宫保鸡丁，配上米饭和蔬菜，色彩诱人，真实口感",
+    "category": "food",
+    "images": []
+  },
+  {
+    "id": "se-097",
+    "title": "古建築デザイン",
+    "prompt": "精緻な彫刻を施された古代寺院建築、ゴールデンアワーの光の下で",
+    "prompt_ori": "An ancient temple architecture with intricate carvings, seedream generated, under golden hour light",
+    "category": "architecture",
+    "images": []
+  },
+  {
+    "id": "se-098",
+    "title": "印象派アート作品",
+    "prompt": "田園風景を描いた印象派スタイルの油彩画、花々と川、柔らかな色調",
+    "prompt_ori": "seedream 生成一幅印象派风格的油画，描绘田园风光，花朵和河流，色彩柔和",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "se-099",
+    "title": "冒険コミックページ",
+    "prompt": "ヒーローと悪役が登場する冒険物語のコミックストリップ、ドラマチックなパネル",
+    "prompt_ori": "A comic strip of an adventure story, with heroes and villains, seedream style, dramatic panels",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-100",
+    "title": "ウェブUI要素",
+    "prompt": "ボタン、ドロップダウンメニュー、フォームを含むレスポンシブなウェブUI、モダンなフラットデザイン",
+    "prompt_ori": "seedream 生成一个响应式网页UI，包含按钮、下拉菜单和表单，现代扁平化设计",
+    "category": "ui",
+    "images": []
+  },
+  {
+    "id": "se-101",
+    "title": "ヴィヴィッド・ミュージックポスター",
+    "prompt": "サンセリフの太字タイポグラフィを中心にしたダイナミックなポスターデザイン、抽象的な波のパターンを持つ音楽テーマ、赤とブルーの鮮やかな色彩、ハイコントラスト、4K解像度",
+    "prompt_ori": "A dynamic poster design featuring bold typography with sans-serif fonts, centered on a musical theme with abstract wave patterns, vibrant colors like red and blue, high contrast, in the style of Seedream AI, 4K resolution.",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-102",
+    "title": "ミニマリスト・テックポスター",
+    "prompt": "シンフォントのエレガントなタイポグラフィを使ったミニマリストポスター、回路やホログラムなどのフューチャリスティックなテック要素、モノクロマティックブルーの配色、クリーンなレイアウト、超高精細",
+    "prompt_ori": "A minimalist poster with elegant typography using thin fonts, showcasing futuristic tech elements like circuits and holograms, monochromatic blue scheme, clean layout, generated with Seedream model, ultra HD.",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-103",
+    "title": "アブストラクトアート・ポスター",
+    "prompt": "幾何学的な形と流れるような文字を融合したクリエイティブなタイポグラフィのアブストラクトポスターデザイン、モダンアートムーブメントにインスパイアされた、ウォームカラーパレット、ハイディテール",
+    "prompt_ori": "An abstract poster design with creative typography blending geometric shapes and fluid letters, inspired by modern art movements, warm color palette, high detail, using Seedream AI for generation.",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-104",
+    "title": "エコフレンドリーデザイン・ポスター",
+    "prompt": "エコテーマを強調したタイポグラフィのポスター、セリフフォントでアクセント、リーフモチーフとグリーンのグラデーション、バランスのとれた構図、1080p品質",
+    "prompt_ori": "A poster emphasizing typography with eco themes, using serif fonts for emphasis, incorporating leaf motifs and green gradients, balanced composition, rendered in Seedream style, 1080p quality.",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-105",
+    "title": "レトロスタイル・ポスター",
+    "prompt": "ヴィンテージタイポグラフィのレトロ風ポスター、太字とイタリック体のフォント、1950年代の車やダイナーの要素、暖かいセピアトーン、精緻なテクスチャ",
+    "prompt_ori": "A retro-inspired poster with vintage typography, bold and italic fonts, featuring 1950s elements like cars and diners, warm sepia tones, detailed textures, via Seedream AI.",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-106",
+    "title": "コーポレートブランド・ポスター",
+    "prompt": "スリークなコーポレートタイポグラフィのプロフェッショナルポスター、ブランディング用カスタムフォント、ロゴ要素とアブストラクト背景の統合、クールなコーポレートカラー、高解像度",
+    "prompt_ori": "A professional poster with sleek corporate typography, using custom fonts for branding, integrated with logo elements and abstract backgrounds, cool corporate colors, Seedream generated, high resolution.",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-107",
+    "title": "フェスティバルイベント・ポスター",
+    "prompt": "スクリプトフォントとブロックフォントを組み合わせた遊び心のあるタイポグラフィのフェスティブポスターデザイン、カラフルなイラスト付きのイベント詳細、ヴィヴィッドでエネルギッシュな雰囲気",
+    "prompt_ori": "A festive poster design with playful typography, mixing script and block fonts, centered on event details with colorful illustrations, vibrant and energetic vibe, created with Seedream model.",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-108",
+    "title": "イノベーティブSFポスター",
+    "prompt": "グロウイングエフェクトのフューチャリスティックタイポグラフィを特徴とするイノベーティブなSFポスター、惑星と星のスペーステーマ、ネオンアクセントのダーク背景、精緻なディテール",
+    "prompt_ori": "An innovative sci-fi poster featuring futuristic typography with glowing effects, space themes with planets and stars, dark background with neon accents, detailed in Seedream AI style.",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-109",
+    "title": "ボールドタイポグラフィ・ポスター",
+    "prompt": "太字フォントでテーマを際立たせたボールドな現代ポスター、抽象的な幾何学模様を融合、モノクロを基調に、クリーンなレイアウト、高精細効果",
+    "prompt_ori": "一个大胆排版的现代海报，使用粗体字体突出主题，融入抽象几何图案，颜色以黑白为主，清晰布局，高清效果，由 Seedream 模型生成。",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-110",
+    "title": "アーティスティック・ポスターデザイン",
+    "prompt": "エレガントな曲線フォントを中心にしたアーティスティックスタイルのポスター、花や線画などの絵画的要素と融合、柔らかなカラーグラデーション、4K解像度",
+    "prompt_ori": "一个艺术风格的海报， typography 以优雅曲线字体为主，结合绘画元素如花朵和线条，柔和色彩渐变，使用 Seedream AI 渲染，4K 分辨率。",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-111",
+    "title": "テクノロジーテーマ・ポスター",
+    "prompt": "未来感あるフォントを使用したテクノロジーテーマのポスター、デジタルマトリックスと光線効果の背景、ブルーグリーントーン、ハイコントラスト、高品質画像",
+    "prompt_ori": "一个科技主题的海报， typography 使用未来感字体，背景是数字矩阵和光线效果，蓝绿色调，高对比度，Seedream 生成的高质量图像。",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-112",
+    "title": "カルチャーフェスティバル・ポスター",
+    "prompt": "伝統的なフォントとモダンフォントを融合したカルチャーフェスティバルのポスターデザイン、民族的なパターンとテキストを含む、ウォームカラー、バランスの良い構図",
+    "prompt_ori": "一个文化节的海报设计， typography 融合传统和现代字体，包含民族图案和文字，温暖色系，平衡构图，运用 Seedream 模型创建。",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-113",
+    "title": "ファッションブランド・ポスター",
+    "prompt": "精緻なフォントを中心にしたファッションブランドのポスター、モデルとアパレル要素を添えて、上品なグレートーン、リッチなディテール",
+    "prompt_ori": "一个时尚品牌的海报， typography 以精致字体为主，搭配模型和服饰元素，高级灰色调，细节丰富，Seedream AI 输出。",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-114",
+    "title": "スポーツイベント・ポスター",
+    "prompt": "ダイナミックなフォントを使用したスポーツイベントのポスター、アスリートと競技場の画像を融合、赤と白を基調に、高精細バージョン",
+    "prompt_ori": "一个运动赛事的海报， typography 使用动态字体，融入运动员和赛场图像，红色和白色为主， Seedream 风格的高清版本。",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-115",
+    "title": "クリエイティブ・アブストラクトポスター",
+    "prompt": "歪みと変形を加えたフォントによるクリエイティブなアブストラクトポスター、フルイドアート効果の背景、マルチカラーグラデーション、精緻なディテール",
+    "prompt_ori": "一个创意抽象的海报， typography 以扭曲变形字体呈现，背景是流体艺术效果，多彩渐变，Seedream 生成的精细细节。",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-116",
+    "title": "スタイリッシュなスマートフォン展示",
+    "prompt": "ミニマリストの白い背景にモダンスマートフォンの高解像度コマーシャル写真、機能をハイライトするドラマチックなライティング、プロフェッショナルな商品撮影スタイル",
+    "prompt_ori": "A high-resolution commercial photograph of a modern smartphone on a minimalist white background, with dramatic lighting highlighting its features, professional product photography style, seedream AI model.",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "se-117",
+    "title": "ラグジュアリー腕時計ショット",
+    "prompt": "ダークベルベットの上に置かれたゴールドのラグジュアリー腕時計のプロフェッショナル商品写真、ソフトなスタジオライト、ハイディテールと反射、ウォッチのコマーシャル広告",
+    "prompt_ori": "Professional product photo of a gold luxury watch on a dark velvet surface, soft studio lights, high detail and reflections, commercial advertising for watches, seedream model.",
+    "category": "product",
+    "images": []
+  },
+  {
+    "id": "se-118",
+    "title": "エレガント・パフューム広告",
+    "prompt": "フローラル要素に囲まれたガラス香水ボトルの洗練されたコマーシャルイメージ、窓からの自然光、鮮やかな色彩とシャープなフォーカス",
+    "prompt_ori": "A polished commercial image of a glass perfume bottle with floral elements around it, natural daylight from a window, vibrant colors and sharp focus, seedream AI generated.",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "se-119",
+    "title": "コスメティック商品ディスプレイ",
+    "prompt": "きれいに並べられたメイクブラシとパレットの高品質商品写真、テクスチャを映すイーブンなライティング、ビューティープロダクトのコマーシャルスタイル",
+    "prompt_ori": "High-quality product photography of makeup brushes and palettes arranged neatly, even lighting to show textures, commercial style for beauty products, seedream model.",
+    "category": "product",
+    "images": []
+  },
+  {
+    "id": "se-120",
+    "title": "テックガジェット・クローズアップ",
+    "prompt": "充電ケースに入ったワイヤレスイヤホンの精緻なコマーシャルショット、マクロレンズで繊細なディテール、ブルーのアンビエントライティング、プロフェッショナルなセッティング",
+    "prompt_ori": "Detailed commercial shot of wireless earbuds in a charging case, macro lens for intricate details, blue ambient lighting, professional setup, seedream AI.",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "se-121",
+    "title": "ファッションアクセサリー写真",
+    "prompt": "木製の棚に並んだレザーハンドバッグのスタイリッシュなコマーシャル写真、暖かい室内照明、奥行きを生み出すハイコントラストとシャドウ",
+    "prompt_ori": "A stylish commercial photograph of leather handbags on a wooden shelf, warm indoor lighting, high contrast and shadows for depth, seedream generated image.",
+    "category": "product",
+    "images": []
+  },
+  {
+    "id": "se-122",
+    "title": "キッチン家電広告",
+    "prompt": "新鮮なフルーツに囲まれたブレンダーのプロフェッショナル商品写真、明るいキッチンセッティング、リアルなテクスチャと反射、コマーシャルプロモーション",
+    "prompt_ori": "Professional product image of a blender with fresh fruits around it, bright kitchen setting, realistic textures and reflections, commercial promotion, seedream model.",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "se-123",
+    "title": "ジュエリーディスプレイショット",
+    "prompt": "ブラックスタンドに置かれたダイヤモンドイヤリングのハイエンドコマーシャル写真、スポットライト照明、きらめく効果と精緻なディテール",
+    "prompt_ori": "High-end commercial photo of diamond earrings on a black stand, spotlight illumination, sparkling effects and fine details, seedream AI style.",
+    "category": "product",
+    "images": []
+  },
+  {
+    "id": "se-124",
+    "title": "ビューティーセラムボトル",
+    "prompt": "ドロップレットが付いたスキンケアセラムボトルのクリーンなコマーシャルイメージ、ソフトなディフューズドライト、透明なガラスの効果、プロフェッショナルなパッケージショット",
+    "prompt_ori": "A clean commercial image of a skincare serum bottle with droplets, soft diffused light, transparent glass effects, professional packaging shot, seedream generated.",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "se-125",
+    "title": "電子デバイスセットアップ",
+    "prompt": "デスク上のノートPCとアクセサリーのダイナミックな商品写真、オフィス環境のライティング、シャープなエッジとスクリーンの反射、コマーシャル用途",
+    "prompt_ori": "Dynamic product photography of a laptop on a desk with accessories, office environment lighting, sharp edges and screen reflections, commercial use, seedream model.",
+    "category": "product",
+    "images": []
+  },
+  {
+    "id": "se-126",
+    "title": "ホームデコアイテム",
+    "prompt": "花を生けた陶器の花瓶のコマーシャル写真、自然な窓光、繊細な模様とテクスチャ、インテリアデザイン向けの高いリアリズム",
+    "prompt_ori": "Commercial photo of a ceramic vase with flowers, natural window light, intricate patterns and textures, high realism for interior design, seedream AI.",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "se-127",
+    "title": "フィットネス機器広告",
+    "prompt": "ジムセッティングのダンベルとマットのプロフェッショナルイメージ、モチベーショナルなライティング、汗とテクスチャのディテール、コマーシャルフィットネスプロモーション",
+    "prompt_ori": "Professional image of dumbbells and a mat in a gym setting, motivational lighting, sweat and texture details, commercial fitness promotion, seedream generated.",
+    "category": "product",
+    "images": []
+  },
+  {
+    "id": "se-128",
+    "title": "ドリンク商品ショット",
+    "prompt": "結露の付いた炭酸缶の高解像度コマーシャル写真、屋外ピクニック背景、鮮やかな色彩とバブル",
+    "prompt_ori": "High-resolution commercial photograph of a soda can with condensation, outdoor picnic background, vibrant colors and bubbles, seedream model style.",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "se-129",
+    "title": "ツールキットディスプレイ",
+    "prompt": "広げられたツールキットの精緻な商品画像、作業場のライティング、メタリックな輝きと整理整頓、コマーシャルハードウェア広告",
+    "prompt_ori": "A detailed product image of a toolkit spread out, workshop lighting, metallic shine and organization, commercial hardware advertising, seedream AI.",
+    "category": "product",
+    "images": []
+  },
+  {
+    "id": "se-130",
+    "title": "アパレルライン写真",
+    "prompt": "マネキンに着せたジャケットのコマーシャルファッションフォトグラフィー、スタジオフラッシュライト、生地のテクスチャと折り目、プロフェッショナルな衣料品ラインプロモーション",
+    "prompt_ori": "Commercial fashion photography of a jacket on a mannequin, studio flash lights, fabric textures and folds, professional clothing line promotion, seedream generated.",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "se-131",
+    "title": "ダイナミック・テックサムネイル",
+    "prompt": "最新テクノロジートレンドに関するSNS動画用のハイエナジーYouTubeサムネイル、フューチャリスティックな都市景観、前景にホログラフィックディスプレイのスマートフォン、大胆な赤と青の配色、テキストオーバーレイ「Top Tech 2024」、サイバーパンクアートスタイル、高解像度、16:9アスペクト比",
+    "prompt_ori": "A high-energy YouTube thumbnail for a social media video on emerging tech trends, featuring a futuristic cityscape, a smartphone in the foreground with holographic displays, bold red and blue color scheme, text overlay 'Top Tech 2024', in the style of cyberpunk art, high resolution, 16:9 aspect ratio",
+    "category": "thumbnail",
+    "images": []
+  },
+  {
+    "id": "se-132",
+    "title": "インスピレーショナル・フィットネスポスター",
+    "prompt": "SNSフィットネスモチベーション向けYouTubeサムネイル、ジムでワークアウトする多様な人々のエネルギッシュなポーズ、モチベーショナルテキスト「Crush Your Goals」、鮮やかなオレンジとグリーンのトーン、リアリスティックフォトグラフィースタイル、ハイディテール、16:9",
+    "prompt_ori": "YouTube thumbnail for social media fitness motivation, showing a diverse group of people working out in a gym, energetic poses, motivational text 'Crush Your Goals', vibrant orange and green tones, realistic photography style, high detail, 16:9",
+    "category": "social",
+    "images": []
+  },
+  {
+    "id": "se-133",
+    "title": "旅行アドベンチャー・インフォグラフィック",
+    "prompt": "旅行Vlog向けSNS YouTubeサムネイル、山頂に立つハイカーの山岳風景、距離や標高などのインフォグラフィック要素をアイコンで統合、テキスト「Epic Hikes 2024」、イラストスタイル、暖かいアースカラー、高解像度",
+    "prompt_ori": "Social media YouTube thumbnail for travel vlogs, depicting a mountain landscape with a hiker at the peak, integrated infographic elements like icons for distance and elevation, text 'Epic Hikes 2024', in a illustrative style, warm earthy colors, high resolution",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-134",
+    "title": "クッキングレシピ・サムネイル",
+    "prompt": "SNS料理チャンネル向けYouTubeサムネイル、新鮮な食材が添えられた美味しいパスタ料理のクローズアップ、立ち上る湯気、テキスト「Easy Pasta Recipes」、自然光のフォトグラフィースタイル、食欲をそそる色彩、16:9アスペクト",
+    "prompt_ori": "YouTube thumbnail for social media cooking channel, featuring a close-up of a delicious pasta dish with fresh ingredients, steam rising, text 'Easy Pasta Recipes', photography style with natural lighting, appetizing colors, 16:9 aspect",
+    "category": "food",
+    "images": []
+  },
+  {
+    "id": "se-135",
+    "title": "ビジネスグロース・ポスター",
+    "prompt": "SNSビジネスティップス向けのプロフェッショナルYouTubeサムネイル、上昇グラフとコラボレーションするチーム、テキスト「Scale Your Business Now」、モダンなインフォグラフィックデザイン、ブルーとグレーのパレット、クリーンでミニマリスティックなスタイル",
+    "prompt_ori": "A professional YouTube thumbnail for social media business tips, showing upward graphs and a team collaborating, text 'Scale Your Business Now', modern infographic design, blue and gray palette, clean and minimalistic style",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-136",
+    "title": "ファッション・サムネイル",
+    "prompt": "SNSファッション動画用YouTubeサムネイル、流行のストリートウェアを着た若いモデル、都市の街並み背景、テキストオーバーレイ「2024 潮流穿搭」、フォトグラフィースタイル、高精細ディテール、16:9比率",
+    "prompt_ori": "YouTube 缩略图用于社交媒体时尚视频，展示一个年轻模特穿着流行街头服饰，背景是都市街道，文字叠加'2024 潮流穿搭'，摄影风格，高清细节，16:9 比例",
+    "category": "social",
+    "images": []
+  },
+  {
+    "id": "se-137",
+    "title": "ゲーミングアクション・アバター",
+    "prompt": "SNSゲーム配信用ダイナミックYouTubeサムネイル、戦闘中の戦士のアニメーションアバター、爆発エフェクト、テキスト「Ultimate Gaming Tips」、コミックブックスタイルの鮮やかな色彩、ハイエナジー",
+    "prompt_ori": "Dynamic YouTube thumbnail for social media gaming streams, featuring an animated avatar of a warrior in battle, explosive effects, text 'Ultimate Gaming Tips', comic book style with vibrant colors, high energy",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "se-138",
+    "title": "環境保護テーマ・ポスター",
+    "prompt": "環境保護に関するSNS YouTubeサムネイル、森林と野生動物を表示、カーボンフットプリントのアイコンなどのインフォグラフィックを融合、テキスト「拯救地球行動」、アーティスティックスタイル、グリーン基調、高精細解像度",
+    "prompt_ori": "社交媒体 YouTube 缩略图关于环境保护，显示森林和野生动物，融入信息图表如碳足迹图标，文字'拯救地球行动'，艺术风格，绿色调为主，高清分辨率",
+    "category": "poster",
+    "images": []
+  },
+  {
+    "id": "se-139",
+    "title": "ミュージックイベント・サムネイル",
+    "prompt": "SNS音楽イベントプロモ向けYouTubeサムネイル、ステージライトの中のコンサート群衆、中央にDJ、テキスト「Live Music Fest 2024」、鮮やかなネオンカラー、モーションブラーのフォトグラフィー、16:9",
+    "prompt_ori": "YouTube thumbnail for social media music event promo, showing a crowd at a concert with stage lights, DJ in center, text 'Live Music Fest 2024', vibrant neon colors, photography with motion blur, 16:9",
+    "category": "thumbnail",
+    "images": []
+  },
+  {
+    "id": "se-140",
+    "title": "ヘルシー食生活イラスト",
+    "prompt": "SNS健康食動画用YouTubeサムネイル、新鮮な野菜とフルーツ、サラダを展示、アーティスティックスタイルのイラスト、テキスト「毎日の健康メニュー」、明るい色彩、ハイディテール",
+    "prompt_ori": "YouTube 缩略图用于社交媒体健康饮食视频，展示各种新鲜蔬果和沙拉，艺术风格插画，文字'每日健康餐单'，明亮色彩，高细节",
+    "category": "food",
+    "images": []
+  },
+  {
+    "id": "se-141",
+    "title": "スタートアップアイデア・インフォグラフィック",
+    "prompt": "スタートアップアイデア向けSNS YouTubeサムネイル、電球とチャートのアイコン、テキスト「Innovate in 2024」、インフォグラフィックレイアウト、クリーンなベクタースタイル、プロフェッショナルなブルートーン",
+    "prompt_ori": "Social media YouTube thumbnail for startup ideas, with icons of lightbulbs and charts, text 'Innovate in 2024', infographic layout, clean vector style, professional blue tones",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-142",
+    "title": "旅行写真ポスター",
+    "prompt": "SNS旅行フォトグラフィー用YouTubeサムネイル、ビーチの日の出を撮影するカメラマン、テキスト「完美旅行照」、リアルなフォトグラフィースタイル、ウォームトーン、高解像度",
+    "prompt_ori": "YouTube 缩略图用于社交媒体旅行摄影，展示海滩日出场景，摄影师在拍摄，文字'完美旅行照'，真实摄影风格，温暖色调，高分辨率",
+    "category": "photography",
+    "images": []
+  },
+  {
+    "id": "se-143",
+    "title": "テックレビュー・サムネイル",
+    "prompt": "SNSテックレビュー向けのスリークなYouTubeサムネイル、スペックオーバーレイ付きの新しいノートPC、テキスト「Best Laptops 2024」、モダンなプロダクトデザインスタイル、シルバーとブラックのカラー、ハイディテール",
+    "prompt_ori": "A sleek YouTube thumbnail for social media tech reviews, featuring a new laptop with specs overlay, text 'Best Laptops 2024', modern product design style, silver and black colors, high detail",
+    "category": "product",
+    "images": []
+  },
+  {
+    "id": "se-144",
+    "title": "インスピレーション・パーソナルアバター",
+    "prompt": "励志的な人物アバターを展示するSNS YouTubeサムネイル、抽象的な成功への道の背景、テキスト「追梦之路」、アーティスティックスタイル、モチベーショナルな色調",
+    "prompt_ori": "社交媒体 YouTube 缩略图展示励志人物头像，背景是抽象的成功路径，文字'追梦之路'，艺术风格，激励色调",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "se-145",
+    "title": "コメディスケッチ・サムネイル",
+    "prompt": "SNSコメディスケッチ向けの楽しいYouTubeサムネイル、ユーモラスなポーズの2人のキャラクター、テキスト「Funny Skits 2024」、デフォルメされた特徴のコミックスタイル、明るく遊び心のある色彩、16:9",
+    "prompt_ori": "Fun YouTube thumbnail for social media comedy sketches, showing two characters in humorous poses, text 'Funny Skits 2024', comic style with exaggerated features, bright and playful colors, 16:9",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-146",
+    "title": "教育データタイムライン",
+    "prompt": "1900年から2023年のグローバル教育システムの進化を可視化した包括的なインフォグラフィック、主要なマイルストーン、就学率、識字率の統計を含む、クリーンな線と鮮やかな色彩、わかりやすいアイコン",
+    "prompt_ori": "A comprehensive infographic visualizing the evolution of global education systems from 1900 to 2023, including key milestones, enrollment rates, and literacy statistics, using clean lines, vibrant colors, and icons for easy understanding.",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-147",
+    "title": "気候変動教育",
+    "prompt": "気候変動教育のインフォグラフィック、CO2レベル、気温上昇、世界の教育イニシアチブのデータビジュアライゼーション、円グラフ、棒グラフ、地図をプロフェッショナルなスタイルで",
+    "prompt_ori": "Infographic on climate change education, showing data visualization of CO2 levels, temperature rises, and educational initiatives worldwide, with pie charts, bar graphs, and maps in a professional style.",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-148",
+    "title": "STEM教育統計",
+    "prompt": "性別と地域別のSTEM教育参加統計を表示する精緻なインフォグラフィック、インタラクティブ風のグラフ、アイコン、フローチャートを教育目的で使用",
+    "prompt_ori": "Detailed infographic displaying statistics on STEM education participation by gender and region, featuring interactive-style graphs, icons, and flowcharts for educational purposes.",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-149",
+    "title": "世界識字率",
+    "prompt": "大陸別の世界識字率を可視化する魅力的なインフォグラフィック、歴史的なデータトレンド、棒グラフ、世界地図を含む、教育啓発向けにデザイン",
+    "prompt_ori": "An engaging infographic visualizing global literacy rates across continents, including historical data trends, bar charts, and world maps, designed for educational outreach.",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-150",
+    "title": "オンライン教育の成長",
+    "prompt": "2010年から2023年のオンライン教育の成長を示すインフォグラフィック、ユーザー数の折れ線グラフ、プラットフォームシェアの円グラフ、主要テクノロジーを表すアイコン",
+    "prompt_ori": "Infographic illustrating the growth of online education from 2010 to 2023, with line graphs showing user numbers, pie charts for platform shares, and icons representing key technologies.",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-151",
+    "title": "教育予算の内訳",
+    "prompt": "主要国の教育予算配分を円グラフと棒グラフで可視化、初等・中等・高等教育のパーセンテージをハイライト、クリーンでモダンなデザイン",
+    "prompt_ori": "Visualize education budget allocations in major countries using pie charts and bar graphs, highlighting percentages for primary, secondary, and higher education in a clear, modern design.",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-152",
+    "title": "パンデミックの教育への影響",
+    "prompt": "COVID-19の教育への影響に関するインフォグラフィック、学校閉鎖、リモート学習の普及、学生のパフォーマンス指標のデータビジュアライゼーション、タイムラインとチャート付き",
+    "prompt_ori": "Infographic on the impact of COVID-19 on education, featuring data visualization of school closures, remote learning adoption, and student performance metrics with timelines and charts.",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-153",
+    "title": "教育におけるAIの概観",
+    "prompt": "教育におけるAIの役割を探るデータドリブンなインフォグラフィック、普及率、メリット、課題の統計を含む、フローチャートとインフォグラフィック要素を使用",
+    "prompt_ori": "A data-driven infographic exploring the role of AI in education, including statistics on adoption rates, benefits, and challenges, using flowcharts and infographics elements.",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-154",
+    "title": "若年層の失業率データ",
+    "prompt": "教育レベルと紐づけた若年層の失業率を可視化するインフォグラフィック、地図、グラフ、教育政策立案者向けの重要インサイト",
+    "prompt_ori": "Infographic visualizing youth unemployment rates linked to education levels, with maps, graphs, and key insights for educational policy makers.",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-155",
+    "title": "サステナブル教育プラクティス",
+    "prompt": "学校におけるサステナブルプラクティスに関する教育インフォグラフィック、エネルギー節約、リサイクル率、環境教育プログラムのデータをイラスト入りチャートで表示",
+    "prompt_ori": "Educational infographic on sustainable practices in schools, showing data on energy savings, recycling rates, and environmental education programs with illustrative charts.",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-156",
+    "title": "教育データ可視化チャート",
+    "prompt": "2000年から2023年のグローバル教育発展に関するインフォグラフィック、就学率と識字率のデータを表示、棒グラフ、円グラフ、タイムラインを使用、シンプルで明快なデザイン",
+    "prompt_ori": "一个关于全球教育发展的信息图，展示从2000年到2023年的入学率和识字率数据，使用条形图、饼图和时间线，设计简洁明了。",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-157",
+    "title": "STEM教育統計分析",
+    "prompt": "STEM教育のグローバル統計を展示するインフォグラフィック、性別差と地域分布を含む、カラフルなチャートとアイコン、教育啓発に最適",
+    "prompt_ori": "信息图展示STEM教育的全球统计，包括性别差异和区域分布，使用彩色图表和图标，适合教育宣传。",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-158",
+    "title": "オンライン教育トレンド図",
+    "prompt": "2015年から2023年のオンライン教育の発展トレンドを可視化、ユーザー成長とプラットフォームデータ、折れ線グラフとフローチャートを使用",
+    "prompt_ori": "可视化在线教育的发展趋势，从2015年到2023年的用户增长和平台数据，使用折线图和流程图。",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-159",
+    "title": "気候教育データ図",
+    "prompt": "気候変動教育のデータを解説するインフォグラフィック、温室効果ガス排出量と教育プログラムの効果を含む、地図と棒グラフを使用",
+    "prompt_ori": "信息图解释气候变化教育的数据，包括温室气体排放和教育项目效果，使用地图和柱状图。",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-160",
+    "title": "パンデミック下の教育影響",
+    "prompt": "パンデミックの教育への影響を展示するインフォグラフィック、オンライン学習データと学生の成績統計を含む、タイムラインと円グラフのデザイン",
+    "prompt_ori": "信息图展示疫情对教育的影响，包括在线学习数据和学生表现统计，使用时间线和饼图设计。",
+    "category": "infographic",
+    "images": []
+  },
+  {
+    "id": "se-161",
+    "title": "スリークなSNSアプリUI",
+    "prompt": "ダークモード、カスタムアイコン、インタラクティブ要素、シームレスなナビゲーションを特徴とするSNSプラットフォーム向けのスリークなモバイルアプリUI",
+    "prompt_ori": "A sleek mobile app UI for a social media platform, featuring dark mode, custom icons, interactive elements, and seamless navigation, generated with the seedream model.",
+    "category": "ui",
+    "images": []
+  },
+  {
+    "id": "se-162",
+    "title": "ECサイト・ウェブモックアップ",
+    "prompt": "商品リスト、ショッピングカート、決済ページ、ユーザーレビューエリアを含むECサイトのレスポンシブウェブモックアップデザイン、高精細ディテール",
+    "prompt_ori": "设计一个电商网站的响应式网页 mockup，包括产品列表、购物车、支付页面和用户评论区，使用 seedream 模型生成的高清细节。",
+    "category": "ui",
+    "images": []
+  },
+  {
+    "id": "se-163",
+    "title": "フィットネスアプリ・ワイヤーフレーム",
+    "prompt": "リアルタイムのワークアウト統計、進捗チャート、ゲーミフィケーション機能を備えたフィットネストラッキングアプリのハイフィデリティワイヤーフレーム",
+    "prompt_ori": "High-fidelity wireframe for a fitness tracking app, with real-time workout stats, progress charts, and gamification features, created using the seedream AI model.",
+    "category": "ui",
+    "images": []
+  },
+  {
+    "id": "se-164",
+    "title": "ニュースアプリUIデザイン",
+    "prompt": "スワイプ式ニュースフィード、パーソナライズされたレコメンデーション、検索機能、ビデオプレーヤーを含むニュースアプリのモバイルUIデザイン、高品質",
+    "prompt_ori": "一个新闻应用的移动 UI 设计，包含滑动新闻 feed、个性化推荐、搜索功能和视频播放器，采用 seedream 模型的高质量生成。",
+    "category": "ui",
+    "images": []
+  },
+  {
+    "id": "se-165",
+    "title": "ポートフォリオ・ウェブモックアップ",
+    "prompt": "ダイナミックギャラリー、コンタクトフォーム、バイオセクションを含むプロフェッショナルなポートフォリオサイトのレスポンシブウェブデザインモックアップ",
+    "prompt_ori": "Responsive web design mockup for a professional portfolio site, including dynamic galleries, contact forms, and bio sections, styled with the seedream model.",
+    "category": "ui",
+    "images": []
+  },
+  {
+    "id": "se-166",
+    "title": "バンクアプリ・モバイルUI",
+    "prompt": "指紋認証ログイン、送金画面、口座概要など、セキュリティ機能を強調したバンキングアプリのモバイルUI、モダンなインタラクションデザイン",
+    "prompt_ori": "设计一个银行应用的移动 UI，强调安全功能如指纹登录、转账界面和账户概览，使用 seedream 模型创建的现代交互设计。",
+    "category": "ui",
+    "images": []
+  },
+  {
+    "id": "se-167",
+    "title": "プロジェクトダッシュボードUI",
+    "prompt": "インタラクティブなチャート、タスクリスト、カレンダー、通知機能を備えたプロジェクト管理ツールのミニマリストダッシュボードUI",
+    "prompt_ori": "Minimalist dashboard UI for a project management tool, featuring interactive charts, task lists, calendars, and notifications, generated via the seedream AI.",
+    "category": "ui",
+    "images": []
+  },
+  {
+    "id": "se-168",
+    "title": "教育ウェブデザイン",
+    "prompt": "オンラインコース動画、クイズモジュール、ユーザー進捗トラッキング、インタラクティブフォーラムを含む教育プラットフォームのウェブデザインモックアップ、精緻なレンダリング",
+    "prompt_ori": "一个教育平台的网页设计 mockup，包含在线课程视频、测验模块、用户进度跟踪和互动论坛，使用 seedream 模型的详细渲染。",
+    "category": "ui",
+    "images": []
+  },
+  {
+    "id": "se-169",
+    "title": "旅行予約アプリUI",
+    "prompt": "マップ、フライトフィルター、ホテル検索、予約確認機能を備えた旅行予約システムのインタラクティブアプリUI",
+    "prompt_ori": "Interactive app UI for a travel booking system, with maps, flight filters, hotel searches, and booking confirmations, produced using the seedream model.",
+    "category": "ui",
+    "images": []
+  },
+  {
+    "id": "se-170",
+    "title": "音楽ストリーミングUI",
+    "prompt": "プレイリスト、検索機能、レコメンドアルゴリズムの可視化、オーディオ波形表示を含む音楽ストリーミングアプリのインターフェースデザイン、高精細出力",
+    "prompt_ori": "设计一个音乐流媒体应用的界面，包含播放列表、搜索功能、推荐算法可视化和音频波形显示，使用 seedream 模型的高清输出。",
+    "category": "ui",
+    "images": []
+  },
+  {
+    "id": "se-171",
+    "title": "アニメ戦士のポートレート",
+    "prompt": "シルバーヘア、鋭い赤い瞳、古代の鎧を纏った男性戦士のハイディテールなアニメ風ポートレート、ドラマチックなライティング、高解像度",
+    "prompt_ori": "A highly detailed anime-style portrait of a male warrior with silver hair, intense red eyes, wearing ancient armor, dramatic lighting, high resolution, seedream model specific.",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "se-172",
+    "title": "キュートなアニメ少女ヘッドショット",
+    "prompt": "ツインテール、大きなブルーの瞳、頬を赤く染めた可愛いアニメ少女のヘッドショット、学校の制服姿、ソフトなパステル背景、精緻なディテール",
+    "prompt_ori": "Headshot of a cute anime girl with twin tails, big blue eyes, blushing cheeks, in a school uniform, soft pastel background, intricate details, generated with seedream.",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "se-173",
+    "title": "ミステリアスなアニメアバター",
+    "prompt": "霧の立ち込める森に佇むフード姿の神秘的なキャラクターのアニメスタイルアバター、光る瞳、幽玄な雰囲気、ハイコントラスト",
+    "prompt_ori": "Anime style avatar of a mysterious hooded figure with glowing eyes, standing in a foggy forest, ethereal atmosphere, high contrast, seedream optimized.",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "se-174",
+    "title": "アニメヒロインのポートレート",
+    "prompt": "長い流れるような髪と光る剣を持つアニメヒロインのポートレート、エピックなダイナミックポーズ、鮮やかな色彩とシャドウ",
+    "prompt_ori": "Portrait of an anime heroine with long flowing hair, wielding a glowing sword, epic dynamic pose, vibrant colors and shadows, using seedream for best results.",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "se-175",
+    "title": "スパイキーヘアのアニメ少年",
+    "prompt": "逆立てた黒髪、決意に満ちた表情、ハイテクヘッドセットを着用したアニメ少年の精緻なヘッドショット、フューチャリスティックな背景",
+    "prompt_ori": "Detailed headshot of an anime boy with spiky black hair, determined expression, wearing a high-tech headset, futuristic background, seedream generation.",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "se-176",
+    "title": "エルフ・アニメアバター",
+    "prompt": "尖った耳、エメラルドグリーンの瞳、魔法のオーラを纏い、輝く粒子に囲まれたエルフキャラクターのアニメアバター",
+    "prompt_ori": "Anime avatar featuring an elf character with pointed ears, emerald green eyes, magical aura, surrounded by glowing particles, seedream style.",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "se-177",
+    "title": "スーパーヒーロー・アニメコミック",
+    "prompt": "アクション中のスーパーヒーローのコミックブックスタイルのアニメポートレート、ダイナミックなアングル、太い線と色彩、爆発的な背景",
+    "prompt_ori": "Comic book style anime portrait of a superhero in mid-action, dynamic angles, bold lines and colors, explosive background, optimized for seedream.",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-178",
+    "title": "エレガントなアニメレディ",
+    "prompt": "伝統的な着物を纏ったレディのエレガントなアニメ風ポートレート、穏やかな表情、背景に桜の花、ソフトなライティング",
+    "prompt_ori": "Elegant anime style portrait of a lady in a traditional kimono, serene expression, cherry blossoms in the background, soft lighting, seedream render.",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "se-179",
+    "title": "ヴィランのアニメヘッドショット",
+    "prompt": "顔の傷跡、不敵な笑み、暗い影と赤いトーンのアニメヴィランのヘッドショット、緻密なディテール",
+    "prompt_ori": "Headshot of an anime villain with facial scars, menacing smile, dark shadows and red hues, intense details, generated via seedream.",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "se-180",
+    "title": "アニメグループポートレート",
+    "prompt": "冒険に出かける4人の仲間のアニメスタイルグループポートレート、様々な表情と精緻な衣装、鮮やかなアウトドアセッティング",
+    "prompt_ori": "Group portrait in anime style of four friends on an adventure, various expressions and detailed clothing, vibrant outdoor setting, seedream high-quality.",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "se-181",
+    "title": "アニメ少女アバター",
+    "prompt": "ピンクの髪、猫耳をつけた微笑む少女のアニメスタイルアバター、星空の背景、精緻なディテール",
+    "prompt_ori": "一个动漫风格的头像，展示一位微笑的女孩，粉红色头发，戴着猫耳，背景是星空，细节丰富，使用 seedream 模型生成。",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "se-182",
+    "title": "ヒーロー・アニメ肖像",
+    "prompt": "筋肉質で武器を持つ高精細アニメ風ヒーローの肖像、炎の背景、ダイナミックなポーズ",
+    "prompt_ori": "高清动漫风格的英雄肖像，肌肉发达，拿着武器，火焰背景，动态姿态，seedream 优化效果。",
+    "category": "art",
+    "images": []
+  },
+  {
+    "id": "se-183",
+    "title": "ミステリアス・アニメアバター",
+    "prompt": "マスクをつけた目が光るキャラクターの神秘的なアニメアバター、ダークな雰囲気、精緻なテクスチャ",
+    "prompt_ori": "神秘的动漫头像，一个戴面具的角色，眼睛发光，黑暗氛围，精细纹理，seedream 生成。",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "se-184",
+    "title": "アニメ少女のヘッドショット",
+    "prompt": "ブルーの瞳、金髪、ドレスを纏った可愛いアニメ少女のヘッドショット、柔らかいライティングとシャドウ",
+    "prompt_ori": "可爱动漫少女头像，蓝眼睛，金色头发，穿礼服，柔和光影，seedream 风格渲染。",
+    "category": "avatar",
+    "images": []
+  },
+  {
+    "id": "se-185",
+    "title": "アクション・アニメアート",
+    "prompt": "戦闘中の侍のダイナミックなアニメアート、剣の光エフェクト、爆発の背景、ハイコントラスト",
+    "prompt_ori": "动态动漫艺术，一个武士在战斗，剑光效果，爆炸背景，高对比度，seedream 模型使用。",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-186",
+    "title": "壮大なマンガバトル",
+    "prompt": "霧に包まれた山間の村で侍と忍者が激しく戦うダイナミックなマンガスタイルのストーリーボード、デフォルメされた表情、スピードライン、ドラマチックなパネルレイアウト、ハイディテール、鮮やかな色彩",
+    "prompt_ori": "A dynamic manga-style storyboard featuring an intense battle between samurais and ninjas in a misty mountain village, with exaggerated expressions, speed lines, and dramatic panel layouts, high detail, vibrant colors, seedream style.",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-187",
+    "title": "ロマンチック・ウェブトゥーンシーン",
+    "prompt": "夜の桜の下でファーストキスを交わすカップルのウェブトゥーン風パネル、ソフトなパステルカラー、感情的なクローズアップ、花びらが舞い散る精緻な背景、ロマンチックな雰囲気",
+    "prompt_ori": "A webtoon-style panel of a couple sharing a first kiss under cherry blossoms at night, soft pastel colors, emotional close-ups, detailed backgrounds with falling petals, romantic atmosphere, seedream AI generation.",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-188",
+    "title": "ミステリー・ストーリーボード",
+    "prompt": "真夜中の暗い路地を捜査する探偵のマンガミステリーシリーズのストーリーボード、影、雨の効果、サスペンスフルなアングル、ハイコントラストのライティング、精緻なディテール",
+    "prompt_ori": "A storyboard for a manga mystery series, showing a detective investigating a dark alley at midnight, with shadows, rain effects, suspenseful angles, high contrast lighting, intricate details, seedream model.",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-189",
+    "title": "ファンタジー・マンガシーケンス",
+    "prompt": "古代の森で魔法使いがドラゴンを召喚するマンガパネルのシーケンス、魔法エフェクト、壮大なスケール、精緻なキャラクターデザイン、鮮やかなファンタジー要素",
+    "prompt_ori": "A sequence of manga panels depicting a wizard summoning dragons in an ancient forest, magical effects, epic scale, detailed character designs, vibrant fantasy elements, seedream style rendering.",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-190",
+    "title": "SF・ウェブトゥーンレイアウト",
+    "prompt": "奇妙な生物と高度なテクノロジーのある異星を探索する宇宙飛行士のフューチャリスティックSFウェブトゥーンレイアウト、ダイナミックなパネル、ネオンカラー、ハイテクディテール",
+    "prompt_ori": "Webtoon layout of a futuristic sci-fi story, astronauts exploring an alien planet with strange creatures and advanced technology, dynamic panels, neon colors, high-tech details, seedream AI prompt.",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-191",
+    "title": "漫画ヒーローの冒険",
+    "prompt": "都市でモンスターと戦うスーパーヒーローの漫画ストーリーボード、爆発エフェクト、ダイナミックなアクション、ヒーローの変身シーン、ハイディテール描写",
+    "prompt_ori": "一个关于超级英雄在都市中对抗怪兽的漫画故事板，包含爆炸效果、动态动作和英雄变身场景，高细节描绘，seedream 风格。",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-192",
+    "title": "ホラーマンガパネル",
+    "prompt": "古い洋館に出没する幽霊のホラーマンガパネルシリーズ、不気味なライティング、歪んだ人影、じわじわと高まるサスペンス、精緻な影とテクスチャ",
+    "prompt_ori": "A series of horror manga panels with a ghost haunting an old mansion, eerie lighting, distorted figures, building suspense, detailed shadows and textures, seedream generation.",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-193",
+    "title": "アドベンチャー・ウェブトゥーンストーリー",
+    "prompt": "失われた神殿を発見する探検家たちのウェブトゥーン風アドベンチャーストーリー、罠、古代の遺物、野生動物、鮮やかな色彩、アクション満載のパネル",
+    "prompt_ori": "Webtoon-style adventure story of explorers finding a lost temple, with traps, ancient artifacts, and wildlife, vibrant colors, action-packed panels, seedream AI art.",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-194",
+    "title": "ウェブ漫画のロマンス",
+    "prompt": "雨の中でヒロインがヒーローに出会うウェブ漫画のロマンチックなシーン、優しい表情、雨粒の効果、街並みのディテール",
+    "prompt_ori": "一个网络漫画中的浪漫剧情，女主角在雨中遇见男主角，温柔表情、雨滴效果和街景细节，seedream 模型生成。",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-195",
+    "title": "スーパーヒーロー・マンガファイト",
+    "prompt": "都市景観の中でヴィランと戦うスーパーヒーローのマンガストーリーボード、エネルギーブラスト、ドラマチックなポーズ、都市の破壊シーン、ハイアクションディテール",
+    "prompt_ori": "Manga storyboard of a superhero battling villains in a cityscape, with energy blasts, dramatic poses, and urban destruction, high action details, seedream style.",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-196",
+    "title": "ファンタジーコミックワールド",
+    "prompt": "魔法のファンタジー世界を舞台にした精緻なコミックパネル、エンチャンテッドフォレストのエルフと騎士、繊細なデザイン、神秘的なオーラ",
+    "prompt_ori": "A detailed comic panel set in a magical fantasy world, elves and knights in a enchanted forest, intricate designs, mystical auras, seedream AI prompt.",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-197",
+    "title": "漫画SFスペース",
+    "prompt": "宇宙ステーションで異星生物と遭遇する宇宙飛行士のSF漫画ストーリーボード、フューチャリスティックな要素、ハイテクディテール",
+    "prompt_ori": "一个科幻漫画故事板，展示宇航员在太空站与外星生物的遭遇，未来主义元素、高科技细节，seedream 风格。",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-198",
+    "title": "アクション・ウェブトゥーンチェイス",
+    "prompt": "ネオンが輝く都市を駆け抜けるハイスピードチェイスのウェブトゥーンパネル、車とバイク、ダイナミックなモーションブラー、緊迫した表情",
+    "prompt_ori": "Webtoon panel of a high-speed chase through a neon city, cars and motorcycles, dynamic motion blur, intense expressions, seedream generation.",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-199",
+    "title": "ミステリーマンガ・ディテクティブ",
+    "prompt": "霧の立ち込める街で手がかりと容疑者を追うマンガスタイルの探偵ストーリーボード、フィルム・ノワールの美学、鋭い影、捜査のディテール",
+    "prompt_ori": "A manga-style detective story board with clues and suspects in a foggy street, noir aesthetics, sharp shadows, investigative details, seedream AI.",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "se-200",
+    "title": "ウェブ漫画の日常",
+    "prompt": "都市の日常生活を描くウェブ漫画のストーリーボード、友人の集まり、カフェのシーン、リラックスした雰囲気、ハイディテールなキャラクター",
+    "prompt_ori": "一个网络漫画描绘都市日常生活的故事板，朋友聚会、咖啡店场景、轻松氛围和高细节人物，seedream 模型。",
+    "category": "comic",
+    "images": []
+  },
+  {
+    "id": "sd-201",
+    "title": "ジブリアニメスタイル",
+    "prompt": "画像をジブリスタイルに変換、キャラクターの特徴を維持。柔らかい水彩テクスチャ、暖かいパステルカラー、幻想的な雰囲気、手描き感のある優しい光と夢のような雲の背景",
+    "prompt_ori": "Turn the image into Ghibli Style, maintain the character's features. Soft watercolor textures, warm pastel colors, whimsical atmosphere, hand-drawn feel with gentle lighting and dreamy clouds in the background",
+    "category": "art",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-202",
+    "title": "古典油絵",
+    "prompt": "この写真を古典的な油絵に変換。厚い筆跡が見える、豊かなインパスト質感。深いオレンジとゴールデンイエローの暖色パレット。同じ構図と要素を維持",
+    "prompt_ori": "Convert this photograph into a classic oil painting. Thick visible brushstrokes, rich impasto texture on the sky and fields. Warm color palette with deep oranges and golden yellows. Keep the same composition and elements",
+    "category": "art",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-203",
+    "title": "中国水墨画",
+    "prompt": "この風景写真を中国伝統水墨画スタイルに変換、モノクロの墨色調、流れるような線と山水の意境を強調、軽い霧と竹林の要素を融合、原画の主体輪郭を保ちつつ余白と東洋美学を追加",
+    "prompt_ori": "将这张风景照转换成中国传统水墨画风格，黑白墨色调，强调流动的线条和山水意境，融入轻雾和竹林元素，保持原图的主体轮廓但增加留白和东方美学",
+    "category": "art",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-204",
+    "title": "浮世絵木版画",
+    "prompt": "広重風の日本の浮世絵木版画として再想像 — 平面的な遠近法、太い輪郭線、藍・朱・黄土色の限定パレット。桜の要素、和紙テクスチャ",
+    "prompt_ori": "Reimagine this scene as a traditional Japanese Ukiyo-e woodblock print in the style of Hiroshige — flat perspective, bold outlines, limited color palette of indigo, vermillion, and ochre. Cherry blossoms, washi paper texture",
+    "category": "art",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-205",
+    "title": "16ビットピクセルアート",
+    "prompt": "16ビットピクセルアートスタイルに変換。限定カラーパレット、見えるピクセル、レトロゲーム美学。同じ構図を維持。スーファミ時代のグラフィックス、CRTスキャンライン効果",
+    "prompt_ori": "Convert this into 16-bit pixel art style. Limited color palette, visible square pixels, retro video game aesthetic. Keep the same landscape composition. SNES-era graphics look with slight CRT scanline effect",
+    "category": "art",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-206",
+    "title": "水彩スケッチ",
+    "prompt": "写真を柔らかい水彩画に変換。見える筆跡、柔らかい色が互いに滲む、白い紙が透けて見える。同じ構図を維持。テクスチャのある紙の伝統的水彩イラスト",
+    "prompt_ori": "Convert this photograph into a loose watercolor painting. Visible brushstrokes, soft color washes bleeding into each other, white paper showing through in places. Keep the same composition. Traditional watercolor illustration on textured paper",
+    "category": "art",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-207",
+    "title": "パッケージ入りフィギュア",
+    "prompt": "写真の人物を精巧なコレクタブルフィギュアに変換、印刷台紙付きの透明プラスチックパッケージ内に配置。トイフォトスタイル、スタジオ照明、ミニチュアスケール、リアルなプラスチック質感",
+    "prompt_ori": "Turn the person in this photo into a highly detailed collectible action figure, placed inside clear plastic packaging with a printed cardboard backing. Toy photography style, studio lighting, miniature scale, realistic plastic texture",
+    "category": "product",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-208",
+    "title": "3D Q版ポラロイド突破",
+    "prompt": "写真のキャラクターを3D Q版スタイルに変換、リアルな光と影、服装や造形を含む人物のディテールを保持。ポラロイド写真の中に配置、きれいな手がポラロイド用紙を持っている。キャラクターがフレームを突破して現実世界に飛び出す",
+    "prompt_ori": "请根据照片将画面中的角色转化为3D Q版风格，真实世界的光影，保留人物细节包括服装和造型。整体放在一张拍立得照片中，有一只漂亮的手握着拍立得相纸。图中角色从拍立得相纸中突破边框延伸进入现实世界",
+    "category": "art",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-209",
+    "title": "レゴブロック再現",
+    "prompt": "写真をレゴブロックバージョンに変換、すべての要素をカラフルなレゴブロックに置き換え、全体の形状、構図、ディテールを保持。ブロックのテクスチャとスタッドが見える、明るく均一な照明、トイフォト",
+    "prompt_ori": "Convert this photo into a LEGO brick version, replacing all elements with colorful LEGO blocks while preserving the overall shape, composition and details. Authentic brick texture and studs visible, bright even lighting, toy photography",
+    "category": "art",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-210",
+    "title": "3Dクレイレンダー",
+    "prompt": "画像のキャラクターを柔らかく丸みのある3Dクレイレンダースタイルに変換。マット素材、滑らかな表面、パステルカラー、アンビエントオクルージョン、キュートでミニマル、Blenderクレイシェーダー美学、スタジオ照明",
+    "prompt_ori": "Convert the character in the picture into a soft, rounded 3D clay render style. Matte material, smooth surfaces, pastel color palette, ambient occlusion shadows, cute and minimal, Blender clay shader aesthetic, studio lighting",
+    "category": "art",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-211",
+    "title": "冬景色への変換",
+    "prompt": "シーンを寒い冬に変換。畑は深い雪に覆われ、木は霜のついた裸枝。空は冷たい青と淡いピンクに変化。道路、建物、構図はそのまま維持",
+    "prompt_ori": "Transform this into a cold winter scene. The fields are covered in deep snow, trees are bare with frost on branches. The sky shifts to cool blues and pale pinks. Keep the same road, buildings, and composition unchanged",
+    "category": "photography",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-212",
+    "title": "昼から夜へ",
+    "prompt": "シーンを澄んだ夜景に変換。空は天の川と無数の星で満たされる。表面が星明かりを反射。建物とレイアウトはそのまま維持。クールブルートーン、窓から暖かい光、長時間露光の質感",
+    "prompt_ori": "Transform this to a clear night scene. The sky is filled with the Milky Way and thousands of stars. Surfaces reflect the starlight. Keep the same buildings and layout. Cool blue tones, warm window lights glowing, long exposure photography feel",
+    "category": "photography",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-213",
+    "title": "大雨を追加",
+    "prompt": "シーンに大雨を追加。髪は濡れ、肌と服に水滴。空中に雨筋が見える、背景の濡れた表面が光を反射。人物、ポーズ、フレーミングはそのまま維持",
+    "prompt_ori": "Add heavy rain to this scene. Hair is wet, water droplets on skin and clothing. Rain streaks visible in the air, wet surfaces reflecting light in the background. Keep the same person, pose, and framing unchanged",
+    "category": "photography",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-214",
+    "title": "背景置換",
+    "prompt": "背景をパリの夕暮れの街並みに置き換え、被写体はシャープなまま維持。被写体に暖かいオレンジのリムライトを追加して新しい夕焼けの雰囲気に合わせる",
+    "prompt_ori": "Replace the background with a Parisian street at sunset, keeping the subject sharp and unchanged. Add warm orange rim lighting on the subject to match the new sunset atmosphere",
+    "category": "photography",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-215",
+    "title": "コーデ分解フラットレイ",
+    "prompt": "このコーディネートを個々の衣類とアクセサリーに分解し、清潔な白い表面にフラットレイで整然と配置、俯瞰視点、均一照明、整列グリッドパターン、ファッションフォトスタイル",
+    "prompt_ori": "Decompose this outfit into individual clothing items and accessories, arrange them neatly in a flat lay knolling layout on clean white surface, overhead view, even lighting, organized grid pattern, fashion photography style",
+    "category": "product",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-216",
+    "title": "ファッション雑誌表紙",
+    "prompt": "人物をハイファッション雑誌の表紙に配置。上部に優雅なセリフ体の雑誌タイトル、両サイドに見出し、プロのカラーグレーディング、グラマラスなスタジオライティング、Vogueエディトリアル美学",
+    "prompt_ori": "Place this person on a high-fashion magazine cover. Add elegant serif typography for the magazine title at the top, feature headlines along the sides, professional color grading, glamorous studio lighting, Vogue editorial aesthetic",
+    "category": "poster",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-217",
+    "title": "千年廃墟",
+    "prompt": "この建物を1000年老化させる。苔とツタに覆われた崩壊する石壁、割れた窓、自然が建物を取り戻す、曇り空、ポストアポカリプス雰囲気、リアルな風化と劣化",
+    "prompt_ori": "Age this building by 1000 years. Crumbling stone walls covered in moss and vines, broken windows, nature reclaiming the structure, dramatic overcast sky, post-apocalyptic atmosphere, photorealistic decay and weathering",
+    "category": "architecture",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-218",
+    "title": "ラグジュアリー商品撮影",
+    "prompt": "商品をプレミアムなライフスタイルシーンに配置、シアーカーテンから差し込む柔らかい朝日の大理石カウンタートップ、新鮮な花とゴールドのアクセント、浅い被写界深度、高級ブランド広告フォトスタイル",
+    "prompt_ori": "Place this product in a premium lifestyle setting, marble countertop with soft morning light streaming through sheer curtains, fresh flowers and gold accents nearby, shallow depth of field, luxury brand advertising photography style",
+    "category": "product",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-219",
+    "title": "サイバーパンクナイト",
+    "prompt": "この車を夜のサイバーパンク都市に配置。濡れた路面にピンクとブルーのネオンサインが反射。雨に濡れた通り、未来的なビルとホログラム広告。車のモデルとアングルは維持。映画的な夜景照明、ブレードランナーの雰囲気",
+    "prompt_ori": "Place this car in a cyberpunk city at night. Wet pavement reflecting neon signs in pink and blue. Rain-soaked street with futuristic buildings and holographic advertisements in the background. Keep the same car model and angle. Cinematic night lighting, Blade Runner atmosphere",
+    "category": "art",
+    "type": "image-to-image",
+    "images": []
+  },
+  {
+    "id": "sd-220",
+    "title": "マンガパネル",
+    "prompt": "写真をドラマチックなマンガパネルに変換。ダイナミックなスピード線、スクリーントーン、詳細な目の表情豊かなキャラクター、日本語マンガの吹き出し、白黒ハイコントラスト、少年ジャンプアクション風",
+    "prompt_ori": "Convert this photo into a dramatic manga panel. Dynamic speed lines, screentone shading, expressive character with detailed eyes, Japanese manga speech bubbles, black and white with high contrast, Shonen Jump action style",
+    "category": "comic",
+    "type": "image-to-image",
+    "images": []
+  }
+]
