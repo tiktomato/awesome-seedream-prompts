@@ -859,6 +859,8 @@
 
 ### ジブリアニメスタイル
 
+<img src="https://storage.tiktomato.com/uploads/20260417/task_d4c1831d-b403-4dae-b4cb-4f78af7c4545_0.jpeg" width="400" />
+
 > 画像をジブリスタイルに変換、キャラクターの特徴を維持。柔らかい水彩テクスチャ、暖かいパステルカラー、幻想的な雰囲気、手描き感のある優しい光と夢のような雲の背景
 >
 > *Original: Turn the image into Ghibli Style, maintain the character's features. Soft watercolor textures, warm pastel colors, whimsical atmosphere, hand-drawn feel with gentle lighting and dreamy clouds in the background*
@@ -895,6 +897,8 @@
 
 ### パッケージ入りフィギュア
 
+<img src="https://storage.tiktomato.com/uploads/20260417/task_960b321c-6b5a-4c3c-b520-5e1f4295989f_0.jpeg" width="400" />
+
 > 写真の人物を精巧なコレクタブルフィギュアに変換、印刷台紙付きの透明プラスチックパッケージ内に配置。トイフォトスタイル、スタジオ照明、ミニチュアスケール、リアルなプラスチック質感
 >
 > *Original: Turn the person in this photo into a highly detailed collectible action figure, placed inside clear plastic packaging with a printed cardboard backing. Toy photography style, studio lighting, miniature scale, realistic plastic texture*
@@ -919,6 +923,8 @@
 
 ### 冬景色への変換
 
+<img src="https://storage.tiktomato.com/uploads/20260417/task_6794dc25-f39f-4053-bce2-379698e0dda3_0.jpeg" width="400" />
+
 > シーンを寒い冬に変換。畑は深い雪に覆われ、木は霜のついた裸枝。空は冷たい青と淡いピンクに変化。道路、建物、構図はそのまま維持
 >
 > *Original: Transform this into a cold winter scene. The fields are covered in deep snow, trees are bare with frost on branches. The sky shifts to cool blues and pale pinks. Keep the same road, buildings, and composition unchanged*
@@ -942,6 +948,8 @@
 > *Original: Replace the background with a Parisian street at sunset, keeping the subject sharp and unchanged. Add warm orange rim lighting on the subject to match the new sunset atmosphere*
 
 ### コーデ分解フラットレイ
+
+<img src="https://storage.tiktomato.com/uploads/20260417/task_3ba59b68-ffaa-4e4a-88bd-28c898aff046_0.jpeg" width="400" />
 
 > このコーディネートを個々の衣類とアクセサリーに分解し、清潔な白い表面にフラットレイで整然と配置、俯瞰視点、均一照明、整列グリッドパターン、ファッションフォトスタイル
 >
@@ -973,6 +981,8 @@
 
 ### マンガパネル
 
+<img src="https://storage.tiktomato.com/uploads/20260417/task_97830102-ec28-4c7e-9259-eeddeaa0feb9_0.jpeg" width="400" />
+
 > 写真をドラマチックなマンガパネルに変換。ダイナミックなスピード線、スクリーントーン、詳細な目の表情豊かなキャラクター、日本語マンガの吹き出し、白黒ハイコントラスト、少年ジャンプアクション風
 >
 > *Original: Convert this photo into a dramatic manga panel. Dynamic speed lines, screentone shading, expressive character with detailed eyes, Japanese manga speech bubbles, black and white with high contrast, Shonen Jump action style*
@@ -981,7 +991,7 @@
 
 ## Seedreamについて
 
-SeedreamはByteDanceが開発したテキストから画像、画像から画像のAIモデルです。フォトリアリスティックな生成、スタイル転送、クリエイティブな画像編集に優れています。Seedream 4.0、4.5、5.0-liteが利用可能です。
+SeedreamはByteDanceが開発したAI画像生成モデルです。フォトリアリスティックな生成、スタイル転送、画像編集に優れています。
 
 ## ライセンス
 

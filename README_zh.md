@@ -859,6 +859,8 @@
 
 ### 吉卜力动画风格
 
+<img src="https://storage.tiktomato.com/uploads/20260417/task_d4c1831d-b403-4dae-b4cb-4f78af7c4545_0.jpeg" width="400" />
+
 > 将图片转换为吉卜力风格，保持角色特征不变。柔和水彩质感，温暖柔和色调，奇幻梦幻氛围，手绘感觉配以柔和光线和梦幻云朵背景
 >
 > *Original: Turn the image into Ghibli Style, maintain the character's features. Soft watercolor textures, warm pastel colors, whimsical atmosphere, hand-drawn feel with gentle lighting and dreamy clouds in the background*
@@ -893,6 +895,8 @@
 
 ### 盒装手办
 
+<img src="https://storage.tiktomato.com/uploads/20260417/task_960b321c-6b5a-4c3c-b520-5e1f4295989f_0.jpeg" width="400" />
+
 > 将照片中的人物变成精细的可收藏手办，放在透明塑料包装盒内配有印刷纸板背板。玩具摄影风格，棚拍灯光，微缩比例，逼真塑料质感
 >
 > *Original: Turn the person in this photo into a highly detailed collectible action figure, placed inside clear plastic packaging with a printed cardboard backing. Toy photography style, studio lighting, miniature scale, realistic plastic texture*
@@ -914,6 +918,8 @@
 > *Original: Convert the character in the picture into a soft, rounded 3D clay render style. Matte material, smooth surfaces, pastel color palette, ambient occlusion shadows, cute and minimal, Blender clay shader aesthetic, studio lighting*
 
 ### 季节变换·冬天
+
+<img src="https://storage.tiktomato.com/uploads/20260417/task_6794dc25-f39f-4053-bce2-379698e0dda3_0.jpeg" width="400" />
 
 > 将场景转变为寒冷的冬天。田野覆盖厚厚积雪，树木光秃挂满霜花。天空转为冷蓝和淡粉色调。保持道路、建筑和构图不变
 >
@@ -938,6 +944,8 @@
 > *Original: Replace the background with a Parisian street at sunset, keeping the subject sharp and unchanged. Add warm orange rim lighting on the subject to match the new sunset atmosphere*
 
 ### 穿搭平铺拆解
+
+<img src="https://storage.tiktomato.com/uploads/20260417/task_3ba59b68-ffaa-4e4a-88bd-28c898aff046_0.jpeg" width="400" />
 
 > 将这套穿搭拆解为单件衣物和配饰，在干净白色表面上整齐排列为平铺展示布局，俯视角度，均匀光线，有序网格排列，时尚摄影风格
 >
@@ -969,6 +977,8 @@
 
 ### 漫画分镜
 
+<img src="https://storage.tiktomato.com/uploads/20260417/task_97830102-ec28-4c7e-9259-eeddeaa0feb9_0.jpeg" width="400" />
+
 > 将照片转换为戏剧性漫画分镜。动态速度线，网点阴影，精细眼睛绘制的表情丰富角色，日式漫画对话泡泡，黑白高对比，少年Jump动作风格
 >
 > *Original: Convert this photo into a dramatic manga panel. Dynamic speed lines, screentone shading, expressive character with detailed eyes, Japanese manga speech bubbles, black and white with high contrast, Shonen Jump action style*
@@ -977,7 +987,7 @@
 
 ## 关于 Seedream
 
-Seedream 是字节跳动开发的文生图和图生图 AI 模型，擅长照片级真实感生成、风格迁移和创意图片编辑。可用版本包括 Seedream 4.0、4.5 和 5.0-lite。
+Seedream 是字节跳动开发的文生图和图生图 AI 模型，擅长照片级真实感生成、风格迁移和创意图片编辑。
 
 ## 许可证
 

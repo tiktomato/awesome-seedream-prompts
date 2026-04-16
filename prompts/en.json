@@ -1606,7 +1606,9 @@
     "prompt_ori": "Turn the image into Ghibli Style, maintain the character's features. Soft watercolor textures, warm pastel colors, whimsical atmosphere, hand-drawn feel with gentle lighting and dreamy clouds in the background",
     "category": "art",
     "type": "image-to-image",
-    "images": []
+    "images": [
+      "https://storage.tiktomato.com/uploads/20260417/task_d4c1831d-b403-4dae-b4cb-4f78af7c4545_0.jpeg"
+    ]
   },
   {
     "id": "sd-202",
@@ -1660,7 +1662,9 @@
     "prompt_ori": "Turn the person in this photo into a highly detailed collectible action figure, placed inside clear plastic packaging with a printed cardboard backing. Toy photography style, studio lighting, miniature scale, realistic plastic texture",
     "category": "product",
     "type": "image-to-image",
-    "images": []
+    "images": [
+      "https://storage.tiktomato.com/uploads/20260417/task_960b321c-6b5a-4c3c-b520-5e1f4295989f_0.jpeg"
+    ]
   },
   {
     "id": "sd-208",
@@ -1696,7 +1700,9 @@
     "prompt_ori": "Transform this into a cold winter scene. The fields are covered in deep snow, trees are bare with frost on branches. The sky shifts to cool blues and pale pinks. Keep the same road, buildings, and composition unchanged",
     "category": "photography",
     "type": "image-to-image",
-    "images": []
+    "images": [
+      "https://storage.tiktomato.com/uploads/20260417/task_6794dc25-f39f-4053-bce2-379698e0dda3_0.jpeg"
+    ]
   },
   {
     "id": "sd-212",
@@ -1732,7 +1738,9 @@
     "prompt_ori": "Decompose this outfit into individual clothing items and accessories, arrange them neatly in a flat lay knolling layout on clean white surface, overhead view, even lighting, organized grid pattern, fashion photography style",
     "category": "product",
     "type": "image-to-image",
-    "images": []
+    "images": [
+      "https://storage.tiktomato.com/uploads/20260417/task_3ba59b68-ffaa-4e4a-88bd-28c898aff046_0.jpeg"
+    ]
   },
   {
     "id": "sd-216",
@@ -1777,6 +1785,8 @@
     "prompt_ori": "Convert this photo into a dramatic manga panel. Dynamic speed lines, screentone shading, expressive character with detailed eyes, Japanese manga speech bubbles, black and white with high contrast, Shonen Jump action style",
     "category": "comic",
     "type": "image-to-image",
-    "images": []
+    "images": [
+      "https://storage.tiktomato.com/uploads/20260417/task_97830102-ec28-4c7e-9259-eeddeaa0feb9_0.jpeg"
+    ]
   }
 ]

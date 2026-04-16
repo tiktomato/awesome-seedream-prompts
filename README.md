@@ -859,6 +859,8 @@ These prompts are designed to be used with a reference image. Upload your image 
 
 ### Ghibli Anime Style
 
+<img src="https://storage.tiktomato.com/uploads/20260417/task_d4c1831d-b403-4dae-b4cb-4f78af7c4545_0.jpeg" width="400" />
+
 > Turn the image into Ghibli Style, maintain the character's features. Soft watercolor textures, warm pastel colors, whimsical atmosphere, hand-drawn feel with gentle lighting and dreamy clouds in the background
 
 ### Classical Oil Painting
@@ -883,6 +885,8 @@ These prompts are designed to be used with a reference image. Upload your image 
 
 ### Action Figure in Box
 
+<img src="https://storage.tiktomato.com/uploads/20260417/task_960b321c-6b5a-4c3c-b520-5e1f4295989f_0.jpeg" width="400" />
+
 > Turn the person in this photo into a highly detailed collectible action figure, placed inside clear plastic packaging with a printed cardboard backing. Toy photography style, studio lighting, miniature scale, realistic plastic texture
 
 ### 3D Q版拍立得突破
@@ -899,6 +903,8 @@ These prompts are designed to be used with a reference image. Upload your image 
 
 ### Season Change to Winter
 
+<img src="https://storage.tiktomato.com/uploads/20260417/task_6794dc25-f39f-4053-bce2-379698e0dda3_0.jpeg" width="400" />
+
 > Transform this into a cold winter scene. The fields are covered in deep snow, trees are bare with frost on branches. The sky shifts to cool blues and pale pinks. Keep the same road, buildings, and composition unchanged
 
 ### Day to Night
@@ -914,6 +920,8 @@ These prompts are designed to be used with a reference image. Upload your image 
 > Replace the background with a Parisian street at sunset, keeping the subject sharp and unchanged. Add warm orange rim lighting on the subject to match the new sunset atmosphere
 
 ### Outfit Flat Lay Knolling
+
+<img src="https://storage.tiktomato.com/uploads/20260417/task_3ba59b68-ffaa-4e4a-88bd-28c898aff046_0.jpeg" width="400" />
 
 > Decompose this outfit into individual clothing items and accessories, arrange them neatly in a flat lay knolling layout on clean white surface, overhead view, even lighting, organized grid pattern, fashion photography style
 
@@ -935,13 +943,15 @@ These prompts are designed to be used with a reference image. Upload your image 
 
 ### Manga Panel Scene
 
+<img src="https://storage.tiktomato.com/uploads/20260417/task_97830102-ec28-4c7e-9259-eeddeaa0feb9_0.jpeg" width="400" />
+
 > Convert this photo into a dramatic manga panel. Dynamic speed lines, screentone shading, expressive character with detailed eyes, Japanese manga speech bubbles, black and white with high contrast, Shonen Jump action style
 
 ---
 
 ## About Seedream
 
-Seedream is a text-to-image and image-to-image AI model developed by ByteDance. It excels at photorealistic generation, style transfer, and creative image editing. Available versions include Seedream 4.0, 4.5, and 5.0-lite.
+Seedream is a text-to-image and image-to-image AI model developed by ByteDance. It excels at photorealistic generation, style transfer, and creative image editing.
 
 ## License
 
