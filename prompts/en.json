@@ -1608,6 +1608,9 @@
     "type": "image-to-image",
     "images": [
       "https://storage.tiktomato.com/uploads/20260417/task_d4c1831d-b403-4dae-b4cb-4f78af7c4545_0.jpeg"
+    ],
+    "inputImages": [
+      "https://storage.tiktomato.com/uploads/20260417/task_7a50ee5f-fd9d-4552-8771-89206057123a_0.png"
     ]
   },
   {
@@ -1664,6 +1667,9 @@
     "type": "image-to-image",
     "images": [
       "https://storage.tiktomato.com/uploads/20260417/task_960b321c-6b5a-4c3c-b520-5e1f4295989f_0.jpeg"
+    ],
+    "inputImages": [
+      "https://storage.tiktomato.com/uploads/20260417/task_3b10e71e-407a-4bf1-9670-2cdad623b3cf_0.png"
     ]
   },
   {
@@ -1702,6 +1708,9 @@
     "type": "image-to-image",
     "images": [
       "https://storage.tiktomato.com/uploads/20260417/task_6794dc25-f39f-4053-bce2-379698e0dda3_0.jpeg"
+    ],
+    "inputImages": [
+      "https://storage.tiktomato.com/uploads/20260417/tkimage_9195a9e97a5b466bba907e177a50fc77_0.webp"
     ]
   },
   {
@@ -1740,6 +1749,9 @@
     "type": "image-to-image",
     "images": [
       "https://storage.tiktomato.com/uploads/20260417/task_3ba59b68-ffaa-4e4a-88bd-28c898aff046_0.jpeg"
+    ],
+    "inputImages": [
+      "https://storage.tiktomato.com/uploads/20260417/tkimage_b5b579b791914155bfba827e273c20b1_0.webp"
     ]
   },
   {
@@ -1787,6 +1799,9 @@
     "type": "image-to-image",
     "images": [
       "https://storage.tiktomato.com/uploads/20260417/task_97830102-ec28-4c7e-9259-eeddeaa0feb9_0.jpeg"
+    ],
+    "inputImages": [
+      "https://storage.tiktomato.com/uploads/20260417/tkimage_1147617ae8394787bc82bbf1d56b0410_0.webp"
     ]
   }
 ]

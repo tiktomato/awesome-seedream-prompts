@@ -855,11 +855,13 @@
 
 ## 画像変換 / スタイル転送 <a id="image-to-image"></a>
 
-これらのプロンプトは参照画像と一緒に使用します。画像をアップロードしてスタイル変換を行ってください。
+これらのプロンプトは参照画像と一緒に使用します。
 
 ### ジブリアニメスタイル
 
-<img src="https://storage.tiktomato.com/uploads/20260417/task_d4c1831d-b403-4dae-b4cb-4f78af7c4545_0.jpeg" width="400" />
+| Input | Output |
+|-------|--------|
+| <img src="https://storage.tiktomato.com/uploads/20260417/task_7a50ee5f-fd9d-4552-8771-89206057123a_0.png" width="300" /> | <img src="https://storage.tiktomato.com/uploads/20260417/task_d4c1831d-b403-4dae-b4cb-4f78af7c4545_0.jpeg" width="300" /> |
 
 > 画像をジブリスタイルに変換、キャラクターの特徴を維持。柔らかい水彩テクスチャ、暖かいパステルカラー、幻想的な雰囲気、手描き感のある優しい光と夢のような雲の背景
 >
@@ -897,7 +899,9 @@
 
 ### パッケージ入りフィギュア
 
-<img src="https://storage.tiktomato.com/uploads/20260417/task_960b321c-6b5a-4c3c-b520-5e1f4295989f_0.jpeg" width="400" />
+| Input | Output |
+|-------|--------|
+| <img src="https://storage.tiktomato.com/uploads/20260417/task_3b10e71e-407a-4bf1-9670-2cdad623b3cf_0.png" width="300" /> | <img src="https://storage.tiktomato.com/uploads/20260417/task_960b321c-6b5a-4c3c-b520-5e1f4295989f_0.jpeg" width="300" /> |
 
 > 写真の人物を精巧なコレクタブルフィギュアに変換、印刷台紙付きの透明プラスチックパッケージ内に配置。トイフォトスタイル、スタジオ照明、ミニチュアスケール、リアルなプラスチック質感
 >
@@ -923,7 +927,9 @@
 
 ### 冬景色への変換
 
-<img src="https://storage.tiktomato.com/uploads/20260417/task_6794dc25-f39f-4053-bce2-379698e0dda3_0.jpeg" width="400" />
+| Input | Output |
+|-------|--------|
+| <img src="https://storage.tiktomato.com/uploads/20260417/tkimage_9195a9e97a5b466bba907e177a50fc77_0.webp" width="300" /> | <img src="https://storage.tiktomato.com/uploads/20260417/task_6794dc25-f39f-4053-bce2-379698e0dda3_0.jpeg" width="300" /> |
 
 > シーンを寒い冬に変換。畑は深い雪に覆われ、木は霜のついた裸枝。空は冷たい青と淡いピンクに変化。道路、建物、構図はそのまま維持
 >
@@ -949,7 +955,9 @@
 
 ### コーデ分解フラットレイ
 
-<img src="https://storage.tiktomato.com/uploads/20260417/task_3ba59b68-ffaa-4e4a-88bd-28c898aff046_0.jpeg" width="400" />
+| Input | Output |
+|-------|--------|
+| <img src="https://storage.tiktomato.com/uploads/20260417/tkimage_b5b579b791914155bfba827e273c20b1_0.webp" width="300" /> | <img src="https://storage.tiktomato.com/uploads/20260417/task_3ba59b68-ffaa-4e4a-88bd-28c898aff046_0.jpeg" width="300" /> |
 
 > このコーディネートを個々の衣類とアクセサリーに分解し、清潔な白い表面にフラットレイで整然と配置、俯瞰視点、均一照明、整列グリッドパターン、ファッションフォトスタイル
 >
@@ -981,7 +989,9 @@
 
 ### マンガパネル
 
-<img src="https://storage.tiktomato.com/uploads/20260417/task_97830102-ec28-4c7e-9259-eeddeaa0feb9_0.jpeg" width="400" />
+| Input | Output |
+|-------|--------|
+| <img src="https://storage.tiktomato.com/uploads/20260417/tkimage_1147617ae8394787bc82bbf1d56b0410_0.webp" width="300" /> | <img src="https://storage.tiktomato.com/uploads/20260417/task_97830102-ec28-4c7e-9259-eeddeaa0feb9_0.jpeg" width="300" /> |
 
 > 写真をドラマチックなマンガパネルに変換。ダイナミックなスピード線、スクリーントーン、詳細な目の表情豊かなキャラクター、日本語マンガの吹き出し、白黒ハイコントラスト、少年ジャンプアクション風
 >
@@ -991,7 +1001,7 @@
 
 ## Seedreamについて
 
-SeedreamはByteDanceが開発したAI画像生成モデルです。フォトリアリスティックな生成、スタイル転送、画像編集に優れています。
+SeedreamはByteDanceが開発したAI画像生成モデルです。
 
 ## ライセンス
 
