@@ -2,7 +2,7 @@
 
 # Seedream 提示词精选集
 
-> 220 条精选 Seedream（字节跳动）AI 图片生成提示词，持续更新。
+> 227 条精选 Seedream（字节跳动）AI 图片生成提示词，持续更新。
 
 [![GitHub Stars](https://img.shields.io/github/stars/tiktomato/awesome-seedream-prompts?style=for-the-badge)](https://github.com/tiktomato/awesome-seedream-prompts)
 
@@ -10,13 +10,13 @@
 
 ## 分类
 
-- [头像](#avatar) (18)
+- [产品广告](#product) (23)
+- [摄影](#photography) (26)
+- [海报](#poster) (28)
+- [头像](#avatar) (19)
 - [社交媒体](#social) (9)
 - [信息图](#infographic) (24)
 - [视频封面](#thumbnail) (8)
-- [海报](#poster) (27)
-- [产品广告](#product) (20)
-- [摄影](#photography) (24)
 - [美食](#food) (10)
 - [建筑](#architecture) (9)
 - [艺术创意](#art) (30)
@@ -25,7 +25,383 @@
 
 ---
 
+## 产品广告 <a id="product"></a>
+
+### 奢侈品产品 campaign
+
+<img src="https://storage.tiktomato.com/prompts/seedream/se-221_0.jpg" width="500" />
+
+> [BRAND NAME] | [OBJECT]
+
+担任高端商业产品摄影师兼创意总监，拍摄奢侈品社论级 campaign（Hypebeast / Highsnobiety / Wallpaper* 水准）。
+
+PHASE 1: BRAND INTELLIGENCE
+主角是被 [BRAND NAME] 品牌化的 [OBJECT]。自主推导 [BRAND NAME] 的完整视觉身份：标志性色彩系统、排版 DNA、logo 几何形态、材质语言与文化定位。精准地将此身份应用到 [OBJECT] 上——不要发明泛泛品牌，要解码真实的视觉密码。
+
+PHASE 2: OBJECT SURFACE & MATERIAL DNA
+无论 [OBJECT] 形状如何，均采用以下材质系统：基础色调为深中性色——哑光深石墨、暖炭黑或哑光黑。在掠射光下可见细腻微纹理——粉末涂层、哑光纸张或拉丝质感。 subtle 渐变晕染：基础色在物体表面下部逐渐溶解为品牌最具标志性的强调色——来自材质内部的柔和内发光雾气，而非印刷图案。logo 应用采用浮雕、压凹或金属箔烫金——仅在边缘捕捉高光。精准、克制。排版：严格遵循品牌字体，小字距，以社论级意图排布。
+
+PHASE 3: THE ACCENT BREAKOUT ELEMENT
+这是标志性设计动作——根据 [OBJECT] 的自然几何进行适配：找出 [OBJECT] 上最合理的“中断区域”——接缝、边缘、带状、领口、 rim、strap 或包裹点。在此区域使用品牌最具标志性的饱和强调色，制作一条窄而鲜明的强调元素——生动、略带哑光。该元素必须视觉上“突破”物体边界——延伸、突出或包裹超出预期边缘，在物体与细节之间制造刻意的 3D 张力。强调元素带有微型排版品牌细节——slogan、型号名称或描述语——小而精准，字距精确。
+
+PHASE 4: STAGING & COMPOSITION
+摄影棚 cyclorama。表面色调：米白至暖浅灰。背景场：冷中性中灰，上部更深。[OBJECT] 以 3/4 角度摆放——同时可见正面与一个侧面。三分法构图：物体占据画面右侧 60%。左侧留出大量留白——有意为之，而非空洞。单一硬边定向阴影投向右侧并略向下——清晰半影，无扩散。
+
+PHASE 5: LIGHTING
+单一主导主光：大型柔光箱，机位左侧，抬高 40°。高光沿 [OBJECT] 左上边缘勾勒——展现材质颗粒。阴影面无补光。黑暗即是深度。来自 cyclorama 地面的微弱环境反弹——将阴影提亮 15%，不再多。强调元素在其主边缘获得微妙高光闪烁。氛围：将伦勃朗明暗对比逻辑应用于产品摄影。无镜头眩光，无大气效果。
+
+PHASE 6: TECH SPECS
+Lens: 85mm equivalent, f/4.5。景深：物体完全锐利，背景柔化。色差：仅在画面极边缘处微妙呈现——光学真实性信号。胶片颗粒叠加：15% 不透明度——反 CGI 塑料感。渲染：Octane / Ray Tracing 品质——在材质需要处做次表面散射、全局光照、物理准确的阴影衰减。宽高比：根据此 [OBJECT] 形态自主决定最佳比例。
+
+— 来源 [https://x.com/Strength04_X/status/2046567831240839329](https://x.com/Strength04_X/status/2046567831240839329)
+
+### 金继石榴
+
+<img src="https://storage.tiktomato.com/prompts/seedream/se-222_0.jpg" width="500" />
+
+> 白色瓷器石榴带有复杂金色金继修复裂纹，中心英雄镜头，平视视角，高级产品摄影，极简白色背景，柔和影棚灯光与细微金色反光，8K photorealistic，锐利对焦，极致细节瓷器纹理，金色脉络微距镜头，no clutter，no text。
+
+— 来源 [https://x.com/kaanakz/status/2038208587042824538](https://x.com/kaanakz/status/2038208587042824538)
+
+### 奇异果护肤广告
+
+<img src="https://storage.tiktomato.com/prompts/seedream/se-227_0.jpg" width="500" />
+
+> Ultra-realistic skincare product advertising photography featuring a vibrant green glass dropper bottle labeled “Kiwi Hydrating Skin Booster (30 ml)” floating with a spiral splash of fresh kiwi juice. Kiwi slices and seeds scatter mid-air with suspended droplets wrapping around the bottle. Ana de Armas strikes a hot and bold pose next to the bottle, leaning slightly forward with one hand on her hip, the other holding a kiwi slice to her lips, wearing a glossy, avant-garde green outfit made of kiwi textures, hair flowing dramatically, eyes smoldering at the camera. Background is soft pastel green studio tone with bright cinematic lighting, reflective highlights on glass texture, shallow depth of field, ultra-detailed 8K cosmetic photography, surreal and absurdly whimsical composition.
+
+— 来源 [https://x.com/Just_sharon7/status/2030661137726050643](https://x.com/Just_sharon7/status/2030661137726050643)
+
+### 悬浮手机产品照
+
+> 现代智能手机以动感角度悬浮于深色渐变背景前，左上方单一光源的影棚布光在玻璃屏幕和金属边框上投射锐利的高光反射，微妙的蓝色辉光点缀，超精细产品纹理，商业级主视觉品质，4K
+
+### 奢华香水瓶
+
+> 奢华玻璃香水瓶置于抛光黑曜石台面上，柔和的金色边缘逆光营造优雅的光晕效果，晶莹水珠在弧形瓶身上闪烁，琥珀色液体在瓶内折射光线，专业时尚编辑级产品摄影，浅景深柔美虚化背景，超高清画质
+
+### 无线耳机广告
+
+> 极简无线耳机连同哑光白色充电盒的主视角产品照，阳极氧化铝外壳配拉丝不锈钢装饰，微小水滴凝固在空中暗示防溅性能，柔和影棚光线勾勒清晰的边缘高光，哑光黑色台面的镜面倒影，产品目录级商业摄影，4K
+
+### 护肤品平铺
+
+> 白色大理石上精心摆放的平铺场景：三瓶玻璃护肤品呈松散三角排列，瓶间穿插新鲜植物和干花，左侧窗户柔和的散射光，粉色与奶油色的柔和色调，俯拍居中构图，植物浅景深虚化、产品标签锐利对焦，4K产品摄影
+
+### 热带水果水花
+
+> 鲜艳的热带水果在晶莹水花中爆裂飞溅的定格瞬间，芒果、草莓和猕猴桃在纯白影棚背景前悬浮于动态运动中，高速商业摄影，超锐利的细节捕捉每一颗水珠，清新活力的氛围
+
+### 高端手机展示
+
+> 高端智能手机的写实产品照，置于玻璃展台之上，屏幕显示内容细节丰富，柔和影棚布光，专业商业摄影风格
+
+### 奢华腕表产品照
+
+> 奢华金色腕表在丝绒展台上的写实产品照，精密细节毕现，影棚布光，典雅背景
+
+### 智能手表展示
+
+> 高科技智能手表置于现代桌面，精致光影反射，蓝色点缀的未来感设计元素
+
+### 高端手袋产品图
+
+> 高端手袋产品摄影，皮质纹理细腻逼真，布光精准打亮，简约干净的背景
+
+### 奢华腕表广告
+
+> 奢华金色腕表的专业产品照，深色丝绒台面，柔和影棚布光，高精度细节与光影反射，腕表商业广告风格
+
+### 化妆品陈列
+
+> 化妆刷与彩妆盘的高品质产品摄影，排列整齐有序，均匀布光展示质感，美妆商业风格
+
+### 皮具手袋摄影
+
+> 时尚皮质手袋在木质展架上的商业摄影，温暖室内灯光，高对比度与层次感阴影
+
+### 钻石耳饰展示
+
+> 钻石耳环在黑色展台上的高端商业照，聚光灯照射，璀璨闪耀效果与精细细节
+
+### 笔记本电脑展示
+
+> 笔记本电脑搭配桌面配件的动感产品摄影，办公环境灯光，屏幕反射与锐利边缘，商业用途
+
+### 健身器材广告
+
+> 哑铃与瑜伽垫在健身房中的专业产品照，激励感布光，汗水与材质纹理细节，健身商业推广
+
+### 工具套装展示
+
+> 一套工具展开陈列的精细产品图，工作坊灯光，金属光泽与整齐排列，五金商业广告
+
+### 笔记本电脑评测
+
+> 精致YouTube社交媒体科技评测封面，新款笔记本配参数叠加，文字'Best Laptops 2024'，现代产品设计风格，银灰配色，细节丰富
+
+### 盒装手办
+
+<img src="https://storage.tiktomato.com/uploads/20260417/task_960b321c-6b5a-4c3c-b520-5e1f4295989f_0.jpeg" width="500" />
+
+> 将照片中的人物变成精细的可收藏手办，放在透明塑料包装盒内配有印刷纸板背板。玩具摄影风格，棚拍灯光，微缩比例，逼真塑料质感
+
+### 穿搭平铺拆解
+
+<img src="https://storage.tiktomato.com/uploads/20260417/task_3ba59b68-ffaa-4e4a-88bd-28c898aff046_0.jpeg" width="500" />
+
+> 将这套穿搭拆解为单件衣物和配饰，在干净白色表面上整齐排列为平铺展示布局，俯视角度，均匀光线，有序网格排列，时尚摄影风格
+
+### 奢华产品摆拍
+
+> 将产品放置在高端生活方式场景中，柔和晨光透过薄纱窗帘照在大理石台面上，旁边有鲜花和金色装饰，浅景深，奢侈品牌广告摄影风格
+
+---
+
+## 摄影 <a id="photography"></a>
+
+### 晨光肖像
+
+<img src="https://storage.tiktomato.com/prompts/seedream/se-223_0.jpg" width="500" />
+
+> Masterpiece, Best Quality, 8K, photorealistic intimate portrait, Rinko Kawauchi photography style, ethereal light study, shot on Canon R5, 50mm f/1.8 lens, shallow depth of field, a beautiful Korean female k-pop idol, age 19-20, innocent baby face, sitting on a messy white bed in the soft morning light, the entire scene bathed in overwhelming gentle white light, Rinko Kawauchi signature aesthetic: intentionally overexposed by 1-2 stops, extremely low contrast, shadows lifted to light grey — no pure blacks anywhere, desaturated color palette with colors diluted by abundant light, dreamy ethereal haze permeating the entire frame, the photograph feels like looking through a veil of warm light, face: round baby face with soft jawline, big round doe eyes, prominent aegyo-sal (under-eye fat pads) catching light as a soft highlight, straight flat eyebrows in light brown — Korean style, small delicate nose with slightly rounded tip, gradient glossy pink lips — deeper coral-pink at the center fading to near skin-tone at the edges, glossy surface catching a single tiny point of light like a dewdrop, very light pink blush on the apples of cheeks — natural flush as if just woken from a warm sleep, barely-there makeup — almost no visible cosmetics, hair: long black wavy hair in a messy just-woke-up state, tousled and tangled with irregular sleep-curls, messy fringe and loose strands falling across forehead and cheeks, in the strong backlight from the window the hair edges glow with a warm golden translucent halo — individual strands becoming luminous gold threads floating in the light, skin: fair warm-toned milky white complexion, in the overexposed Kawauchi light the skin reads as translucent warm porcelain, strong subsurface scattering visible — light penetrating through her ear edges glowing pink, through her fingers at the thinnest points, fine golden peach fuzz on her arms and cheeks visible as a glowing edge in the backlight — micro hairs lit up like tiny fiber optics, wearing a simple white triangle bikini — minimal design, thin string ties, soft ribbed knit cotton texture — not glossy swimwear, the white bikini fabric is almost the same tone as her pale skin and the white bedsheets — boundaries dissolving in the light, in the strongest backlight areas the thin white fabric becomes subtly translucent — not revealing but showing light passing through cloth the way Kawauchi photographs light through insect wings or flower petals, this is about the physics of light transmission not about exposure, sitting on a messy white bed with rumpled white sheets and white pillows, legs drawn up and bent in front of her in a curled-up just-woke-up position, one arm loosely hugging a white pillow against her chest — not clutching defensively but holding softly with sleepy comfort, shoulders slightly hunched in a cozy morning curl, one bikini strap slipping slightly off the shoulder — unnoticed, natural, bare feet on the sheets with toes slightly curled, her gaze toward the camera: eyes open but not fully focused — the look of someone caught between sleep and waking, pupils slightly dilated, gaze soft and unfixed, looking in the viewer's direction but seeing through them toward the light, lips slightly parted — breathing, existing, not performing, the expression is pure presence — no seduction, no shyness performed, just a human being in their most unguarded morning state, LIGHTING — the core of this image: soft morning sunlight flooding through a large window to the right, filtered through sheer white curtains acting as a massive diffusion panel, the window area and right side of the frame BLOWN OUT to pure white — overexposed high-key lighting eating into the subject from the right, light spilling and bleeding across the frame like liquid, her right side (facing the window) almost dissolving into white light, her left side retaining slightly more detail but still very bright, lighting ratio approximately 1.5:1 — almost flat, barely any shadow, the white bedsheets and white walls bouncing light everywhere eliminating shadows almost completely, the very few remaining shadows are lifted to pale grey — no darkness, a subtle warm lens flare entering from the window direction, the air itself appears luminous — as if filled with microscopic light particles, the entire color palette is washed out by the overwhelming light: whites dominate everything — sheets, bikini, curtains, skin nearly merging, the only surviving colors are extremely diluted: her lips: a faint coral-pink barely holding its hue, her skin: the softest warm blush-white, her hair: dark but reading as warm brown in the light rather than black, shadows carry the faintest hint of cool lavender-blue — Kawauchi's signature, COMPOSITION: 3:2 horizontal frame, subject centered slightly left, large overexposed white negative space on the right (light source direction), she occupies about 40-50% of the frame — surrounded and cradled by light, intimate eye-level POV as if sitting on the same bed facing her, shooting distance approximately 1-1.5 meters — personal intimate distance, the image should feel like: a sacred quiet moment that exists only between the light and her body, the body is not an object of desire but a vessel receiving light, everything is soft, pale, dissolved, luminous, tender, fleeting, as if this moment will evaporate the instant the shutter closes, Photorealistic, soft luminous skin with visible subsurface scattering and golden peach fuzz halo in backlight, messy hair strands glowing as individual golden threads, subtle ribbed texture on white bikini fabric, rumpled white sheet texture visible in gentle sidelight, glossy lip surface with single light reflection point, prominent aegyo-sal highlight under the eyes, overall Rinko Kawauchi quality: blown-out highlights, lifted shadows, desaturated palette, ethereal haze, overwhelming gentle light, no artifacts, no watermark
+
+— 来源 [https://x.com/BubbleBrain/status/2033502272269803928](https://x.com/BubbleBrain/status/2033502272269803928)
+
+### iPhone闪光灯人像
+
+<img src="https://storage.tiktomato.com/prompts/seedream/se-224_0.jpg" width="500" />
+
+> Masterpiece, best quality, RAW photo quality, 8K UHD, ultra-realistic photography, 100% photorealistic, real life photograph, Phone flash photography portrait of a stunning 21-year-old Korean female idol, sexy yet cute charm, confident and playful energy, Shot on iPhone with direct frontal flash, harsh on-camera flash lighting, strong specular highlights on skin, short hard shadow cast behind her on the wall, high contrast between flash-lit subject and dimmer background, flash reflection visible as bright circular catchlight in both pupils, Flawless cold white porcelain skin with cool pink undertone, pale translucent luminous skin under flash, realistic skin micro-texture visible under harsh flash — fine pores around nose, subtle peach fuzz on cheeks, delicate veins faintly visible on collarbone area, realistic subsurface scattering on ear edges, skin strictly cool-toned porcelain white with natural hydration, Small heart-shaped face, large expressive almond eyes with double eyelids, bright clear eyes with playful confident gaze directly into camera, high delicate nose bridge, plump glossy lips slightly parted in a half-smile, soft arched eyebrows in light brown, Korean idol makeup: sheer pink-brown eyeshadow, thin inner eyeliner, naturally curled lashes, soft peach blush on apple of cheeks creating a flushed look, dewy peach-coral jelly lip gloss with high shine, Dark brown shoulder-length wavy hair with center-parted curtain bangs, silky smooth with natural shine, hair catching flash highlights, Wearing a white cropped fitted camisole tank top and low-rise distressed denim mini skirt, fabric hugging her slim figure, showcasing her slim waist, small silver stud earrings, delicate silver collarbone necklace, Standing pose with body slightly angled, hips tilted to one side creating a subtle S-curve, one hand playfully tossing her hair back, other hand casually tugging at skirt hem, weight on right leg with left knee slightly bent and relaxed, head tilted slightly with chin lifted, confident and flirty body language, Indoor setting — simple white/light gray wall behind her, minimal background, late night candid snapshot vibe after dance practice, Vertical 9:16 composition, three-quarter body framing from above knees to top of head, subject centered, camera at chest height, approximately 28mm smartphone wide-angle perspective with subtle barrel distortion, Natural color under flash — cool white flash illumination contrasting with slightly warm ambient room light, natural skin tone preserved, sharp macro-level details, natural chromatic aberration, no post-processing look, authentic smartphone flash snapshot aesthetic
+
+— 来源 [https://x.com/BubbleBrain/status/2030851492224065663](https://x.com/BubbleBrain/status/2030851492224065663)
+
+### 黄金时刻时装人像
+
+> 年轻女性身穿飘逸翡翠绿真丝长裙站在洒满阳光的野花草地上，温暖的夏日微风轻拂发丝，面部自然雀斑清晰可见，背景虚化为朦胧花丛光斑，时尚编辑级摄影配合柔和黄金时刻光线，85mm镜头f/1.8光圈，温暖电影色调
+
+### 沧桑渔夫肖像
+
+> 年迈渔夫特写肖像，皮肤纹理深邃饱经风霜，一双穿透力极强的蓝眼睛，身穿磨损褪色的海风侵蚀羊毛外套，伦勃朗侧光映衬大西洋风暴海景，8K超写实皮肤纹理细节，纪实摄影风格，50mm镜头
+
+### 胶片低保真人像
+
+> 年轻女性坐在阳光公寓窗台上的肖像，柯达Portra 400胶片35mm拍摄，温暖金色调带微妙绿色暗部，可见胶片颗粒与左侧边缘淡淡漏光，黑色微微泛灰，复古50mm镜头，放松自然的抓拍表情，低保真怀旧情绪
+
+### 暮色中的雪豹
+
+> 雄伟的雪豹栖息于喜马拉雅悬崖边缘，暮色渐沉，深蓝天幕中繁星初现，毛发细节纤毫毕现，《国家地理》野生动物摄影风格，戏剧性自然光线，400mm长焦镜头，浅景深，8K
+
+### 非洲雄狮金色草原
+
+> 雄壮的非洲雄狮拥有一头深色鬃毛，行走在日落时分金色高草的热带草原上，温暖逆光在鬃毛四周勾勒出灿烂光晕，琥珀色双眼直视镜头，400mm长焦镜头，《国家地理》风格，浅景深，8K
+
+### 北欧冰湖极光
+
+> 严冬中的北欧冰封湖面，头顶绿色与紫色极光如绸带般舞动，湖岸两侧覆雪的云杉林，镜面般的冰面完美倒映夜空，长曝光摄影美学，空灵缥缈的光芒，8K星空摄影
+
+### 沙漠银河拱桥
+
+> 午夜时分银河拱桥横跨辽阔沙漠上空，砂岩奇岩怪石在满天繁星下化为剪影，前景一堆小篝火在红色沙地上投射温暖橙光，25秒长曝光美学效果，星空摄影，大景深，8K
+
+### 雪山晨曦风光
+
+> 壮美的雪山日出风光摄影，晨雾缭绕的山谷，澄澈湖面完美倒映山峰，广角镜头取景，自然光线
+
+### 城市夜景街拍
+
+> 繁华都市夜间街头摄影，霓虹灯光闪烁，行人穿梭，广角镜头，氛围感十足
+
+### 雨中街头纪实
+
+> 城市雨中街头摄影，行人撑伞穿行，霓虹灯映入水洼倒影，黑白色调处理，纪实感强烈
+
+### 晨雾山湖风光
+
+> 宁静山湖晨曦风光摄影，薄雾缭绕，远处野生动物隐约可见
+
+### 时尚手机商拍
+
+> 现代智能手机的高分辨率商业摄影，极简白色背景，戏剧性灯光突出产品特征，专业产品摄影风格
+
+### 香水瓶花艺广告
+
+> 玻璃香水瓶搭配花卉元素的精致商业图片，窗边自然光线，色彩鲜明，对焦锐利
+
+### 无线耳机特写
+
+> 无线耳机充电盒的精细商业特写，微距镜头捕捉精密细节，蓝色氛围光，专业摄影场景
+
+### 厨房电器广告
+
+> 料理机搭配新鲜水果的专业产品图，明亮厨房场景，逼真质感与光影反射，商业推广风格
+
+### 护肤精华液
+
+> 护肤精华液瓶身的简洁商业图片，晶莹水珠点缀，柔和漫射光线，透明玻璃质感，专业包装摄影
+
+### 花瓶家居装饰
+
+> 陶瓷花瓶插花的商业摄影，窗边自然光线，精致花纹与质感呈现，室内设计写实风格
+
+### 汽水饮料商拍
+
+> 汽水罐身挂满凝结水珠的高清商业摄影，户外野餐背景，色彩鲜艳，气泡感十足
+
+### 服装系列摄影
+
+> 人台上夹克外套的商业时装摄影，影棚闪光灯，面料纹理与褶皱细节，专业服装系列推广
+
+### 旅行摄影海报
+
+> YouTube社交媒体旅行摄影缩略图，海滩日出场景中摄影师在拍摄，文字'完美旅行照'，真实摄影风格，温暖色调，高分辨率
+
+### 季节变换·冬天
+
+<img src="https://storage.tiktomato.com/uploads/20260417/task_6794dc25-f39f-4053-bce2-379698e0dda3_0.jpeg" width="500" />
+
+> 将场景转变为寒冷的冬天。田野覆盖厚厚积雪，树木光秃挂满霜花。天空转为冷蓝和淡粉色调。保持道路、建筑和构图不变
+
+### 日转夜
+
+> 将场景转换为晴朗夜景。天空布满银河和繁星，表面反射星光。保持建筑和布局不变。冷蓝色调，窗户透出温暖灯光，长曝光摄影质感
+
+### 添加暴雨
+
+> 为场景添加暴雨效果。头发湿透，皮肤和衣物上有水珠。空中可见雨线，背景湿润表面反射光线。保持人物、姿势和构图不变
+
+### 背景替换
+
+> 将背景替换为巴黎日落街道，保持主体清晰不变。在主体上添加暖橙色轮廓光以配合新的日落氛围
+
+---
+
+## 海报 <a id="poster"></a>
+
+### 镜子反射场景
+
+> Photorealistic cinematic. 16:9. 1970s American suburban home. Dim warm practical lighting. 35mm film grain. One single continuous shot. Zero cuts. Zero transitions. Never cuts. Ever. ELLIE: girl aged 9-10, light brown hair loose, light zip-up winter jacket over red crew neck sweater, jeans, bare feet. Pure panic. THE CORE ILLUSION: The camera is stationary inside the bathroom aimed at the closed mirrored medicine cabinet. What appears to be a tracking shot following Ellie is actually her REFLECTION in the mirror. The camera never moves until the zoom out. There is no cut. The transition is hidden by the zoom out revealing the cabinet knob. [0.0s] The mirror reflection fills the frame completely - no cabinet edges visible, no knob, no frame. The reflection shows only: Ellie at the bottom of a dim 1970s staircase. Wood paneling, patterned carpet, family photos. She launches into a desperate sprint upward. Light winter jacket over red sweater. Bare feet. [2.0s] Her reflection grows as she approaches. She rounds the landing into the hallway. The camera reflection tracks her — appearing to move backward ahead of her down the corridor. She runs toward camera in apparent slow retreat. Frame rate ramps 24fps to 48fps — SLOW MOTION. She runs at full desperate effort in half-speed. Arms pumping. Red sweater flashing. Hair flying. The hallway feels impossibly long. The reflection of her fills more and more of the mirror as she gets closer. [6.5s] She is nearly at the bathroom threshold. Her face almost fills the frame. Her hand rises in slow motion reaching toward the camera. THIS IS THE MOMENT — the camera very slowly ZOOMS OUT for the first time. As it pulls back the cabinet edges come into frame. Then the chrome rounded cabinet knob appears on the LEFT side of frame — visible for the first time, only now, revealed by the zoom out. The audience sees the knob. The perspective shifts seamlessly to first person as her fingers extend toward the knob. Her hand wraps around it in slow motion. [9.0s] She pulls the cabinet door OPEN toward her leftward. The mirror swings away — reflection becomes reality with zero visible seam. We look directly into the open cabinet interior. Her hand reaches in urgently from right of frame. CABINET INTERIOR — period accurate 1970s: Top shelf: amber prescription pill bottle, white cap, small brown glass bottle, thermometer in plastic case. Middle shelf: toothpaste tube, aspirin bottle. Bottom shelf: bandage roll, ointment tube. Her hand grabs the amber pill bottle urgently. Knocks the thermometer — falls in slow motion. [11.5s] She exits rushing out with the pills. The cabinet door swings on its inertia — but does NOT close all the way. It slows and stops slightly ajar — held open at a 20-30 degree angle from closed. Through this gap, at the angle the partial mirror now creates, the bathroom wall is visible in reflection — a framed photograph catches the light. Young Ellie and her father smiling together in summer warmth. Wooden frame. Simple. The photo was always there. Only the angle of the half-open door reveals it now. Only because she left in too much of a hurry to close it fully. [13.5s] The door holds still. Slightly ajar. The photo visible in the angled mirror gap. Distant bare feet on stairs descending. Getting quieter. Getting quieter. Gone. [15.0s] The cabinet door. The angled reflection. The photograph. The silence. Hard cut black. The zoom out at [6.5s] is the single most important moment — it must feel like the camera is exhaling, pulling back just enough to reveal the knob and the cabinet frame simultaneously, recontextualizing everything the audience just watched as a reflection. Before the zoom out: mirror fills the frame completely, no edges visible, pure illusion. After: cabinet geometry revealed, first person perspective, her hand on the knob, reality.
+
+— 来源 [https://x.com/plasm0/status/2046382362507059468](https://x.com/plasm0/status/2046382362507059468)
+
+### 爵士音乐节字体海报
+
+> 大幅字体排版爵士音乐节海报：深海军蓝窄体无衬线标题'BLUE NOTE SESSIONS'，优雅手写体副标题'Summer 2026 · Central Park'，从午夜蓝过渡到暖琥珀的渐变背景，右侧边缘金色萨克斯剪影，表演者名单以简洁字体排列，复古音乐会海报美学 --ar 2:3
+
+### 科幻电影海报
+
+> 电影级科幻惊悚片海报，片名'CHRONOS'：一名宇航员独自面对深空中巨大的旋转时间漩涡，强烈逆光勾勒出宇航服的剪影轮廓，底部金属质感粗体片名字体，副标语'Time waits for no one'以较小字号呈现，照片级写实数字艺术，史诗级宏大场面 --ar 2:3
+
+### 复古婚礼请柬
+
+> 典雅复古风格婚礼请柬：深森林绿底色覆以奶油色有纹理卡纸，金箔手写体印着'Together with their families'与新人名字'Emily & James'，橄榄枝装饰性植物边框，底部火漆印章细节，印刷级品质，浪漫而隽永
+
+### 迷幻音乐节海报
+
+> 'ETHEREAL BLOOM'夏季音乐节迷幻风海报：液态色彩与有机形态的超现实爆发，新艺术运动风格流动字体呈现节名，不同大小的表演者名字层叠其中，60年代演唱会海报美学与现代设计的碰撞，万花筒般的洋红、青蓝与金色配色 --ar 2:3
+
+### 极简艺术展海报
+
+> 极简主义艺术展海报：米白背景大面积留白，画面偏右位置一根黑色墨线描绘的人物侧脸轮廓，干净无衬线字体标注展览名'LINES & SILENCE'，下方是展期与画廊名称，精致的画廊级排版，内敛而高雅
+
+### 复古太空海报
+
+> 复古风格太空冒险电影海报，宇航员站在外星球表面，怀旧字体，红蓝配色方案，构图戏剧性十足
+
+### 环保主题海报
+
+> 环保主题海报设计，展示地球与树木元素，标语'Save the Planet'，色彩对比强烈，视觉冲击力强
+
+### 守护自然海报
+
+> 环保主题海报，展示森林、河流与野生动物，文字'保护地球，从我做起'，色彩鲜艳，催人奋进
+
+### 演唱会海报
+
+> 乐队演唱会海报，乐手与舞台灯光交相辉映，色彩鲜明，构图动感十足
+
+### 活力音乐海报
+
+> 动感音乐主题海报设计，粗体无衬线字体排版，抽象声波图案，红蓝鲜明配色，高对比度，4K分辨率
+
+### 极简科技海报
+
+> 极简风格海报，纤细优雅的字体排版，展示电路板与全息投影等未来科技元素，蓝色单色方案，版面干净利落，超高清
+
+### 抽象艺术海报
+
+> 抽象艺术海报设计，创意字体将几何形体与流动字母融为一体，灵感源自现代艺术运动，暖色调，细节丰富
+
+### 绿色环保海报
+
+> 环保主题海报设计，衬线字体突出重点，融入叶片纹样与绿色渐变效果，构图均衡，1080p品质
+
+### 复古风格海报
+
+> 复古风格海报，粗体斜体等怀旧字体排版，融入1950年代汽车与餐厅元素，温暖的棕褐色调，纹理细节丰富
+
+### 企业品牌海报
+
+> 专业企业品牌海报，精致的定制字体排版，融合品牌标志与抽象背景，冷色调企业配色，高分辨率
+
+### 节日活动海报
+
+> 欢快的节日活动海报设计，手写体与方块字体混搭，配合缤纷插画围绕活动信息，充满活力与朝气
+
+### 科幻创意海报
+
+> 创新科幻海报，未来感发光字体效果，太空行星与星辰主题，深色背景搭配霓虹色点缀，细节精致
+
+### 大胆排版海报
+
+> 大胆排版的现代海报，粗体字体突出主题，融入抽象几何图案，黑白为主色调，版面清晰，高清效果
+
+### 艺术风海报设计
+
+> 艺术风格海报，以优雅曲线字体为核心，结合花朵与线条等绘画元素，柔和色彩渐变，4K分辨率
+
+### 科技主题海报
+
+> 科技主题海报，未来感字体排版，数字矩阵与光线效果的背景，蓝绿色调，高对比度，高品质画面
+
+### 文化节海报
+
+> 文化节海报设计，传统与现代字体融合，配以民族图案与文字元素，暖色系，构图平衡和谐
+
+### 时尚品牌海报
+
+> 时尚品牌海报，精致字体排版为核心，搭配模特与服饰元素，高级灰色调，细节丰富
+
+### 运动赛事海报
+
+> 运动赛事海报，动态字体呈现力量感，融入运动员与赛场画面，红白为主色调，高清画质
+
+### 流体抽象海报
+
+> 创意抽象海报，扭曲变形的字体呈现独特视觉，流体艺术效果的背景，多彩渐变，细节精致
+
+### 商业增长海报
+
+> 专业YouTube社交媒体商业建议封面，上升曲线图表与团队协作场景，文字'Scale Your Business Now'，现代信息图设计，蓝灰配色，简洁风格
+
+### 环保宣传海报
+
+> 社交媒体YouTube环保主题缩略图，展示森林与野生动物，融入碳足迹等信息图标，文字'拯救地球行动'，艺术风格，绿色调为主，高清
+
+### 时尚杂志封面
+
+> 将人物放在高端时尚杂志封面上。顶部添加优雅衬线体杂志标题，两侧添加封面标题，专业调色，魅力棚拍灯光，Vogue编辑风格美学
+
+---
+
 ## 头像 <a id="avatar"></a>
+
+### 魅力镜子自拍
+
+<img src="https://storage.tiktomato.com/prompts/seedream/se-226_0.jpg" width="500" />
+
+> 一位时尚红发女郎，长长波浪红发和白皙雀斑皮肤，在室内拍摄镜子自拍。她穿着闪闪发光的钻石迷你连衣裙，贴合剪裁，身穿钻石丝袜，戴着醒目的玫瑰形项圈。她一只手拿着智能手机，手上装饰着钻石戒指和手镯。场景是一个优雅、柔和照明的房间，中性米色墙壁和简约装饰，墙上有一点金色书写'Keor'（不倒置）。她的表情平静而优雅，嘴唇光泽，妆容柔和。旁边放着一个小型装饰手袋。整体美学是迷人、暖色调和奢华的。
+
+— 来源 [https://x.com/chatgptpaglu/status/2045512902883553366](https://x.com/chatgptpaglu/status/2045512902883553366)
 
 ### 商务高管形象照
 
@@ -274,308 +650,6 @@
 ### 音乐节现场封面
 
 > YouTube社交媒体音乐活动推广封面，演唱会人群与舞台灯光，中央DJ身影，文字'Live Music Fest 2024'，霓虹鲜艳色彩，运动模糊摄影效果，16:9
-
----
-
-## 海报 <a id="poster"></a>
-
-### 爵士音乐节字体海报
-
-> 大幅字体排版爵士音乐节海报：深海军蓝窄体无衬线标题'BLUE NOTE SESSIONS'，优雅手写体副标题'Summer 2026 · Central Park'，从午夜蓝过渡到暖琥珀的渐变背景，右侧边缘金色萨克斯剪影，表演者名单以简洁字体排列，复古音乐会海报美学 --ar 2:3
-
-### 科幻电影海报
-
-> 电影级科幻惊悚片海报，片名'CHRONOS'：一名宇航员独自面对深空中巨大的旋转时间漩涡，强烈逆光勾勒出宇航服的剪影轮廓，底部金属质感粗体片名字体，副标语'Time waits for no one'以较小字号呈现，照片级写实数字艺术，史诗级宏大场面 --ar 2:3
-
-### 复古婚礼请柬
-
-> 典雅复古风格婚礼请柬：深森林绿底色覆以奶油色有纹理卡纸，金箔手写体印着'Together with their families'与新人名字'Emily & James'，橄榄枝装饰性植物边框，底部火漆印章细节，印刷级品质，浪漫而隽永
-
-### 迷幻音乐节海报
-
-> 'ETHEREAL BLOOM'夏季音乐节迷幻风海报：液态色彩与有机形态的超现实爆发，新艺术运动风格流动字体呈现节名，不同大小的表演者名字层叠其中，60年代演唱会海报美学与现代设计的碰撞，万花筒般的洋红、青蓝与金色配色 --ar 2:3
-
-### 极简艺术展海报
-
-> 极简主义艺术展海报：米白背景大面积留白，画面偏右位置一根黑色墨线描绘的人物侧脸轮廓，干净无衬线字体标注展览名'LINES & SILENCE'，下方是展期与画廊名称，精致的画廊级排版，内敛而高雅
-
-### 复古太空海报
-
-> 复古风格太空冒险电影海报，宇航员站在外星球表面，怀旧字体，红蓝配色方案，构图戏剧性十足
-
-### 环保主题海报
-
-> 环保主题海报设计，展示地球与树木元素，标语'Save the Planet'，色彩对比强烈，视觉冲击力强
-
-### 守护自然海报
-
-> 环保主题海报，展示森林、河流与野生动物，文字'保护地球，从我做起'，色彩鲜艳，催人奋进
-
-### 演唱会海报
-
-> 乐队演唱会海报，乐手与舞台灯光交相辉映，色彩鲜明，构图动感十足
-
-### 活力音乐海报
-
-> 动感音乐主题海报设计，粗体无衬线字体排版，抽象声波图案，红蓝鲜明配色，高对比度，4K分辨率
-
-### 极简科技海报
-
-> 极简风格海报，纤细优雅的字体排版，展示电路板与全息投影等未来科技元素，蓝色单色方案，版面干净利落，超高清
-
-### 抽象艺术海报
-
-> 抽象艺术海报设计，创意字体将几何形体与流动字母融为一体，灵感源自现代艺术运动，暖色调，细节丰富
-
-### 绿色环保海报
-
-> 环保主题海报设计，衬线字体突出重点，融入叶片纹样与绿色渐变效果，构图均衡，1080p品质
-
-### 复古风格海报
-
-> 复古风格海报，粗体斜体等怀旧字体排版，融入1950年代汽车与餐厅元素，温暖的棕褐色调，纹理细节丰富
-
-### 企业品牌海报
-
-> 专业企业品牌海报，精致的定制字体排版，融合品牌标志与抽象背景，冷色调企业配色，高分辨率
-
-### 节日活动海报
-
-> 欢快的节日活动海报设计，手写体与方块字体混搭，配合缤纷插画围绕活动信息，充满活力与朝气
-
-### 科幻创意海报
-
-> 创新科幻海报，未来感发光字体效果，太空行星与星辰主题，深色背景搭配霓虹色点缀，细节精致
-
-### 大胆排版海报
-
-> 大胆排版的现代海报，粗体字体突出主题，融入抽象几何图案，黑白为主色调，版面清晰，高清效果
-
-### 艺术风海报设计
-
-> 艺术风格海报，以优雅曲线字体为核心，结合花朵与线条等绘画元素，柔和色彩渐变，4K分辨率
-
-### 科技主题海报
-
-> 科技主题海报，未来感字体排版，数字矩阵与光线效果的背景，蓝绿色调，高对比度，高品质画面
-
-### 文化节海报
-
-> 文化节海报设计，传统与现代字体融合，配以民族图案与文字元素，暖色系，构图平衡和谐
-
-### 时尚品牌海报
-
-> 时尚品牌海报，精致字体排版为核心，搭配模特与服饰元素，高级灰色调，细节丰富
-
-### 运动赛事海报
-
-> 运动赛事海报，动态字体呈现力量感，融入运动员与赛场画面，红白为主色调，高清画质
-
-### 流体抽象海报
-
-> 创意抽象海报，扭曲变形的字体呈现独特视觉，流体艺术效果的背景，多彩渐变，细节精致
-
-### 商业增长海报
-
-> 专业YouTube社交媒体商业建议封面，上升曲线图表与团队协作场景，文字'Scale Your Business Now'，现代信息图设计，蓝灰配色，简洁风格
-
-### 环保宣传海报
-
-> 社交媒体YouTube环保主题缩略图，展示森林与野生动物，融入碳足迹等信息图标，文字'拯救地球行动'，艺术风格，绿色调为主，高清
-
-### 时尚杂志封面
-
-> 将人物放在高端时尚杂志封面上。顶部添加优雅衬线体杂志标题，两侧添加封面标题，专业调色，魅力棚拍灯光，Vogue编辑风格美学
-
----
-
-## 产品广告 <a id="product"></a>
-
-### 悬浮手机产品照
-
-> 现代智能手机以动感角度悬浮于深色渐变背景前，左上方单一光源的影棚布光在玻璃屏幕和金属边框上投射锐利的高光反射，微妙的蓝色辉光点缀，超精细产品纹理，商业级主视觉品质，4K
-
-### 奢华香水瓶
-
-> 奢华玻璃香水瓶置于抛光黑曜石台面上，柔和的金色边缘逆光营造优雅的光晕效果，晶莹水珠在弧形瓶身上闪烁，琥珀色液体在瓶内折射光线，专业时尚编辑级产品摄影，浅景深柔美虚化背景，超高清画质
-
-### 无线耳机广告
-
-> 极简无线耳机连同哑光白色充电盒的主视角产品照，阳极氧化铝外壳配拉丝不锈钢装饰，微小水滴凝固在空中暗示防溅性能，柔和影棚光线勾勒清晰的边缘高光，哑光黑色台面的镜面倒影，产品目录级商业摄影，4K
-
-### 护肤品平铺
-
-> 白色大理石上精心摆放的平铺场景：三瓶玻璃护肤品呈松散三角排列，瓶间穿插新鲜植物和干花，左侧窗户柔和的散射光，粉色与奶油色的柔和色调，俯拍居中构图，植物浅景深虚化、产品标签锐利对焦，4K产品摄影
-
-### 热带水果水花
-
-> 鲜艳的热带水果在晶莹水花中爆裂飞溅的定格瞬间，芒果、草莓和猕猴桃在纯白影棚背景前悬浮于动态运动中，高速商业摄影，超锐利的细节捕捉每一颗水珠，清新活力的氛围
-
-### 高端手机展示
-
-> 高端智能手机的写实产品照，置于玻璃展台之上，屏幕显示内容细节丰富，柔和影棚布光，专业商业摄影风格
-
-### 奢华腕表产品照
-
-> 奢华金色腕表在丝绒展台上的写实产品照，精密细节毕现，影棚布光，典雅背景
-
-### 智能手表展示
-
-> 高科技智能手表置于现代桌面，精致光影反射，蓝色点缀的未来感设计元素
-
-### 高端手袋产品图
-
-> 高端手袋产品摄影，皮质纹理细腻逼真，布光精准打亮，简约干净的背景
-
-### 奢华腕表广告
-
-> 奢华金色腕表的专业产品照，深色丝绒台面，柔和影棚布光，高精度细节与光影反射，腕表商业广告风格
-
-### 化妆品陈列
-
-> 化妆刷与彩妆盘的高品质产品摄影，排列整齐有序，均匀布光展示质感，美妆商业风格
-
-### 皮具手袋摄影
-
-> 时尚皮质手袋在木质展架上的商业摄影，温暖室内灯光，高对比度与层次感阴影
-
-### 钻石耳饰展示
-
-> 钻石耳环在黑色展台上的高端商业照，聚光灯照射，璀璨闪耀效果与精细细节
-
-### 笔记本电脑展示
-
-> 笔记本电脑搭配桌面配件的动感产品摄影，办公环境灯光，屏幕反射与锐利边缘，商业用途
-
-### 健身器材广告
-
-> 哑铃与瑜伽垫在健身房中的专业产品照，激励感布光，汗水与材质纹理细节，健身商业推广
-
-### 工具套装展示
-
-> 一套工具展开陈列的精细产品图，工作坊灯光，金属光泽与整齐排列，五金商业广告
-
-### 笔记本电脑评测
-
-> 精致YouTube社交媒体科技评测封面，新款笔记本配参数叠加，文字'Best Laptops 2024'，现代产品设计风格，银灰配色，细节丰富
-
-### 盒装手办
-
-<img src="https://storage.tiktomato.com/uploads/20260417/task_960b321c-6b5a-4c3c-b520-5e1f4295989f_0.jpeg" width="500" />
-
-> 将照片中的人物变成精细的可收藏手办，放在透明塑料包装盒内配有印刷纸板背板。玩具摄影风格，棚拍灯光，微缩比例，逼真塑料质感
-
-### 穿搭平铺拆解
-
-<img src="https://storage.tiktomato.com/uploads/20260417/task_3ba59b68-ffaa-4e4a-88bd-28c898aff046_0.jpeg" width="500" />
-
-> 将这套穿搭拆解为单件衣物和配饰，在干净白色表面上整齐排列为平铺展示布局，俯视角度，均匀光线，有序网格排列，时尚摄影风格
-
-### 奢华产品摆拍
-
-> 将产品放置在高端生活方式场景中，柔和晨光透过薄纱窗帘照在大理石台面上，旁边有鲜花和金色装饰，浅景深，奢侈品牌广告摄影风格
-
----
-
-## 摄影 <a id="photography"></a>
-
-### 黄金时刻时装人像
-
-> 年轻女性身穿飘逸翡翠绿真丝长裙站在洒满阳光的野花草地上，温暖的夏日微风轻拂发丝，面部自然雀斑清晰可见，背景虚化为朦胧花丛光斑，时尚编辑级摄影配合柔和黄金时刻光线，85mm镜头f/1.8光圈，温暖电影色调
-
-### 沧桑渔夫肖像
-
-> 年迈渔夫特写肖像，皮肤纹理深邃饱经风霜，一双穿透力极强的蓝眼睛，身穿磨损褪色的海风侵蚀羊毛外套，伦勃朗侧光映衬大西洋风暴海景，8K超写实皮肤纹理细节，纪实摄影风格，50mm镜头
-
-### 胶片低保真人像
-
-> 年轻女性坐在阳光公寓窗台上的肖像，柯达Portra 400胶片35mm拍摄，温暖金色调带微妙绿色暗部，可见胶片颗粒与左侧边缘淡淡漏光，黑色微微泛灰，复古50mm镜头，放松自然的抓拍表情，低保真怀旧情绪
-
-### 暮色中的雪豹
-
-> 雄伟的雪豹栖息于喜马拉雅悬崖边缘，暮色渐沉，深蓝天幕中繁星初现，毛发细节纤毫毕现，《国家地理》野生动物摄影风格，戏剧性自然光线，400mm长焦镜头，浅景深，8K
-
-### 非洲雄狮金色草原
-
-> 雄壮的非洲雄狮拥有一头深色鬃毛，行走在日落时分金色高草的热带草原上，温暖逆光在鬃毛四周勾勒出灿烂光晕，琥珀色双眼直视镜头，400mm长焦镜头，《国家地理》风格，浅景深，8K
-
-### 北欧冰湖极光
-
-> 严冬中的北欧冰封湖面，头顶绿色与紫色极光如绸带般舞动，湖岸两侧覆雪的云杉林，镜面般的冰面完美倒映夜空，长曝光摄影美学，空灵缥缈的光芒，8K星空摄影
-
-### 沙漠银河拱桥
-
-> 午夜时分银河拱桥横跨辽阔沙漠上空，砂岩奇岩怪石在满天繁星下化为剪影，前景一堆小篝火在红色沙地上投射温暖橙光，25秒长曝光美学效果，星空摄影，大景深，8K
-
-### 雪山晨曦风光
-
-> 壮美的雪山日出风光摄影，晨雾缭绕的山谷，澄澈湖面完美倒映山峰，广角镜头取景，自然光线
-
-### 城市夜景街拍
-
-> 繁华都市夜间街头摄影，霓虹灯光闪烁，行人穿梭，广角镜头，氛围感十足
-
-### 雨中街头纪实
-
-> 城市雨中街头摄影，行人撑伞穿行，霓虹灯映入水洼倒影，黑白色调处理，纪实感强烈
-
-### 晨雾山湖风光
-
-> 宁静山湖晨曦风光摄影，薄雾缭绕，远处野生动物隐约可见
-
-### 时尚手机商拍
-
-> 现代智能手机的高分辨率商业摄影，极简白色背景，戏剧性灯光突出产品特征，专业产品摄影风格
-
-### 香水瓶花艺广告
-
-> 玻璃香水瓶搭配花卉元素的精致商业图片，窗边自然光线，色彩鲜明，对焦锐利
-
-### 无线耳机特写
-
-> 无线耳机充电盒的精细商业特写，微距镜头捕捉精密细节，蓝色氛围光，专业摄影场景
-
-### 厨房电器广告
-
-> 料理机搭配新鲜水果的专业产品图，明亮厨房场景，逼真质感与光影反射，商业推广风格
-
-### 护肤精华液
-
-> 护肤精华液瓶身的简洁商业图片，晶莹水珠点缀，柔和漫射光线，透明玻璃质感，专业包装摄影
-
-### 花瓶家居装饰
-
-> 陶瓷花瓶插花的商业摄影，窗边自然光线，精致花纹与质感呈现，室内设计写实风格
-
-### 汽水饮料商拍
-
-> 汽水罐身挂满凝结水珠的高清商业摄影，户外野餐背景，色彩鲜艳，气泡感十足
-
-### 服装系列摄影
-
-> 人台上夹克外套的商业时装摄影，影棚闪光灯，面料纹理与褶皱细节，专业服装系列推广
-
-### 旅行摄影海报
-
-> YouTube社交媒体旅行摄影缩略图，海滩日出场景中摄影师在拍摄，文字'完美旅行照'，真实摄影风格，温暖色调，高分辨率
-
-### 季节变换·冬天
-
-<img src="https://storage.tiktomato.com/uploads/20260417/task_6794dc25-f39f-4053-bce2-379698e0dda3_0.jpeg" width="500" />
-
-> 将场景转变为寒冷的冬天。田野覆盖厚厚积雪，树木光秃挂满霜花。天空转为冷蓝和淡粉色调。保持道路、建筑和构图不变
-
-### 日转夜
-
-> 将场景转换为晴朗夜景。天空布满银河和繁星，表面反射星光。保持建筑和布局不变。冷蓝色调，窗户透出温暖灯光，长曝光摄影质感
-
-### 添加暴雨
-
-> 为场景添加暴雨效果。头发湿透，皮肤和衣物上有水珠。空中可见雨线，背景湿润表面反射光线。保持人物、姿势和构图不变
-
-### 背景替换
-
-> 将背景替换为巴黎日落街道，保持主体清晰不变。在主体上添加暖橙色轮廓光以配合新的日落氛围
 
 ---
 

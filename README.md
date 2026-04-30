@@ -2,7 +2,7 @@
 
 # Awesome Seedream Prompts
 
-> 220 curated prompts for Seedream (ByteDance) AI image generation. Updated regularly.
+> 227 curated prompts for Seedream (ByteDance) AI image generation. Updated regularly.
 
 [![GitHub Stars](https://img.shields.io/github/stars/tiktomato/awesome-seedream-prompts?style=for-the-badge)](https://github.com/tiktomato/awesome-seedream-prompts)
 
@@ -10,13 +10,13 @@ Try these prompts on [TikTomato](https://tiktomato.com/model/seedream) — no AP
 
 ## Categories
 
-- [Profile / Avatar](#avatar) (18)
+- [Product Ad](#product) (23)
+- [Photography](#photography) (26)
+- [Poster / Flyer](#poster) (28)
+- [Profile / Avatar](#avatar) (19)
 - [Social Media](#social) (9)
 - [Infographic](#infographic) (24)
 - [YouTube Thumbnail](#thumbnail) (8)
-- [Poster / Flyer](#poster) (27)
-- [Product Ad](#product) (20)
-- [Photography](#photography) (24)
 - [Food](#food) (10)
 - [Architecture](#architecture) (9)
 - [Art / Creative](#art) (30)
@@ -25,7 +25,383 @@ Try these prompts on [TikTomato](https://tiktomato.com/model/seedream) — no AP
 
 ---
 
+## Product Ad <a id="product"></a>
+
+### Luxury Product Campaign
+
+<img src="https://storage.tiktomato.com/prompts/seedream/se-221_0.jpg" width="500" />
+
+> [BRAND NAME] | [OBJECT]
+
+Act as a High-End Commercial Product Photographer and Creative Director shooting a luxury editorial campaign (Hypebeast / Highsnobiety /Wallpaper* level).
+
+PHASE 1: BRAND INTELLIGENCE
+The hero subject is a [OBJECT] branded for [BRAND NAME]. Autonomously determine [BRAND NAME]'s full visual identity: signature color palette, typographic DNA, logo mark geometry, material language, and cultural positioning. Apply this identity to the [OBJECT] with precision — do not invent a generic brand, decode the real visual codes.
+
+PHASE 2: OBJECT SURFACE & MATERIAL DNA
+Regardless of the shape of [OBJECT], apply this material system: Base tone: deep neutral — matte dark graphite, warm charcoal, or matte black. Fine-grain surface micro-texture visible under raking light — powder-coat, matte paper, or brushed material feel. Subtle gradient bloom: the base color dissolves in the lower portion of the object's surface into the brand's most iconic accent color — a soft luminous haze from within the material, not a printed graphic. Logo application: embossed, debossed, or metallic foil relief — catching specular light at edges only. Precise. Restrained. Typography: brand-accurate typeface, small tracking, positioned  with editorial intentionality.
+
+PHASE 3: THE ACCENT BREAKOUT ELEMENT
+This is the signature design move — adapt it to the natural geometry of [OBJECT]: Identify the most logical "interruption zone" on [OBJECT] — a seam, edge, band, collar, rim, strap, or wrap point. At this zone, apply a narrow saturated accent element in the brand's most iconic hue — vivid, slightly matte. This element must visually "break out" of the object's boundary — extending, protruding, or wrapping beyond the expected edge, creating a deliberate 3D tension between the object and the detail.The accent element carries a micro-typographic brand detail — tagline, model name, or descriptor — small, precise, tracked.
+
+PHASE 4: STAGING & COMPOSITION
+Studio cyclorama. Surface tone: off-white to warm light gray. Background field: cool neutral mid-gray, darker in upper zone. [OBJECT] positioned at 3/4 angle — front face and one secondary surface simultaneously visible. Rule of thirds: object occupies right 60% of frame. Left field: generous negative space — intentional, not empty. Single hard-edged directional shadow cast to the right and slightly downward — crisp penumbra, no diffusion.
+
+PHASE 5: LIGHTING
+Single dominant key light: large softbox, camera-left, elevated at 40°. Specular highlight traces the top-left edge of [OBJECT] — revealing material grain. Shadow side: no fill. Darkness earns depth. Subtle ambient bounce from cyclorama floor — lifts shadow by 15%, no more. Accent element receives micro-specular glint along its dominant edge. Mood: Rembrandt chiaroscuro logic applied to product photography. No lens flare. No atmospheric effects.
+
+PHASE 6: TECH SPECS
+Lens: 85mm equivalent, f/4.5. Depth of field: object fully sharp, background softened. Chromatic aberration: subtle, at extreme frame edges only — optical realism signal. Film grain overlay: 15% opacity — anti-CGI-plastic treatment. Render: Octane / Ray Tracing quality —subsurface scattering where material demands it, global illumination, physically accurate shadow falloff. Aspect ratio: autonomously determine optimal ratio for this [OBJECT] format.
+
+— via [https://x.com/Strength04_X/status/2046567831240839329](https://x.com/Strength04_X/status/2046567831240839329)
+
+### Kintsugi Pomegranate
+
+<img src="https://storage.tiktomato.com/prompts/seedream/se-222_0.jpg" width="500" />
+
+> White porcelain pomegranate with intricate gold Kintsugi repair cracks, centered hero shot, eye-level view, premium product photography, minimalist white background, soft studio lighting with subtle golden reflections, 8K photorealistic, sharp focus, highly detailed porcelain texture, macro shot of golden veins, no clutter, no text.
+
+— via [https://x.com/kaanakz/status/2038208587042824538](https://x.com/kaanakz/status/2038208587042824538)
+
+### Kiwi Skincare Ad
+
+<img src="https://storage.tiktomato.com/prompts/seedream/se-227_0.jpg" width="500" />
+
+> Ultra-realistic skincare product advertising photography featuring a vibrant green glass dropper bottle labeled “Kiwi Hydrating Skin Booster (30 ml)” floating with a spiral splash of fresh kiwi juice. Kiwi slices and seeds scatter mid-air with suspended droplets wrapping around the bottle. Ana de Armas strikes a hot and bold pose next to the bottle, leaning slightly forward with one hand on her hip, the other holding a kiwi slice to her lips, wearing a glossy, avant-garde green outfit made of kiwi textures, hair flowing dramatically, eyes smoldering at the camera. Background is soft pastel green studio tone with bright cinematic lighting, reflective highlights on glass texture, shallow depth of field, ultra-detailed 8K cosmetic photography, surreal and absurdly whimsical composition.
+
+— via [https://x.com/Just_sharon7/status/2030661137726050643](https://x.com/Just_sharon7/status/2030661137726050643)
+
+### Floating Smartphone Hero Shot
+
+> Modern smartphone floating at a dynamic angle against a clean dark gradient background, dramatic single-source studio lighting from upper left creating sharp specular highlights on the glass screen and metal frame, subtle blue accent glow, ultra-detailed product textures, commercial hero shot quality, 4K
+
+### Luxury Perfume Bottle
+
+> Luxury glass perfume bottle resting on polished dark obsidian surface, soft golden rim backlight creating an elegant halo effect, crystal-clear water droplets glistening on the curved glass, amber-colored liquid catching the light inside, professional editorial product photography, shallow bokeh background, ultra-high-definition
+
+### Wireless Earbuds Ad
+
+> Hero-angle product shot of minimal wireless earbuds in a matte white charging case, anodized aluminum finish with brushed steel accent, tiny water droplets frozen mid-air around the product suggesting splash resistance, soft studio lighting with crisp edge highlights, reflection on matte black surface, catalog-quality commercial photography, 4K
+
+### Skincare Flat Lay
+
+> Styled flat lay on white marble: three glass skincare bottles arranged in a loose triangle, fresh botanicals and dried flowers between bottles, soft diffused window light from the left, pastel pink and cream palette, overhead shot with centered composition, shallow depth of field on botanicals, sharp focus on product labels, 4K product photography
+
+### Tropical Fruit Splash
+
+> Vibrant tropical fruit arrangement frozen mid-explosion in a splash of crystal-clear water, vivid mangoes, strawberries, and kiwis suspended in dynamic motion against a clean white studio background, high-speed commercial photography, ultra-sharp detail capturing individual water droplets, fresh and energetic mood
+
+### 高端手机展示
+
+> 一个高端智能手机的现实主义产品照，放在玻璃台上，细节丰富的屏幕显示，柔和灯光，专业摄影风格
+
+### Luxury Watch Product
+
+> Realistic product shot of a luxury gold watch on a velvet stand, intricate details, studio lighting, elegant background
+
+### 智能手表产品
+
+> A high-tech smartwatch on a modern desk, detailed reflections, seedream style, with blue accents and futuristic elements
+
+### 时尚产品展示
+
+> seedream 生成一个高端手袋产品图，皮质纹理细腻，灯光打亮，背景简约
+
+### Luxury Watch Shot
+
+> Professional product photo of a gold luxury watch on a dark velvet surface, soft studio lights, high detail and reflections, commercial advertising for watches, seedream model.
+
+### Cosmetic Product Display
+
+> High-quality product photography of makeup brushes and palettes arranged neatly, even lighting to show textures, commercial style for beauty products, seedream model.
+
+### Fashion Accessory Photo
+
+> A stylish commercial photograph of leather handbags on a wooden shelf, warm indoor lighting, high contrast and shadows for depth, seedream generated image.
+
+### Jewelry Display Shot
+
+> High-end commercial photo of diamond earrings on a black stand, spotlight illumination, sparkling effects and fine details, seedream AI style.
+
+### Electronic Device Setup
+
+> Dynamic product photography of a laptop on a desk with accessories, office environment lighting, sharp edges and screen reflections, commercial use, seedream model.
+
+### Fitness Equipment Ad
+
+> Professional image of dumbbells and a mat in a gym setting, motivational lighting, sweat and texture details, commercial fitness promotion, seedream generated.
+
+### Tool Kit Display
+
+> A detailed product image of a toolkit spread out, workshop lighting, metallic shine and organization, commercial hardware advertising, seedream AI.
+
+### Tech Review Thumbnail
+
+> A sleek YouTube thumbnail for social media tech reviews, featuring a new laptop with specs overlay, text 'Best Laptops 2024', modern product design style, silver and black colors, high detail
+
+### Action Figure in Box
+
+<img src="https://storage.tiktomato.com/uploads/20260417/task_960b321c-6b5a-4c3c-b520-5e1f4295989f_0.jpeg" width="500" />
+
+> Turn the person in this photo into a highly detailed collectible action figure, placed inside clear plastic packaging with a printed cardboard backing. Toy photography style, studio lighting, miniature scale, realistic plastic texture
+
+### Outfit Flat Lay Knolling
+
+<img src="https://storage.tiktomato.com/uploads/20260417/task_3ba59b68-ffaa-4e4a-88bd-28c898aff046_0.jpeg" width="500" />
+
+> Decompose this outfit into individual clothing items and accessories, arrange them neatly in a flat lay knolling layout on clean white surface, overhead view, even lighting, organized grid pattern, fashion photography style
+
+### Product Luxury Staging
+
+> Place this product in a premium lifestyle setting, marble countertop with soft morning light streaming through sheer curtains, fresh flowers and gold accents nearby, shallow depth of field, luxury brand advertising photography style
+
+---
+
+## Photography <a id="photography"></a>
+
+### Morning Light Portrait
+
+<img src="https://storage.tiktomato.com/prompts/seedream/se-223_0.jpg" width="500" />
+
+> Masterpiece, Best Quality, 8K, photorealistic intimate portrait, Rinko Kawauchi photography style, ethereal light study, shot on Canon R5, 50mm f/1.8 lens, shallow depth of field, a beautiful Korean female k-pop idol, age 19-20, innocent baby face, sitting on a messy white bed in the soft morning light, the entire scene bathed in overwhelming gentle white light, Rinko Kawauchi signature aesthetic: intentionally overexposed by 1-2 stops, extremely low contrast, shadows lifted to light grey — no pure blacks anywhere, desaturated color palette with colors diluted by abundant light, dreamy ethereal haze permeating the entire frame, the photograph feels like looking through a veil of warm light, face: round baby face with soft jawline, big round doe eyes, prominent aegyo-sal (under-eye fat pads) catching light as a soft highlight, straight flat eyebrows in light brown — Korean style, small delicate nose with slightly rounded tip, gradient glossy pink lips — deeper coral-pink at the center fading to near skin-tone at the edges, glossy surface catching a single tiny point of light like a dewdrop, very light pink blush on the apples of cheeks — natural flush as if just woken from a warm sleep, barely-there makeup — almost no visible cosmetics, hair: long black wavy hair in a messy just-woke-up state, tousled and tangled with irregular sleep-curls, messy fringe and loose strands falling across forehead and cheeks, in the strong backlight from the window the hair edges glow with a warm golden translucent halo — individual strands becoming luminous gold threads floating in the light, skin: fair warm-toned milky white complexion, in the overexposed Kawauchi light the skin reads as translucent warm porcelain, strong subsurface scattering visible — light penetrating through her ear edges glowing pink, through her fingers at the thinnest points, fine golden peach fuzz on her arms and cheeks visible as a glowing edge in the backlight — micro hairs lit up like tiny fiber optics, wearing a simple white triangle bikini — minimal design, thin string ties, soft ribbed knit cotton texture — not glossy swimwear, the white bikini fabric is almost the same tone as her pale skin and the white bedsheets — boundaries dissolving in the light, in the strongest backlight areas the thin white fabric becomes subtly translucent — not revealing but showing light passing through cloth the way Kawauchi photographs light through insect wings or flower petals, this is about the physics of light transmission not about exposure, sitting on a messy white bed with rumpled white sheets and white pillows, legs drawn up and bent in front of her in a curled-up just-woke-up position, one arm loosely hugging a white pillow against her chest — not clutching defensively but holding softly with sleepy comfort, shoulders slightly hunched in a cozy morning curl, one bikini strap slipping slightly off the shoulder — unnoticed, natural, bare feet on the sheets with toes slightly curled, her gaze toward the camera: eyes open but not fully focused — the look of someone caught between sleep and waking, pupils slightly dilated, gaze soft and unfixed, looking in the viewer's direction but seeing through them toward the light, lips slightly parted — breathing, existing, not performing, the expression is pure presence — no seduction, no shyness performed, just a human being in their most unguarded morning state, LIGHTING — the core of this image: soft morning sunlight flooding through a large window to the right, filtered through sheer white curtains acting as a massive diffusion panel, the window area and right side of the frame BLOWN OUT to pure white — overexposed high-key lighting eating into the subject from the right, light spilling and bleeding across the frame like liquid, her right side (facing the window) almost dissolving into white light, her left side retaining slightly more detail but still very bright, lighting ratio approximately 1.5:1 — almost flat, barely any shadow, the white bedsheets and white walls bouncing light everywhere eliminating shadows almost completely, the very few remaining shadows are lifted to pale grey — no darkness, a subtle warm lens flare entering from the window direction, the air itself appears luminous — as if filled with microscopic light particles, the entire color palette is washed out by the overwhelming light: whites dominate everything — sheets, bikini, curtains, skin nearly merging, the only surviving colors are extremely diluted: her lips: a faint coral-pink barely holding its hue, her skin: the softest warm blush-white, her hair: dark but reading as warm brown in the light rather than black, shadows carry the faintest hint of cool lavender-blue — Kawauchi's signature, COMPOSITION: 3:2 horizontal frame, subject centered slightly left, large overexposed white negative space on the right (light source direction), she occupies about 40-50% of the frame — surrounded and cradled by light, intimate eye-level POV as if sitting on the same bed facing her, shooting distance approximately 1-1.5 meters — personal intimate distance, the image should feel like: a sacred quiet moment that exists only between the light and her body, the body is not an object of desire but a vessel receiving light, everything is soft, pale, dissolved, luminous, tender, fleeting, as if this moment will evaporate the instant the shutter closes, Photorealistic, soft luminous skin with visible subsurface scattering and golden peach fuzz halo in backlight, messy hair strands glowing as individual golden threads, subtle ribbed texture on white bikini fabric, rumpled white sheet texture visible in gentle sidelight, glossy lip surface with single light reflection point, prominent aegyo-sal highlight under the eyes, overall Rinko Kawauchi quality: blown-out highlights, lifted shadows, desaturated palette, ethereal haze, overwhelming gentle light, no artifacts, no watermark
+
+— via [https://x.com/BubbleBrain/status/2033502272269803928](https://x.com/BubbleBrain/status/2033502272269803928)
+
+### iPhone Flash Portrait
+
+<img src="https://storage.tiktomato.com/prompts/seedream/se-224_0.jpg" width="500" />
+
+> Masterpiece, best quality, RAW photo quality, 8K UHD, ultra-realistic photography, 100% photorealistic, real life photograph, Phone flash photography portrait of a stunning 21-year-old Korean female idol, sexy yet cute charm, confident and playful energy, Shot on iPhone with direct frontal flash, harsh on-camera flash lighting, strong specular highlights on skin, short hard shadow cast behind her on the wall, high contrast between flash-lit subject and dimmer background, flash reflection visible as bright circular catchlight in both pupils, Flawless cold white porcelain skin with cool pink undertone, pale translucent luminous skin under flash, realistic skin micro-texture visible under harsh flash — fine pores around nose, subtle peach fuzz on cheeks, delicate veins faintly visible on collarbone area, realistic subsurface scattering on ear edges, skin strictly cool-toned porcelain white with natural hydration, Small heart-shaped face, large expressive almond eyes with double eyelids, bright clear eyes with playful confident gaze directly into camera, high delicate nose bridge, plump glossy lips slightly parted in a half-smile, soft arched eyebrows in light brown, Korean idol makeup: sheer pink-brown eyeshadow, thin inner eyeliner, naturally curled lashes, soft peach blush on apple of cheeks creating a flushed look, dewy peach-coral jelly lip gloss with high shine, Dark brown shoulder-length wavy hair with center-parted curtain bangs, silky smooth with natural shine, hair catching flash highlights, Wearing a white cropped fitted camisole tank top and low-rise distressed denim mini skirt, fabric hugging her slim figure, showcasing her slim waist, small silver stud earrings, delicate silver collarbone necklace, Standing pose with body slightly angled, hips tilted to one side creating a subtle S-curve, one hand playfully tossing her hair back, other hand casually tugging at skirt hem, weight on right leg with left knee slightly bent and relaxed, head tilted slightly with chin lifted, confident and flirty body language, Indoor setting — simple white/light gray wall behind her, minimal background, late night candid snapshot vibe after dance practice, Vertical 9:16 composition, three-quarter body framing from above knees to top of head, subject centered, camera at chest height, approximately 28mm smartphone wide-angle perspective with subtle barrel distortion, Natural color under flash — cool white flash illumination contrasting with slightly warm ambient room light, natural skin tone preserved, sharp macro-level details, natural chromatic aberration, no post-processing look, authentic smartphone flash snapshot aesthetic
+
+— via [https://x.com/BubbleBrain/status/2030851492224065663](https://x.com/BubbleBrain/status/2030851492224065663)
+
+### Golden Hour Fashion Portrait
+
+> A young woman in a flowing emerald silk dress standing in a sunlit wildflower meadow, hair gently tossed by warm summer breeze, natural freckles visible, shallow bokeh background of blurred blossoms, editorial fashion photography with soft golden-hour lighting, 85mm lens at f/1.8, warm cinematic color grade
+
+### Weathered Fisherman Portrait
+
+> Close-up portrait of an elderly fisherman with deeply weathered skin and piercing blue eyes, wearing a fraying sea-worn wool coat, dramatic Rembrandt side lighting against a stormy Atlantic seascape, ultra-realistic 8K skin texture detail, documentary photography style, 50mm lens
+
+### Lo-Fi Film Portrait
+
+> Portrait of a young woman sitting on a windowsill in a sunlit apartment, shot on Kodak Portra 400 35mm film, warm golden tones with subtle green shadows, visible film grain and gentle light leaks on the left edge, slightly faded blacks, vintage 50mm lens, candid relaxed expression, lo-fi nostalgic mood
+
+### Snow Leopard at Twilight
+
+> Majestic snow leopard perched on a Himalayan cliff edge at twilight, stars beginning to appear in the deep blue sky, fur detail with individual strands visible, National Geographic wildlife photography style, dramatic natural lighting, 400mm telephoto lens, shallow depth of field, 8K
+
+### African Lion Golden Savanna
+
+> Male African lion with a magnificent dark mane walking through tall golden savanna grass at sunset, warm backlight creating a glowing halo around his mane, amber eyes looking directly at camera, 400mm telephoto lens, National Geographic style, shallow depth of field, 8K
+
+### Frozen Nordic Aurora
+
+> A frozen Nordic lake at midwinter beneath dancing aurora borealis in ribbons of green and violet, snow-covered spruce forest lining the banks, mirror-like ice surface perfectly reflecting the night sky above, long-exposure photography aesthetic, ethereal light, 8K astrophotography
+
+### Milky Way Over Desert
+
+> The Milky Way galaxy arching over a vast desert landscape at midnight, sandstone rock formations silhouetted against a sky filled with millions of stars, a small campfire in the foreground casting warm orange light on red sand, 25-second exposure aesthetic, astrophotography, deep depth of field, 8K
+
+### Mountain Photography
+
+> Stunning landscape photography of snow-capped mountains at dawn, misty valleys, crystal-clear lake reflection, wide-angle shot, natural lighting
+
+### Urban Photography
+
+> Vibrant street photography of a bustling city at night, neon lights, people walking, wide-angle lens, atmospheric mood
+
+### 街头摄影场景
+
+> seedream 生成一个城市街头摄影，雨中行人撑伞，霓虹灯反射在水坑中，黑白调色，真实感强
+
+### 自然摄影风
+
+> A serene landscape photography of a mountain lake at dawn, seedream style, with mist and wildlife
+
+### Sleek Phone Display
+
+> A high-resolution commercial photograph of a modern smartphone on a minimalist white background, with dramatic lighting highlighting its features, professional product photography style, seedream AI model.
+
+### Elegant Perfume Ad
+
+> A polished commercial image of a glass perfume bottle with floral elements around it, natural daylight from a window, vibrant colors and sharp focus, seedream AI generated.
+
+### Tech Gadget Close-Up
+
+> Detailed commercial shot of wireless earbuds in a charging case, macro lens for intricate details, blue ambient lighting, professional setup, seedream AI.
+
+### Kitchen Appliance Ad
+
+> Professional product image of a blender with fresh fruits around it, bright kitchen setting, realistic textures and reflections, commercial promotion, seedream model.
+
+### Beauty Serum Bottle
+
+> A clean commercial image of a skincare serum bottle with droplets, soft diffused light, transparent glass effects, professional packaging shot, seedream generated.
+
+### Home Decor Item
+
+> Commercial photo of a ceramic vase with flowers, natural window light, intricate patterns and textures, high realism for interior design, seedream AI.
+
+### Beverage Product Shot
+
+> High-resolution commercial photograph of a soda can with condensation, outdoor picnic background, vibrant colors and bubbles, seedream model style.
+
+### Apparel Line Photo
+
+> Commercial fashion photography of a jacket on a mannequin, studio flash lights, fabric textures and folds, professional clothing line promotion, seedream generated.
+
+### 旅行摄影海报
+
+> YouTube 缩略图用于社交媒体旅行摄影，展示海滩日出场景，摄影师在拍摄，文字'完美旅行照'，真实摄影风格，温暖色调，高分辨率
+
+### Season Change to Winter
+
+<img src="https://storage.tiktomato.com/uploads/20260417/task_6794dc25-f39f-4053-bce2-379698e0dda3_0.jpeg" width="500" />
+
+> Transform this into a cold winter scene. The fields are covered in deep snow, trees are bare with frost on branches. The sky shifts to cool blues and pale pinks. Keep the same road, buildings, and composition unchanged
+
+### Day to Night
+
+> Transform this to a clear night scene. The sky is filled with the Milky Way and thousands of stars. Surfaces reflect the starlight. Keep the same buildings and layout. Cool blue tones, warm window lights glowing, long exposure photography feel
+
+### Add Heavy Rain
+
+> Add heavy rain to this scene. Hair is wet, water droplets on skin and clothing. Rain streaks visible in the air, wet surfaces reflecting light in the background. Keep the same person, pose, and framing unchanged
+
+### Background Replacement
+
+> Replace the background with a Parisian street at sunset, keeping the subject sharp and unchanged. Add warm orange rim lighting on the subject to match the new sunset atmosphere
+
+---
+
+## Poster / Flyer <a id="poster"></a>
+
+### Mirror Reflection Scene
+
+> Photorealistic cinematic. 16:9. 1970s American suburban home. Dim warm practical lighting. 35mm film grain. One single continuous shot. Zero cuts. Zero transitions. Never cuts. Ever. ELLIE: girl aged 9-10, light brown hair loose, light zip-up winter jacket over red crew neck sweater, jeans, bare feet. Pure panic. THE CORE ILLUSION: The camera is stationary inside the bathroom aimed at the closed mirrored medicine cabinet. What appears to be a tracking shot following Ellie is actually her REFLECTION in the mirror. The camera never moves until the zoom out. There is no cut. The transition is hidden by the zoom out revealing the cabinet knob. [0.0s] The mirror reflection fills the frame completely - no cabinet edges visible, no knob, no frame. The reflection shows only: Ellie at the bottom of a dim 1970s staircase. Wood paneling, patterned carpet, family photos. She launches into a desperate sprint upward. Light winter jacket over red sweater. Bare feet. [2.0s] Her reflection grows as she approaches. She rounds the landing into the hallway. The camera reflection tracks her — appearing to move backward ahead of her down the corridor. She runs toward camera in apparent slow retreat. Frame rate ramps 24fps to 48fps — SLOW MOTION. She runs at full desperate effort in half-speed. Arms pumping. Red sweater flashing. Hair flying. The hallway feels impossibly long. The reflection of her fills more and more of the mirror as she gets closer. [6.5s] She is nearly at the bathroom threshold. Her face almost fills the frame. Her hand rises in slow motion reaching toward the camera. THIS IS THE MOMENT — the camera very slowly ZOOMS OUT for the first time. As it pulls back the cabinet edges come into frame. Then the chrome rounded cabinet knob appears on the LEFT side of frame — visible for the first time, only now, revealed by the zoom out. The audience sees the knob. The perspective shifts seamlessly to first person as her fingers extend toward the knob. Her hand wraps around it in slow motion. [9.0s] She pulls the cabinet door OPEN toward her leftward. The mirror swings away — reflection becomes reality with zero visible seam. We look directly into the open cabinet interior. Her hand reaches in urgently from right of frame. CABINET INTERIOR — period accurate 1970s: Top shelf: amber prescription pill bottle, white cap, small brown glass bottle, thermometer in plastic case. Middle shelf: toothpaste tube, aspirin bottle. Bottom shelf: bandage roll, ointment tube. Her hand grabs the amber pill bottle urgently. Knocks the thermometer — falls in slow motion. [11.5s] She exits rushing out with the pills. The cabinet door swings on its inertia — but does NOT close all the way. It slows and stops slightly ajar — held open at a 20-30 degree angle from closed. Through this gap, at the angle the partial mirror now creates, the bathroom wall is visible in reflection — a framed photograph catches the light. Young Ellie and her father smiling together in summer warmth. Wooden frame. Simple. The photo was always there. Only the angle of the half-open door reveals it now. Only because she left in too much of a hurry to close it fully. [13.5s] The door holds still. Slightly ajar. The photo visible in the angled mirror gap. Distant bare feet on stairs descending. Getting quieter. Getting quieter. Gone. [15.0s] The cabinet door. The angled reflection. The photograph. The silence. Hard cut black. The zoom out at [6.5s] is the single most important moment — it must feel like the camera is exhaling, pulling back just enough to reveal the knob and the cabinet frame simultaneously, recontextualizing everything the audience just watched as a reflection. Before the zoom out: mirror fills the frame completely, no edges visible, pure illusion. After: cabinet geometry revealed, first person perspective, her hand on the knob, reality.
+
+— via [https://x.com/plasm0/status/2046382362507059468](https://x.com/plasm0/status/2046382362507059468)
+
+### Jazz Festival Typographic Poster
+
+> Large-format typographic poster for a jazz festival: bold navy condensed sans-serif title 'BLUE NOTE SESSIONS', subtitle in elegant script 'Summer 2026 · Central Park', gradient background from midnight blue to warm amber, gold saxophone silhouette on the right edge, performer names listed in clean type, vintage concert poster aesthetic --ar 2:3
+
+### Sci-Fi Movie Poster
+
+> Cinematic movie poster for a sci-fi thriller titled 'CHRONOS': a lone astronaut facing a massive swirling time vortex in deep space, dramatic backlighting revealing the suit's silhouette, bold metallic title typography at the bottom, tagline 'Time waits for no one' in smaller text, photorealistic digital art, epic scale --ar 2:3
+
+### Vintage Wedding Invitation
+
+> Elegant vintage-style wedding invitation: dark forest green base with textured cream paper overlay, gold foil script typography reading 'Together with their families' and couple names 'Emily & James', decorative botanical border with olive branches, wax seal detail at bottom, print-ready quality, romantic and timeless
+
+### Psychedelic Music Festival
+
+> Vibrant psychedelic poster for 'ETHEREAL BLOOM' summer music festival: surreal explosion of liquid colors and organic shapes, flowing art nouveau typography for the festival name, performer names layered throughout in various sizes, 60s concert poster aesthetic meets modern design, kaleidoscopic color palette of magenta, teal, and gold --ar 2:3
+
+### Minimalist Art Exhibition
+
+> Minimalist art exhibition poster: off-white background with generous whitespace, a single black ink line drawing of a human profile positioned slightly right of center, clean sans-serif typography with exhibition title 'LINES & SILENCE', dates and gallery name below, refined gallery-quality layout, sophisticated and understated
+
+### Sci-Fi Poster
+
+> Vintage-style poster for a space adventure movie, featuring astronauts on an alien planet, retro fonts, red and blue color scheme, dramatic composition
+
+### 环保海报设计
+
+> 一个环保主题的海报，展示地球和树木元素， slogan 'Save the Planet', 强烈对比色
+
+### 环保海报设计
+
+> seedream 生成一个环保主题的海报，展示森林、河流和野生动物，文字：'保护地球，从我做起'，颜色鲜艳，激励人心
+
+### 音乐海报艺术
+
+> A concert poster with band members and lights, seedream rendered, vibrant colors and dynamic composition
+
+### Vibrant Music Poster
+
+> A dynamic poster design featuring bold typography with sans-serif fonts, centered on a musical theme with abstract wave patterns, vibrant colors like red and blue, high contrast, in the style of Seedream AI, 4K resolution.
+
+### Minimalist Tech Poster
+
+> A minimalist poster with elegant typography using thin fonts, showcasing futuristic tech elements like circuits and holograms, monochromatic blue scheme, clean layout, generated with Seedream model, ultra HD.
+
+### Abstract Art Poster
+
+> An abstract poster design with creative typography blending geometric shapes and fluid letters, inspired by modern art movements, warm color palette, high detail, using Seedream AI for generation.
+
+### Eco-Friendly Design Poster
+
+> A poster emphasizing typography with eco themes, using serif fonts for emphasis, incorporating leaf motifs and green gradients, balanced composition, rendered in Seedream style, 1080p quality.
+
+### Retro Style Poster
+
+> A retro-inspired poster with vintage typography, bold and italic fonts, featuring 1950s elements like cars and diners, warm sepia tones, detailed textures, via Seedream AI.
+
+### Corporate Brand Poster
+
+> A professional poster with sleek corporate typography, using custom fonts for branding, integrated with logo elements and abstract backgrounds, cool corporate colors, Seedream generated, high resolution.
+
+### Festival Event Poster
+
+> A festive poster design with playful typography, mixing script and block fonts, centered on event details with colorful illustrations, vibrant and energetic vibe, created with Seedream model.
+
+### Innovative Sci-Fi Poster
+
+> An innovative sci-fi poster featuring futuristic typography with glowing effects, space themes with planets and stars, dark background with neon accents, detailed in Seedream AI style.
+
+### Bold Typography Poster
+
+> 一个大胆排版的现代海报，使用粗体字体突出主题，融入抽象几何图案，颜色以黑白为主，清晰布局，高清效果，由 Seedream 模型生成。
+
+### 艺术风海报设计
+
+> 一个艺术风格的海报， typography 以优雅曲线字体为主，结合绘画元素如花朵和线条，柔和色彩渐变，使用 Seedream AI 渲染，4K 分辨率。
+
+### 科技主题海报
+
+> 一个科技主题的海报， typography 使用未来感字体，背景是数字矩阵和光线效果，蓝绿色调，高对比度，Seedream 生成的高质量图像。
+
+### 文化节海报
+
+> 一个文化节的海报设计， typography 融合传统和现代字体，包含民族图案和文字，温暖色系，平衡构图，运用 Seedream 模型创建。
+
+### 时尚品牌海报
+
+> 一个时尚品牌的海报， typography 以精致字体为主，搭配模型和服饰元素，高级灰色调，细节丰富，Seedream AI 输出。
+
+### 运动赛事海报
+
+> 一个运动赛事的海报， typography 使用动态字体，融入运动员和赛场图像，红色和白色为主， Seedream 风格的高清版本。
+
+### 创意抽象海报
+
+> 一个创意抽象的海报， typography 以扭曲变形字体呈现，背景是流体艺术效果，多彩渐变，Seedream 生成的精细细节。
+
+### Business Growth Poster
+
+> A professional YouTube thumbnail for social media business tips, showing upward graphs and a team collaborating, text 'Scale Your Business Now', modern infographic design, blue and gray palette, clean and minimalistic style
+
+### 环保主题海报
+
+> 社交媒体 YouTube 缩略图关于环境保护，显示森林和野生动物，融入信息图表如碳足迹图标，文字'拯救地球行动'，艺术风格，绿色调为主，高清分辨率
+
+### Magazine Cover Design
+
+> Place this person on a high-fashion magazine cover. Add elegant serif typography for the magazine title at the top, feature headlines along the sides, professional color grading, glamorous studio lighting, Vogue editorial aesthetic
+
+---
+
 ## Profile / Avatar <a id="avatar"></a>
+
+### Glamour Mirror Selfie
+
+<img src="https://storage.tiktomato.com/prompts/seedream/se-226_0.jpg" width="500" />
+
+> A stylish redhead with long wavy red hair and fair freckled skin takes a mirror selfie indoors. She is wearing a sparkling diamond mini dress with a fitted silhouette, diamond stockings on legs and a statement rose-shaped choker necklace. She holds a smartphone in one hand, adorned with diamond rings and bracelets. The setting is an elegant, softly lit room with neutral beige walls and subtle decor with a little gold written 'Keor' (not inverted) on wall. Her expression is calm and poised, with glossy lips and soft makeup. A small embellished handbag rests beside her. The overall aesthetic is glamorous, warm-toned, and luxurious.
+
+— via [https://x.com/chatgptpaglu/status/2045512902883553366](https://x.com/chatgptpaglu/status/2045512902883553366)
 
 ### Corporate Executive Headshot
 
@@ -274,308 +650,6 @@ Try these prompts on [TikTomato](https://tiktomato.com/model/seedream) — no AP
 ### Music Event Thumbnail
 
 > YouTube thumbnail for social media music event promo, showing a crowd at a concert with stage lights, DJ in center, text 'Live Music Fest 2024', vibrant neon colors, photography with motion blur, 16:9
-
----
-
-## Poster / Flyer <a id="poster"></a>
-
-### Jazz Festival Typographic Poster
-
-> Large-format typographic poster for a jazz festival: bold navy condensed sans-serif title 'BLUE NOTE SESSIONS', subtitle in elegant script 'Summer 2026 · Central Park', gradient background from midnight blue to warm amber, gold saxophone silhouette on the right edge, performer names listed in clean type, vintage concert poster aesthetic --ar 2:3
-
-### Sci-Fi Movie Poster
-
-> Cinematic movie poster for a sci-fi thriller titled 'CHRONOS': a lone astronaut facing a massive swirling time vortex in deep space, dramatic backlighting revealing the suit's silhouette, bold metallic title typography at the bottom, tagline 'Time waits for no one' in smaller text, photorealistic digital art, epic scale --ar 2:3
-
-### Vintage Wedding Invitation
-
-> Elegant vintage-style wedding invitation: dark forest green base with textured cream paper overlay, gold foil script typography reading 'Together with their families' and couple names 'Emily & James', decorative botanical border with olive branches, wax seal detail at bottom, print-ready quality, romantic and timeless
-
-### Psychedelic Music Festival
-
-> Vibrant psychedelic poster for 'ETHEREAL BLOOM' summer music festival: surreal explosion of liquid colors and organic shapes, flowing art nouveau typography for the festival name, performer names layered throughout in various sizes, 60s concert poster aesthetic meets modern design, kaleidoscopic color palette of magenta, teal, and gold --ar 2:3
-
-### Minimalist Art Exhibition
-
-> Minimalist art exhibition poster: off-white background with generous whitespace, a single black ink line drawing of a human profile positioned slightly right of center, clean sans-serif typography with exhibition title 'LINES & SILENCE', dates and gallery name below, refined gallery-quality layout, sophisticated and understated
-
-### Sci-Fi Poster
-
-> Vintage-style poster for a space adventure movie, featuring astronauts on an alien planet, retro fonts, red and blue color scheme, dramatic composition
-
-### 环保海报设计
-
-> 一个环保主题的海报，展示地球和树木元素， slogan 'Save the Planet', 强烈对比色
-
-### 环保海报设计
-
-> seedream 生成一个环保主题的海报，展示森林、河流和野生动物，文字：'保护地球，从我做起'，颜色鲜艳，激励人心
-
-### 音乐海报艺术
-
-> A concert poster with band members and lights, seedream rendered, vibrant colors and dynamic composition
-
-### Vibrant Music Poster
-
-> A dynamic poster design featuring bold typography with sans-serif fonts, centered on a musical theme with abstract wave patterns, vibrant colors like red and blue, high contrast, in the style of Seedream AI, 4K resolution.
-
-### Minimalist Tech Poster
-
-> A minimalist poster with elegant typography using thin fonts, showcasing futuristic tech elements like circuits and holograms, monochromatic blue scheme, clean layout, generated with Seedream model, ultra HD.
-
-### Abstract Art Poster
-
-> An abstract poster design with creative typography blending geometric shapes and fluid letters, inspired by modern art movements, warm color palette, high detail, using Seedream AI for generation.
-
-### Eco-Friendly Design Poster
-
-> A poster emphasizing typography with eco themes, using serif fonts for emphasis, incorporating leaf motifs and green gradients, balanced composition, rendered in Seedream style, 1080p quality.
-
-### Retro Style Poster
-
-> A retro-inspired poster with vintage typography, bold and italic fonts, featuring 1950s elements like cars and diners, warm sepia tones, detailed textures, via Seedream AI.
-
-### Corporate Brand Poster
-
-> A professional poster with sleek corporate typography, using custom fonts for branding, integrated with logo elements and abstract backgrounds, cool corporate colors, Seedream generated, high resolution.
-
-### Festival Event Poster
-
-> A festive poster design with playful typography, mixing script and block fonts, centered on event details with colorful illustrations, vibrant and energetic vibe, created with Seedream model.
-
-### Innovative Sci-Fi Poster
-
-> An innovative sci-fi poster featuring futuristic typography with glowing effects, space themes with planets and stars, dark background with neon accents, detailed in Seedream AI style.
-
-### Bold Typography Poster
-
-> 一个大胆排版的现代海报，使用粗体字体突出主题，融入抽象几何图案，颜色以黑白为主，清晰布局，高清效果，由 Seedream 模型生成。
-
-### 艺术风海报设计
-
-> 一个艺术风格的海报， typography 以优雅曲线字体为主，结合绘画元素如花朵和线条，柔和色彩渐变，使用 Seedream AI 渲染，4K 分辨率。
-
-### 科技主题海报
-
-> 一个科技主题的海报， typography 使用未来感字体，背景是数字矩阵和光线效果，蓝绿色调，高对比度，Seedream 生成的高质量图像。
-
-### 文化节海报
-
-> 一个文化节的海报设计， typography 融合传统和现代字体，包含民族图案和文字，温暖色系，平衡构图，运用 Seedream 模型创建。
-
-### 时尚品牌海报
-
-> 一个时尚品牌的海报， typography 以精致字体为主，搭配模型和服饰元素，高级灰色调，细节丰富，Seedream AI 输出。
-
-### 运动赛事海报
-
-> 一个运动赛事的海报， typography 使用动态字体，融入运动员和赛场图像，红色和白色为主， Seedream 风格的高清版本。
-
-### 创意抽象海报
-
-> 一个创意抽象的海报， typography 以扭曲变形字体呈现，背景是流体艺术效果，多彩渐变，Seedream 生成的精细细节。
-
-### Business Growth Poster
-
-> A professional YouTube thumbnail for social media business tips, showing upward graphs and a team collaborating, text 'Scale Your Business Now', modern infographic design, blue and gray palette, clean and minimalistic style
-
-### 环保主题海报
-
-> 社交媒体 YouTube 缩略图关于环境保护，显示森林和野生动物，融入信息图表如碳足迹图标，文字'拯救地球行动'，艺术风格，绿色调为主，高清分辨率
-
-### Magazine Cover Design
-
-> Place this person on a high-fashion magazine cover. Add elegant serif typography for the magazine title at the top, feature headlines along the sides, professional color grading, glamorous studio lighting, Vogue editorial aesthetic
-
----
-
-## Product Ad <a id="product"></a>
-
-### Floating Smartphone Hero Shot
-
-> Modern smartphone floating at a dynamic angle against a clean dark gradient background, dramatic single-source studio lighting from upper left creating sharp specular highlights on the glass screen and metal frame, subtle blue accent glow, ultra-detailed product textures, commercial hero shot quality, 4K
-
-### Luxury Perfume Bottle
-
-> Luxury glass perfume bottle resting on polished dark obsidian surface, soft golden rim backlight creating an elegant halo effect, crystal-clear water droplets glistening on the curved glass, amber-colored liquid catching the light inside, professional editorial product photography, shallow bokeh background, ultra-high-definition
-
-### Wireless Earbuds Ad
-
-> Hero-angle product shot of minimal wireless earbuds in a matte white charging case, anodized aluminum finish with brushed steel accent, tiny water droplets frozen mid-air around the product suggesting splash resistance, soft studio lighting with crisp edge highlights, reflection on matte black surface, catalog-quality commercial photography, 4K
-
-### Skincare Flat Lay
-
-> Styled flat lay on white marble: three glass skincare bottles arranged in a loose triangle, fresh botanicals and dried flowers between bottles, soft diffused window light from the left, pastel pink and cream palette, overhead shot with centered composition, shallow depth of field on botanicals, sharp focus on product labels, 4K product photography
-
-### Tropical Fruit Splash
-
-> Vibrant tropical fruit arrangement frozen mid-explosion in a splash of crystal-clear water, vivid mangoes, strawberries, and kiwis suspended in dynamic motion against a clean white studio background, high-speed commercial photography, ultra-sharp detail capturing individual water droplets, fresh and energetic mood
-
-### 高端手机展示
-
-> 一个高端智能手机的现实主义产品照，放在玻璃台上，细节丰富的屏幕显示，柔和灯光，专业摄影风格
-
-### Luxury Watch Product
-
-> Realistic product shot of a luxury gold watch on a velvet stand, intricate details, studio lighting, elegant background
-
-### 智能手表产品
-
-> A high-tech smartwatch on a modern desk, detailed reflections, seedream style, with blue accents and futuristic elements
-
-### 时尚产品展示
-
-> seedream 生成一个高端手袋产品图，皮质纹理细腻，灯光打亮，背景简约
-
-### Luxury Watch Shot
-
-> Professional product photo of a gold luxury watch on a dark velvet surface, soft studio lights, high detail and reflections, commercial advertising for watches, seedream model.
-
-### Cosmetic Product Display
-
-> High-quality product photography of makeup brushes and palettes arranged neatly, even lighting to show textures, commercial style for beauty products, seedream model.
-
-### Fashion Accessory Photo
-
-> A stylish commercial photograph of leather handbags on a wooden shelf, warm indoor lighting, high contrast and shadows for depth, seedream generated image.
-
-### Jewelry Display Shot
-
-> High-end commercial photo of diamond earrings on a black stand, spotlight illumination, sparkling effects and fine details, seedream AI style.
-
-### Electronic Device Setup
-
-> Dynamic product photography of a laptop on a desk with accessories, office environment lighting, sharp edges and screen reflections, commercial use, seedream model.
-
-### Fitness Equipment Ad
-
-> Professional image of dumbbells and a mat in a gym setting, motivational lighting, sweat and texture details, commercial fitness promotion, seedream generated.
-
-### Tool Kit Display
-
-> A detailed product image of a toolkit spread out, workshop lighting, metallic shine and organization, commercial hardware advertising, seedream AI.
-
-### Tech Review Thumbnail
-
-> A sleek YouTube thumbnail for social media tech reviews, featuring a new laptop with specs overlay, text 'Best Laptops 2024', modern product design style, silver and black colors, high detail
-
-### Action Figure in Box
-
-<img src="https://storage.tiktomato.com/uploads/20260417/task_960b321c-6b5a-4c3c-b520-5e1f4295989f_0.jpeg" width="500" />
-
-> Turn the person in this photo into a highly detailed collectible action figure, placed inside clear plastic packaging with a printed cardboard backing. Toy photography style, studio lighting, miniature scale, realistic plastic texture
-
-### Outfit Flat Lay Knolling
-
-<img src="https://storage.tiktomato.com/uploads/20260417/task_3ba59b68-ffaa-4e4a-88bd-28c898aff046_0.jpeg" width="500" />
-
-> Decompose this outfit into individual clothing items and accessories, arrange them neatly in a flat lay knolling layout on clean white surface, overhead view, even lighting, organized grid pattern, fashion photography style
-
-### Product Luxury Staging
-
-> Place this product in a premium lifestyle setting, marble countertop with soft morning light streaming through sheer curtains, fresh flowers and gold accents nearby, shallow depth of field, luxury brand advertising photography style
-
----
-
-## Photography <a id="photography"></a>
-
-### Golden Hour Fashion Portrait
-
-> A young woman in a flowing emerald silk dress standing in a sunlit wildflower meadow, hair gently tossed by warm summer breeze, natural freckles visible, shallow bokeh background of blurred blossoms, editorial fashion photography with soft golden-hour lighting, 85mm lens at f/1.8, warm cinematic color grade
-
-### Weathered Fisherman Portrait
-
-> Close-up portrait of an elderly fisherman with deeply weathered skin and piercing blue eyes, wearing a fraying sea-worn wool coat, dramatic Rembrandt side lighting against a stormy Atlantic seascape, ultra-realistic 8K skin texture detail, documentary photography style, 50mm lens
-
-### Lo-Fi Film Portrait
-
-> Portrait of a young woman sitting on a windowsill in a sunlit apartment, shot on Kodak Portra 400 35mm film, warm golden tones with subtle green shadows, visible film grain and gentle light leaks on the left edge, slightly faded blacks, vintage 50mm lens, candid relaxed expression, lo-fi nostalgic mood
-
-### Snow Leopard at Twilight
-
-> Majestic snow leopard perched on a Himalayan cliff edge at twilight, stars beginning to appear in the deep blue sky, fur detail with individual strands visible, National Geographic wildlife photography style, dramatic natural lighting, 400mm telephoto lens, shallow depth of field, 8K
-
-### African Lion Golden Savanna
-
-> Male African lion with a magnificent dark mane walking through tall golden savanna grass at sunset, warm backlight creating a glowing halo around his mane, amber eyes looking directly at camera, 400mm telephoto lens, National Geographic style, shallow depth of field, 8K
-
-### Frozen Nordic Aurora
-
-> A frozen Nordic lake at midwinter beneath dancing aurora borealis in ribbons of green and violet, snow-covered spruce forest lining the banks, mirror-like ice surface perfectly reflecting the night sky above, long-exposure photography aesthetic, ethereal light, 8K astrophotography
-
-### Milky Way Over Desert
-
-> The Milky Way galaxy arching over a vast desert landscape at midnight, sandstone rock formations silhouetted against a sky filled with millions of stars, a small campfire in the foreground casting warm orange light on red sand, 25-second exposure aesthetic, astrophotography, deep depth of field, 8K
-
-### Mountain Photography
-
-> Stunning landscape photography of snow-capped mountains at dawn, misty valleys, crystal-clear lake reflection, wide-angle shot, natural lighting
-
-### Urban Photography
-
-> Vibrant street photography of a bustling city at night, neon lights, people walking, wide-angle lens, atmospheric mood
-
-### 街头摄影场景
-
-> seedream 生成一个城市街头摄影，雨中行人撑伞，霓虹灯反射在水坑中，黑白调色，真实感强
-
-### 自然摄影风
-
-> A serene landscape photography of a mountain lake at dawn, seedream style, with mist and wildlife
-
-### Sleek Phone Display
-
-> A high-resolution commercial photograph of a modern smartphone on a minimalist white background, with dramatic lighting highlighting its features, professional product photography style, seedream AI model.
-
-### Elegant Perfume Ad
-
-> A polished commercial image of a glass perfume bottle with floral elements around it, natural daylight from a window, vibrant colors and sharp focus, seedream AI generated.
-
-### Tech Gadget Close-Up
-
-> Detailed commercial shot of wireless earbuds in a charging case, macro lens for intricate details, blue ambient lighting, professional setup, seedream AI.
-
-### Kitchen Appliance Ad
-
-> Professional product image of a blender with fresh fruits around it, bright kitchen setting, realistic textures and reflections, commercial promotion, seedream model.
-
-### Beauty Serum Bottle
-
-> A clean commercial image of a skincare serum bottle with droplets, soft diffused light, transparent glass effects, professional packaging shot, seedream generated.
-
-### Home Decor Item
-
-> Commercial photo of a ceramic vase with flowers, natural window light, intricate patterns and textures, high realism for interior design, seedream AI.
-
-### Beverage Product Shot
-
-> High-resolution commercial photograph of a soda can with condensation, outdoor picnic background, vibrant colors and bubbles, seedream model style.
-
-### Apparel Line Photo
-
-> Commercial fashion photography of a jacket on a mannequin, studio flash lights, fabric textures and folds, professional clothing line promotion, seedream generated.
-
-### 旅行摄影海报
-
-> YouTube 缩略图用于社交媒体旅行摄影，展示海滩日出场景，摄影师在拍摄，文字'完美旅行照'，真实摄影风格，温暖色调，高分辨率
-
-### Season Change to Winter
-
-<img src="https://storage.tiktomato.com/uploads/20260417/task_6794dc25-f39f-4053-bce2-379698e0dda3_0.jpeg" width="500" />
-
-> Transform this into a cold winter scene. The fields are covered in deep snow, trees are bare with frost on branches. The sky shifts to cool blues and pale pinks. Keep the same road, buildings, and composition unchanged
-
-### Day to Night
-
-> Transform this to a clear night scene. The sky is filled with the Milky Way and thousands of stars. Surfaces reflect the starlight. Keep the same buildings and layout. Cool blue tones, warm window lights glowing, long exposure photography feel
-
-### Add Heavy Rain
-
-> Add heavy rain to this scene. Hair is wet, water droplets on skin and clothing. Rain streaks visible in the air, wet surfaces reflecting light in the background. Keep the same person, pose, and framing unchanged
-
-### Background Replacement
-
-> Replace the background with a Parisian street at sunset, keeping the subject sharp and unchanged. Add warm orange rim lighting on the subject to match the new sunset atmosphere
 
 ---
 

@@ -2,7 +2,7 @@
 
 # Seedream プロンプト集
 
-> Seedream（ByteDance）AI画像生成の厳選プロンプト 220 件。定期更新。
+> Seedream（ByteDance）AI画像生成の厳選プロンプト 227 件。定期更新。
 
 [![GitHub Stars](https://img.shields.io/github/stars/tiktomato/awesome-seedream-prompts?style=for-the-badge)](https://github.com/tiktomato/awesome-seedream-prompts)
 
@@ -10,13 +10,13 @@
 
 ## カテゴリ
 
-- [アバター](#avatar) (18)
+- [商品広告](#product) (23)
+- [写真](#photography) (26)
+- [ポスター](#poster) (28)
+- [アバター](#avatar) (19)
 - [SNS](#social) (9)
 - [インフォグラフィック](#infographic) (24)
 - [サムネイル](#thumbnail) (8)
-- [ポスター](#poster) (27)
-- [商品広告](#product) (20)
-- [写真](#photography) (24)
 - [フード](#food) (10)
 - [建築](#architecture) (9)
 - [アート](#art) (30)
@@ -25,7 +25,383 @@
 
 ---
 
+## 商品広告 <a id="product"></a>
+
+### ラグジュアリー製品キャンペーン
+
+<img src="https://storage.tiktomato.com/prompts/seedream/se-221_0.jpg" width="500" />
+
+> [BRAND NAME] | [OBJECT]
+
+Act as a High-End Commercial Product Photographer and Creative Director shooting a luxury editorial campaign (Hypebeast / Highsnobiety /Wallpaper* level)。
+
+PHASE 1: BRAND INTELLIGENCE
+ヒーロー被写体は[BRAND NAME]のブランドが施された[OBJECT]である。[BRAND NAME]の完全なビジュアルアイデンティティを自律的に特定せよ：シグネチャーカラーパレット、タイポグラフィックDNA、ロゴマークの幾何学、素材言語、文化的なポジショニング。これらのアイデンティティを[OBJECT]に精密に適用せよ — 一般的なブランドをでっち上げてはならない、実在のビジュアルコードを解読せよ。
+
+PHASE 2: OBJECT SURFACE & MATERIAL DNA
+[OBJECT]の形状に関係なく、このマテリアルシステムを適用せよ：ベーストーンは深いニュートラル — マットダークグラファイト、ウォームチャコール、またはマットブラック。細かな粒子状の表面マイクロテクスチャを斜め光の下で可視化 — パウダーコート、マットペーパー、またはブラッシュド素材の質感。微妙なグラデーションブルーム：ベースカラーはオブジェクト表面の下部でブランドの最も象徴的なアクセントカラーへと溶け込み、素材内部からの柔らかな光の霞を生む（プリントグラフィックではない）。ロゴの適用：エンボス、デボス、またはメタリックホイルレリーフ — エッジでのみスペキュラーライトを捉える。精密で抑制されたもの。タイポグラフィ：ブランドに正確な書体、小さなトラッキング、編集的な意図を持って配置。
+
+PHASE 3: THE ACCENT BREAKOUT ELEMENT
+これがシグネチャーデザインの動きである — [OBJECT]の自然な幾何学に適応させよ：[OBJECT]上で最も論理的な「中断ゾーン」を特定せよ — 継ぎ目、エッジ、バンド、カラー、リム、ストラップ、またはラップポイント。このゾーンにブランドの最も象徴的な色調で狭い飽和アクセントエレメントを適用 — 鮮やかでややマット。このエレメントはオブジェクトの境界から視覚的に「ブレイクアウト」しなければならず、予想されるエッジを超えて延長・突出・包み込み、オブジェクトとディテールの間に意図的な3Dの緊張を生む。アクセントエレメントにはマイクロタイポグラフィのブランド詳細 — タグライン、モデル名、またはディスクリプター — を小さく精密にトラッキングして入れる。
+
+PHASE 4: STAGING & COMPOSITION
+スタジオサイクロラマ。表面トーン：オフホワイトからウォームライトグレー。背景フィールド：クールニュートラルミッドグレー、上部ゾーンでより暗く。[OBJECT]を3/4アングルに配置 — 正面と1つの側面が同時に見える。三分割法：オブジェクトがフレームの右60%を占める。左側フィールド：十分なネガティブスペース — 意図的で、空虚ではない。右下方へ向かう単一のハードエッジ方向性シャドウ — クリスプなペナンブラ、拡散なし。
+
+PHASE 5: LIGHTING
+単一の支配的なキーライト：大型ソフトボックス、カメラ左、40°の高さ。スペキュラーハイライトが[OBJECT]の左上エッジをトレース — 素材の粒状感を露わに。シャドウ側：フィルなし。暗闇が深みを獲得する。サイクロラマ床からの微かなアンビエントバウンス — シャドウを15%だけ持ち上げる、それ以上は不可。アクセントエレメントは支配的なエッジに沿ってマイクロスペキュラーグリントを受ける。ムード：プロダクトフォトグラフィに適用されたレンブラントのキアロスクーロロジック。レンズフレアなし。大気効果なし。
+
+PHASE 6: TECH SPECS
+Lens: 85mm equivalent, f/4.5. Depth of field: object fully sharp, background softened. Chromatic aberration: subtle, at extreme frame edges only — optical realism signal. Film grain overlay: 15% opacity — anti-CGI-plastic treatment. Render: Octane / Ray Tracing quality —subsurface scattering where material demands it, global illumination, physically accurate shadow falloff. Aspect ratio: autonomously determine optimal ratio for this [OBJECT] format。
+
+— via [https://x.com/Strength04_X/status/2046567831240839329](https://x.com/Strength04_X/status/2046567831240839329)
+
+### 金継ぎのザクロ
+
+<img src="https://storage.tiktomato.com/prompts/seedream/se-222_0.jpg" width="500" />
+
+> 白磁のザクロに繊細な金継ぎの修復ひび割れが入った、センターのヒーローショット、目線の高さのビュー、プレミアムプロダクトフォトグラフィー、ミニマリストの白背景、柔らかいスタジオ照明と微かな黄金の反射、8K photorealistic、シャープフォーカス、非常に詳細な磁器の質感、金の脈のマクロショット、no clutter, no text.
+
+— via [https://x.com/kaanakz/status/2038208587042824538](https://x.com/kaanakz/status/2038208587042824538)
+
+### Kiwi Skincare Ad
+
+<img src="https://storage.tiktomato.com/prompts/seedream/se-227_0.jpg" width="500" />
+
+> ウルトラリアリスティックなスキンケア製品広告写真。鮮やかな緑色のガラス製ドロッパーボトルに「Kiwi Hydrating Skin Booster (30 ml)」とラベルが貼られ、新鮮なキウイジュースの螺旋スプラッシュとともに浮遊している。キウイのスライスと種が空中に散らばり、浮遊する液滴がボトルを包み込む。アナ・デ・アルマスがボトルの横でホットで大胆なポーズを決め、軽く前傾して片手を腰に、もう片方の手でキウイスライスを唇に当てている。キウイの質感でできた光沢のあるアバンギャルドな緑の衣装を着用し、髪がドラマチックに流れ、目がカメラを妖しく見つめている。背景は柔らかいパステルグリーンのスタジオトーンで、明るいシネマティックライティング、ガラス質感の反射ハイライト、浅い被写界深度、ウルトラ詳細な8Kコスメティック写真、シュールで absurdly whimsical な構図。
+
+— via [https://x.com/Just_sharon7/status/2030661137726050643](https://x.com/Just_sharon7/status/2030661137726050643)
+
+### 浮遊するスマートフォン・ヒーローショット
+
+> クリーンなダークグラデーション背景に、ダイナミックな角度で浮遊するモダンなスマートフォン、左上からの単一光源のドラマチックなスタジオライティングがガラススクリーンとメタルフレームにシャープなスペキュラーハイライトを生み出す、さりげないブルーのアクセントグロー、超精細なプロダクトテクスチャ、コマーシャルヒーローショット品質、4K
+
+### ラグジュアリー香水ボトル
+
+> 磨かれたダークオブシディアンの表面に置かれたラグジュアリーガラス香水ボトル、ソフトなゴールドのリムバックライトがエレガントなハロー効果を生み出す、カーブしたガラスの上で水滴がきらめく、アンバー色の液体が内部で光を捉える、プロフェッショナルなエディトリアル商品撮影、浅いボケ背景、超高精細
+
+### ワイヤレスイヤホン広告
+
+> マットホワイトの充電ケースに入ったミニマルワイヤレスイヤホンのヒーローアングル商品撮影、ブラッシュドスチールのアクセント付きアノダイズドアルミ仕上げ、防水性を示唆するように空中に凍りついた微小な水滴、クリスプなエッジハイライトのソフトスタジオライティング、マットブラック面の反射、カタログ品質のコマーシャルフォトグラフィー、4K
+
+### スキンケア・フラットレイ
+
+> 白い大理石の上にスタイリングされたフラットレイ：3本のガラス製スキンケアボトルをゆるやかな三角形に配置、ボトルの間にフレッシュなボタニカルとドライフラワー、左からの柔らかい拡散窓光、パステルピンクとクリームの配色、真上からのショットで中央配置の構図、ボタニカルに浅い被写界深度、商品ラベルにシャープなフォーカス、4K商品撮影
+
+### トロピカルフルーツ・スプラッシュ
+
+> 透き通った水のスプラッシュの中で爆発する瞬間を捉えたカラフルなトロピカルフルーツの配置、鮮やかなマンゴー、イチゴ、キウイがクリーンなホワイトスタジオ背景の前でダイナミックに躍動、ハイスピードコマーシャルフォトグラフィー、個々の水滴まで捉えた超シャープなディテール、フレッシュで活力あふれるムード
+
+### ハイエンド・スマートフォン展示
+
+> ガラス台の上に置かれた高級スマートフォンのリアリスティック商品写真、ディテール豊かなスクリーン表示、柔らかい照明、プロフェッショナルな撮影スタイル
+
+### ラグジュアリーウォッチ商品写真
+
+> ベルベットスタンドの上に置かれたラグジュアリーゴールドウォッチのリアリスティック商品写真、精緻なディテール、スタジオライティング、エレガントな背景
+
+### スマートウォッチ商品写真
+
+> モダンなデスクの上に置かれたハイテクスマートウォッチ、精緻な反射のディテール、ブルーのアクセントとフューチャリスティックな要素
+
+### ファッション商品展示
+
+> 高級ハンドバッグの商品写真、繊細なレザーテクスチャ、照明が映える、シンプルな背景
+
+### ラグジュアリー腕時計ショット
+
+> ダークベルベットの上に置かれたゴールドのラグジュアリー腕時計のプロフェッショナル商品写真、ソフトなスタジオライト、ハイディテールと反射、ウォッチのコマーシャル広告
+
+### コスメティック商品ディスプレイ
+
+> きれいに並べられたメイクブラシとパレットの高品質商品写真、テクスチャを映すイーブンなライティング、ビューティープロダクトのコマーシャルスタイル
+
+### ファッションアクセサリー写真
+
+> 木製の棚に並んだレザーハンドバッグのスタイリッシュなコマーシャル写真、暖かい室内照明、奥行きを生み出すハイコントラストとシャドウ
+
+### ジュエリーディスプレイショット
+
+> ブラックスタンドに置かれたダイヤモンドイヤリングのハイエンドコマーシャル写真、スポットライト照明、きらめく効果と精緻なディテール
+
+### 電子デバイスセットアップ
+
+> デスク上のノートPCとアクセサリーのダイナミックな商品写真、オフィス環境のライティング、シャープなエッジとスクリーンの反射、コマーシャル用途
+
+### フィットネス機器広告
+
+> ジムセッティングのダンベルとマットのプロフェッショナルイメージ、モチベーショナルなライティング、汗とテクスチャのディテール、コマーシャルフィットネスプロモーション
+
+### ツールキットディスプレイ
+
+> 広げられたツールキットの精緻な商品画像、作業場のライティング、メタリックな輝きと整理整頓、コマーシャルハードウェア広告
+
+### テックレビュー・サムネイル
+
+> SNSテックレビュー向けのスリークなYouTubeサムネイル、スペックオーバーレイ付きの新しいノートPC、テキスト「Best Laptops 2024」、モダンなプロダクトデザインスタイル、シルバーとブラックのカラー、ハイディテール
+
+### パッケージ入りフィギュア
+
+<img src="https://storage.tiktomato.com/uploads/20260417/task_960b321c-6b5a-4c3c-b520-5e1f4295989f_0.jpeg" width="500" />
+
+> 写真の人物を精巧なコレクタブルフィギュアに変換、印刷台紙付きの透明プラスチックパッケージ内に配置。トイフォトスタイル、スタジオ照明、ミニチュアスケール、リアルなプラスチック質感
+
+### コーデ分解フラットレイ
+
+<img src="https://storage.tiktomato.com/uploads/20260417/task_3ba59b68-ffaa-4e4a-88bd-28c898aff046_0.jpeg" width="500" />
+
+> このコーディネートを個々の衣類とアクセサリーに分解し、清潔な白い表面にフラットレイで整然と配置、俯瞰視点、均一照明、整列グリッドパターン、ファッションフォトスタイル
+
+### ラグジュアリー商品撮影
+
+> 商品をプレミアムなライフスタイルシーンに配置、シアーカーテンから差し込む柔らかい朝日の大理石カウンタートップ、新鮮な花とゴールドのアクセント、浅い被写界深度、高級ブランド広告フォトスタイル
+
+---
+
+## 写真 <a id="photography"></a>
+
+### 朝光のポートレート
+
+<img src="https://storage.tiktomato.com/prompts/seedream/se-223_0.jpg" width="500" />
+
+> Masterpiece, Best Quality, 8K, photorealistic intimate portrait, Rinko Kawauchi photography style, ethereal light study, shot on Canon R5, 50mm f/1.8 lens, shallow depth of field, a beautiful Korean female k-pop idol, age 19-20, innocent baby face, sitting on a messy white bed in the soft morning light, the entire scene bathed in overwhelming gentle white light, Rinko Kawauchi signature aesthetic: intentionally overexposed by 1-2 stops, extremely low contrast, shadows lifted to light grey — no pure blacks anywhere, desaturated color palette with colors diluted by abundant light, dreamy ethereal haze permeating the entire frame, the photograph feels like looking through a veil of warm light, face: round baby face with soft jawline, big round doe eyes, prominent aegyo-sal (under-eye fat pads) catching light as a soft highlight, straight flat eyebrows in light brown — Korean style, small delicate nose with slightly rounded tip, gradient glossy pink lips — deeper coral-pink at the center fading to near skin-tone at the edges, glossy surface catching a single tiny point of light like a dewdrop, very light pink blush on the apples of cheeks — natural flush as if just woken from a warm sleep, barely-there makeup — almost no visible cosmetics, hair: long black wavy hair in a messy just-woke-up state, tousled and tangled with irregular sleep-curls, messy fringe and loose strands falling across forehead and cheeks, in the strong backlight from the window the hair edges glow with a warm golden translucent halo — individual strands becoming luminous gold threads floating in the light, skin: fair warm-toned milky white complexion, in the overexposed Kawauchi light the skin reads as translucent warm porcelain, strong subsurface scattering visible — light penetrating through her ear edges glowing pink, through her fingers at the thinnest points, fine golden peach fuzz on her arms and cheeks visible as a glowing edge in the backlight — micro hairs lit up like tiny fiber optics, wearing a simple white triangle bikini — minimal design, thin string ties, soft ribbed knit cotton texture — not glossy swimwear, the white bikini fabric is almost the same tone as her pale skin and the white bedsheets — boundaries dissolving in the light, in the strongest backlight areas the thin white fabric becomes subtly translucent — not revealing but showing light passing through cloth the way Kawauchi photographs light through insect wings or flower petals, this is about the physics of light transmission not about exposure, sitting on a messy white bed with rumpled white sheets and white pillows, legs drawn up and bent in front of her in a curled-up just-woke-up position, one arm loosely hugging a white pillow against her chest — not clutching defensively but holding softly with sleepy comfort, shoulders slightly hunched in a cozy morning curl, one bikini strap slipping slightly off the shoulder — unnoticed, natural, bare feet on the sheets with toes slightly curled, her gaze toward the camera: eyes open but not fully focused — the look of someone caught between sleep and waking, pupils slightly dilated, gaze soft and unfixed, looking in the viewer's direction but seeing through them toward the light, lips slightly parted — breathing, existing, not performing, the expression is pure presence — no seduction, no shyness performed, just a human being in their most unguarded morning state, LIGHTING — the core of this image: soft morning sunlight flooding through a large window to the right, filtered through sheer white curtains acting as a massive diffusion panel, the window area and right side of the frame BLOWN OUT to pure white — overexposed high-key lighting eating into the subject from the right, light spilling and bleeding across the frame like liquid, her right side (facing the window) almost dissolving into white light, her left side retaining slightly more detail but still very bright, lighting ratio approximately 1.5:1 — almost flat, barely any shadow, the white bedsheets and white walls bouncing light everywhere eliminating shadows almost completely, the very few remaining shadows are lifted to pale grey — no darkness, a subtle warm lens flare entering from the window direction, the air itself appears luminous — as if filled with microscopic light particles, the entire color palette is washed out by the overwhelming light: whites dominate everything — sheets, bikini, curtains, skin nearly merging, the only surviving colors are extremely diluted: her lips: a faint coral-pink barely holding its hue, her skin: the softest warm blush-white, her hair: dark but reading as warm brown in the light rather than black, shadows carry the faintest hint of cool lavender-blue — Kawauchi's signature, COMPOSITION: 3:2 horizontal frame, subject centered slightly left, large overexposed white negative space on the right (light source direction), she occupies about 40-50% of the frame — surrounded and cradled by light, intimate eye-level POV as if sitting on the same bed facing her, shooting distance approximately 1-1.5 meters — personal intimate distance, the image should feel like: a sacred quiet moment that exists only between the light and her body, the body is not an object of desire but a vessel receiving light, everything is soft, pale, dissolved, luminous, tender, fleeting, as if this moment will evaporate the instant the shutter closes, Photorealistic, soft luminous skin with visible subsurface scattering and golden peach fuzz halo in backlight, messy hair strands glowing as individual golden threads, subtle ribbed texture on white bikini fabric, rumpled white sheet texture visible in gentle sidelight, glossy lip surface with single light reflection point, prominent aegyo-sal highlight under the eyes, overall Rinko Kawauchi quality: blown-out highlights, lifted shadows, desaturated palette, ethereal haze, overwhelming gentle light, no artifacts, no watermark
+
+— via [https://x.com/BubbleBrain/status/2033502272269803928](https://x.com/BubbleBrain/status/2033502272269803928)
+
+### iPhone フラッシュポートレート
+
+<img src="https://storage.tiktomato.com/prompts/seedream/se-224_0.jpg" width="500" />
+
+> Masterpiece, best quality, RAW photo quality, 8K UHD, ultra-realistic photography, 100% photorealistic, real life photograph, Phone flash photography portrait of a stunning 21-year-old Korean female idol, sexy yet cute charm, confident and playful energy, Shot on iPhone with direct frontal flash, harsh on-camera flash lighting, strong specular highlights on skin, short hard shadow cast behind her on the wall, high contrast between flash-lit subject and dimmer background, flash reflection visible as bright circular catchlight in both pupils, Flawless cold white porcelain skin with cool pink undertone, pale translucent luminous skin under flash, realistic skin micro-texture visible under harsh flash — fine pores around nose, subtle peach fuzz on cheeks, delicate veins faintly visible on collarbone area, realistic subsurface scattering on ear edges, skin strictly cool-toned porcelain white with natural hydration, Small heart-shaped face, large expressive almond eyes with double eyelids, bright clear eyes with playful confident gaze directly into camera, high delicate nose bridge, plump glossy lips slightly parted in a half-smile, soft arched eyebrows in light brown, Korean idol makeup: sheer pink-brown eyeshadow, thin inner eyeliner, naturally curled lashes, soft peach blush on apple of cheeks creating a flushed look, dewy peach-coral jelly lip gloss with high shine, Dark brown shoulder-length wavy hair with center-parted curtain bangs, silky smooth with natural shine, hair catching flash highlights, Wearing a white cropped fitted camisole tank top and low-rise distressed denim mini skirt, fabric hugging her slim figure, showcasing her slim waist, small silver stud earrings, delicate silver collarbone necklace, Standing pose with body slightly angled, hips tilted to one side creating a subtle S-curve, one hand playfully tossing her hair back, other hand casually tugging at skirt hem, weight on right leg with left knee slightly bent and relaxed, head tilted slightly with chin lifted, confident and flirty body language, Indoor setting — simple white/light gray wall behind her, minimal background, late night candid snapshot vibe after dance practice, Vertical 9:16 composition, three-quarter body framing from above knees to top of head, subject centered, camera at chest height, approximately 28mm smartphone wide-angle perspective with subtle barrel distortion, Natural color under flash — cool white flash illumination contrasting with slightly warm ambient room light, natural skin tone preserved, sharp macro-level details, natural chromatic aberration, no post-processing look, authentic smartphone flash snapshot aesthetic
+
+— via [https://x.com/BubbleBrain/status/2030851492224065663](https://x.com/BubbleBrain/status/2030851492224065663)
+
+### ゴールデンアワーのファッションポートレート
+
+> 陽光が降り注ぐワイルドフラワーの草原に佇む、流れるようなエメラルドグリーンのシルクドレスを纏った若い女性、暖かい夏風にそっと髪がなびく、自然なそばかすが見える、ぼやけた花々の浅いボケ背景、ソフトなゴールデンアワーライティングのエディトリアルファッション撮影、85mmレンズ f/1.8、暖かいシネマティックカラーグレード
+
+### 風雪に鍛えられた漁師のポートレート
+
+> 深く刻まれたしわのある肌と鋭いブルーの瞳を持つ老漁師のクローズアップポートレート、擦り切れた海風にさらされたウールコートを着用、嵐の大西洋の海景を背にしたドラマチックなレンブラントサイドライティング、超リアルな8K肌テクスチャのディテール、ドキュメンタリー写真スタイル、50mmレンズ
+
+### ローファイ・フィルムポートレート
+
+> 陽光の差し込むアパートの窓辺に座る若い女性のポートレート、Kodak Portra 400 35mmフィルムで撮影、暖かいゴールデントーンと繊細なグリーンシャドウ、左端にわずかな光漏れとフィルムグレイン、やや褪せたブラック、ヴィンテージ50mmレンズ、くつろいだ自然な表情、ローファイでノスタルジックなムード
+
+### 黄昏のユキヒョウ
+
+> ヒマラヤの崖の端に佇む荘厳なユキヒョウ、夕暮れの深い青空に星が現れ始める、毛並みの一本一本まで見える精緻なディテール、ナショナルジオグラフィック風のワイルドライフフォトグラフィー、ドラマチックな自然光、400mm望遠レンズ、浅い被写界深度、8K
+
+### 黄金のサバンナを歩くアフリカライオン
+
+> 見事なダークメインを持つ雄のアフリカライオンが夕陽の中、黄金に輝く背の高いサバンナの草原を歩く、暖かい逆光がたてがみの周りに光り輝くハローを作る、琥珀色の瞳がカメラをまっすぐ見つめる、400mm望遠レンズ、ナショナルジオグラフィック風、浅い被写界深度、8K
+
+### 凍てつく北欧のオーロラ
+
+> 真冬の凍った北欧の湖上に踊るグリーンとバイオレットのリボン状のオーロラ、湖畔に並ぶ雪に覆われたトウヒの森、鏡のような氷の表面が夜空を完璧に映し出す、長時間露光撮影の美学、幻想的な光、8K天体写真
+
+### 砂漠の天の川
+
+> 真夜中の広大な砂漠の風景にアーチを描く天の川、数百万の星で満たされた空をバックに砂岩の岩層がシルエットとなる、前景に赤い砂に暖かいオレンジの光を投げかける小さなキャンプファイヤー、25秒露光撮影の美学、天体写真、深い被写界深度、8K
+
+### 山岳写真
+
+> 夜明けの雪山の圧巻のランドスケープフォトグラフィー、霧に包まれた谷、透き通った湖の反射、広角レンズ、自然光
+
+### 都市写真
+
+> 夜の賑やかな都市のヴィヴィッドなストリートフォトグラフィー、ネオンライト、行き交う人々、広角レンズ、アトモスフェリックなムード
+
+### ストリートフォトグラフィー
+
+> 雨の中の都市ストリートフォトグラフィー、傘をさす行人、水たまりに反射するネオン、モノクロ調色、高いリアリティ
+
+### 自然風景写真
+
+> 夜明けの山上湖の静謐なランドスケープフォトグラフィー、霧と野生動物
+
+### スタイリッシュなスマートフォン展示
+
+> ミニマリストの白い背景にモダンスマートフォンの高解像度コマーシャル写真、機能をハイライトするドラマチックなライティング、プロフェッショナルな商品撮影スタイル
+
+### エレガント・パフューム広告
+
+> フローラル要素に囲まれたガラス香水ボトルの洗練されたコマーシャルイメージ、窓からの自然光、鮮やかな色彩とシャープなフォーカス
+
+### テックガジェット・クローズアップ
+
+> 充電ケースに入ったワイヤレスイヤホンの精緻なコマーシャルショット、マクロレンズで繊細なディテール、ブルーのアンビエントライティング、プロフェッショナルなセッティング
+
+### キッチン家電広告
+
+> 新鮮なフルーツに囲まれたブレンダーのプロフェッショナル商品写真、明るいキッチンセッティング、リアルなテクスチャと反射、コマーシャルプロモーション
+
+### ビューティーセラムボトル
+
+> ドロップレットが付いたスキンケアセラムボトルのクリーンなコマーシャルイメージ、ソフトなディフューズドライト、透明なガラスの効果、プロフェッショナルなパッケージショット
+
+### ホームデコアイテム
+
+> 花を生けた陶器の花瓶のコマーシャル写真、自然な窓光、繊細な模様とテクスチャ、インテリアデザイン向けの高いリアリズム
+
+### ドリンク商品ショット
+
+> 結露の付いた炭酸缶の高解像度コマーシャル写真、屋外ピクニック背景、鮮やかな色彩とバブル
+
+### アパレルライン写真
+
+> マネキンに着せたジャケットのコマーシャルファッションフォトグラフィー、スタジオフラッシュライト、生地のテクスチャと折り目、プロフェッショナルな衣料品ラインプロモーション
+
+### 旅行写真ポスター
+
+> SNS旅行フォトグラフィー用YouTubeサムネイル、ビーチの日の出を撮影するカメラマン、テキスト「完美旅行照」、リアルなフォトグラフィースタイル、ウォームトーン、高解像度
+
+### 冬景色への変換
+
+<img src="https://storage.tiktomato.com/uploads/20260417/task_6794dc25-f39f-4053-bce2-379698e0dda3_0.jpeg" width="500" />
+
+> シーンを寒い冬に変換。畑は深い雪に覆われ、木は霜のついた裸枝。空は冷たい青と淡いピンクに変化。道路、建物、構図はそのまま維持
+
+### 昼から夜へ
+
+> シーンを澄んだ夜景に変換。空は天の川と無数の星で満たされる。表面が星明かりを反射。建物とレイアウトはそのまま維持。クールブルートーン、窓から暖かい光、長時間露光の質感
+
+### 大雨を追加
+
+> シーンに大雨を追加。髪は濡れ、肌と服に水滴。空中に雨筋が見える、背景の濡れた表面が光を反射。人物、ポーズ、フレーミングはそのまま維持
+
+### 背景置換
+
+> 背景をパリの夕暮れの街並みに置き換え、被写体はシャープなまま維持。被写体に暖かいオレンジのリムライトを追加して新しい夕焼けの雰囲気に合わせる
+
+---
+
+## ポスター <a id="poster"></a>
+
+### 鏡の反射のシーン
+
+> Photorealistic cinematic. 16:9. 1970s American suburban home. Dim warm practical lighting. 35mm film grain. One single continuous shot. Zero cuts. Zero transitions. Never cuts. Ever. ELLIE: girl aged 9-10, light brown hair loose, light zip-up winter jacket over red crew neck sweater, jeans, bare feet. Pure panic. THE CORE ILLUSION: The camera is stationary inside the bathroom aimed at the closed mirrored medicine cabinet. What appears to be a tracking shot following Ellie is actually her REFLECTION in the mirror. The camera never moves until the zoom out. There is no cut. The transition is hidden by the zoom out revealing the cabinet knob. [0.0s] The mirror reflection fills the frame completely - no cabinet edges visible, no knob, no frame. The reflection shows only: Ellie at the bottom of a dim 1970s staircase. Wood paneling, patterned carpet, family photos. She launches into a desperate sprint upward. Light winter jacket over red sweater. Bare feet. [2.0s] Her reflection grows as she approaches. She rounds the landing into the hallway. The camera reflection tracks her — appearing to move backward ahead of her down the corridor. She runs toward camera in apparent slow retreat. Frame rate ramps 24fps to 48fps — SLOW MOTION. She runs at full desperate effort in half-speed. Arms pumping. Red sweater flashing. Hair flying. The hallway feels impossibly long. The reflection of her fills more and more of the mirror as she gets closer. [6.5s] She is nearly at the bathroom threshold. Her face almost fills the frame. Her hand rises in slow motion reaching toward the camera. THIS IS THE MOMENT — the camera very slowly ZOOMS OUT for the first time. As it pulls back the cabinet edges come into frame. Then the chrome rounded cabinet knob appears on the LEFT side of frame — visible for the first time, only now, revealed by the zoom out. The audience sees the knob. The perspective shifts seamlessly to first person as her fingers extend toward the knob. Her hand wraps around it in slow motion. [9.0s] She pulls the cabinet door OPEN toward her leftward. The mirror swings away — reflection becomes reality with zero visible seam. We look directly into the open cabinet interior. Her hand reaches in urgently from right of frame. CABINET INTERIOR — period accurate 1970s: Top shelf: amber prescription pill bottle, white cap, small brown glass bottle, thermometer in plastic case. Middle shelf: toothpaste tube, aspirin bottle. Bottom shelf: bandage roll, ointment tube. Her hand grabs the amber pill bottle urgently. Knocks the thermometer — falls in slow motion. [11.5s] She exits rushing out with the pills. The cabinet door swings on its inertia — but does NOT close all the way. It slows and stops slightly ajar — held open at a 20-30 degree angle from closed. Through this gap, at the angle the partial mirror now creates, the bathroom wall is visible in reflection — a framed photograph catches the light. Young Ellie and her father smiling together in summer warmth. Wooden frame. Simple. The photo was always there. Only the angle of the half-open door reveals it now. Only because she left in too much of a hurry to close it fully. [13.5s] The door holds still. Slightly ajar. The photo visible in the angled mirror gap. Distant bare feet on stairs descending. Getting quieter. Getting quieter. Gone. [15.0s] The cabinet door. The angled reflection. The photograph. The silence. Hard cut black. The zoom out at [6.5s] is the single most important moment — it must feel like the camera is exhaling, pulling back just enough to reveal the knob and the cabinet frame simultaneously, recontextualizing everything the audience just watched as a reflection. Before the zoom out: mirror fills the frame completely, no edges visible, pure illusion. After: cabinet geometry revealed, first person perspective, her hand on the knob, reality.
+
+— via [https://x.com/plasm0/status/2046382362507059468](https://x.com/plasm0/status/2046382362507059468)
+
+### ジャズフェスティバル・タイポグラフィックポスター
+
+> ジャズフェスティバルの大判タイポグラフィックポスター：太いネイビーのコンデンスドサンセリフ体で「BLUE NOTE SESSIONS」のタイトル、エレガントなスクリプト体のサブタイトル「Summer 2026 · Central Park」、ミッドナイトブルーからウォームアンバーへのグラデーション背景、右端にゴールドのサクソフォンシルエット、クリーンなタイプで並ぶ出演者名、ヴィンテージコンサートポスターの美学 --ar 2:3
+
+### SF映画ポスター
+
+> 「CHRONOS」というSFスリラー映画のシネマティックポスター：深宇宙に渦巻く巨大な時空の渦に向かって立つ孤独な宇宙飛行士、ドラマチックな逆光でスーツのシルエットが浮かび上がる、下部にメタリックな太いタイトルタイポグラフィ、小さい文字でキャッチコピー「Time waits for no one」、フォトリアリスティックなデジタルアート、壮大なスケール --ar 2:3
+
+### ヴィンテージウェディング招待状
+
+> エレガントなヴィンテージスタイルのウェディング招待状：ダークフォレストグリーンのベースにテクスチャのあるクリーム色の紙を重ね、ゴールド箔のスクリプト体タイポグラフィで「Together with their families」とカップル名「Emily & James」、オリーブの枝の装飾ボタニカルボーダー、下部にワックスシールのディテール、印刷品質、ロマンチックでタイムレス
+
+### サイケデリック音楽フェスティバル
+
+> 「ETHEREAL BLOOM」夏の音楽フェスティバルの鮮烈なサイケデリックポスター：液体のような色彩と有機的なフォルムの超現実的な爆発、フェスティバル名をアールヌーヴォー風の流れるタイポグラフィで表現、さまざまなサイズで散りばめられた出演者名、60年代のコンサートポスターとモダンデザインの融合、マゼンタ、ティール、ゴールドの万華鏡カラーパレット --ar 2:3
+
+### ミニマリスト美術展覧会
+
+> ミニマリストの美術展覧会ポスター：オフホワイトの背景にたっぷりの余白、中央やや右に配置された一本の黒インクの線画による人物の横顔、クリーンなサンセリフ体で展覧会タイトル「LINES & SILENCE」、その下に日程とギャラリー名、洗練されたギャラリー品質のレイアウト、上品で控えめなデザイン
+
+### SF映画ポスター
+
+> 宇宙冒険映画のヴィンテージ風ポスター、異星の惑星に立つ宇宙飛行士たち、レトロフォント、赤と青の配色、ドラマチックな構図
+
+### エコポスターデザイン
+
+> 環境保護テーマのポスター、地球と樹木のモチーフ、スローガン「Save the Planet」、力強いコントラストカラー
+
+### エコロジーポスターデザイン
+
+> 環境保護テーマのポスター、森林、河川、野生動物を描写、テキスト「保護地球、從我做起」、鮮やかな色彩、人の心を動かすデザイン
+
+### 音楽ポスターアート
+
+> バンドメンバーとライトを配したコンサートポスター、鮮やかな色彩とダイナミックな構図
+
+### ヴィヴィッド・ミュージックポスター
+
+> サンセリフの太字タイポグラフィを中心にしたダイナミックなポスターデザイン、抽象的な波のパターンを持つ音楽テーマ、赤とブルーの鮮やかな色彩、ハイコントラスト、4K解像度
+
+### ミニマリスト・テックポスター
+
+> シンフォントのエレガントなタイポグラフィを使ったミニマリストポスター、回路やホログラムなどのフューチャリスティックなテック要素、モノクロマティックブルーの配色、クリーンなレイアウト、超高精細
+
+### アブストラクトアート・ポスター
+
+> 幾何学的な形と流れるような文字を融合したクリエイティブなタイポグラフィのアブストラクトポスターデザイン、モダンアートムーブメントにインスパイアされた、ウォームカラーパレット、ハイディテール
+
+### エコフレンドリーデザイン・ポスター
+
+> エコテーマを強調したタイポグラフィのポスター、セリフフォントでアクセント、リーフモチーフとグリーンのグラデーション、バランスのとれた構図、1080p品質
+
+### レトロスタイル・ポスター
+
+> ヴィンテージタイポグラフィのレトロ風ポスター、太字とイタリック体のフォント、1950年代の車やダイナーの要素、暖かいセピアトーン、精緻なテクスチャ
+
+### コーポレートブランド・ポスター
+
+> スリークなコーポレートタイポグラフィのプロフェッショナルポスター、ブランディング用カスタムフォント、ロゴ要素とアブストラクト背景の統合、クールなコーポレートカラー、高解像度
+
+### フェスティバルイベント・ポスター
+
+> スクリプトフォントとブロックフォントを組み合わせた遊び心のあるタイポグラフィのフェスティブポスターデザイン、カラフルなイラスト付きのイベント詳細、ヴィヴィッドでエネルギッシュな雰囲気
+
+### イノベーティブSFポスター
+
+> グロウイングエフェクトのフューチャリスティックタイポグラフィを特徴とするイノベーティブなSFポスター、惑星と星のスペーステーマ、ネオンアクセントのダーク背景、精緻なディテール
+
+### ボールドタイポグラフィ・ポスター
+
+> 太字フォントでテーマを際立たせたボールドな現代ポスター、抽象的な幾何学模様を融合、モノクロを基調に、クリーンなレイアウト、高精細効果
+
+### アーティスティック・ポスターデザイン
+
+> エレガントな曲線フォントを中心にしたアーティスティックスタイルのポスター、花や線画などの絵画的要素と融合、柔らかなカラーグラデーション、4K解像度
+
+### テクノロジーテーマ・ポスター
+
+> 未来感あるフォントを使用したテクノロジーテーマのポスター、デジタルマトリックスと光線効果の背景、ブルーグリーントーン、ハイコントラスト、高品質画像
+
+### カルチャーフェスティバル・ポスター
+
+> 伝統的なフォントとモダンフォントを融合したカルチャーフェスティバルのポスターデザイン、民族的なパターンとテキストを含む、ウォームカラー、バランスの良い構図
+
+### ファッションブランド・ポスター
+
+> 精緻なフォントを中心にしたファッションブランドのポスター、モデルとアパレル要素を添えて、上品なグレートーン、リッチなディテール
+
+### スポーツイベント・ポスター
+
+> ダイナミックなフォントを使用したスポーツイベントのポスター、アスリートと競技場の画像を融合、赤と白を基調に、高精細バージョン
+
+### クリエイティブ・アブストラクトポスター
+
+> 歪みと変形を加えたフォントによるクリエイティブなアブストラクトポスター、フルイドアート効果の背景、マルチカラーグラデーション、精緻なディテール
+
+### ビジネスグロース・ポスター
+
+> SNSビジネスティップス向けのプロフェッショナルYouTubeサムネイル、上昇グラフとコラボレーションするチーム、テキスト「Scale Your Business Now」、モダンなインフォグラフィックデザイン、ブルーとグレーのパレット、クリーンでミニマリスティックなスタイル
+
+### 環境保護テーマ・ポスター
+
+> 環境保護に関するSNS YouTubeサムネイル、森林と野生動物を表示、カーボンフットプリントのアイコンなどのインフォグラフィックを融合、テキスト「拯救地球行動」、アーティスティックスタイル、グリーン基調、高精細解像度
+
+### ファッション雑誌表紙
+
+> 人物をハイファッション雑誌の表紙に配置。上部に優雅なセリフ体の雑誌タイトル、両サイドに見出し、プロのカラーグレーディング、グラマラスなスタジオライティング、Vogueエディトリアル美学
+
+---
+
 ## アバター <a id="avatar"></a>
+
+### グラマラス鏡セルフィー
+
+<img src="https://storage.tiktomato.com/prompts/seedream/se-226_0.jpg" width="500" />
+
+> スタイリッシュな赤髪のロングウェーブヘアで、色白のそばかす肌の女性が室内で鏡セルフィーを撮っている。彼女はスパークリングなダイヤモンドミニドレスを着ており、フィットしたシルエット、ダイヤモンドのストッキングを履き、存在感のあるバラ型チョーカーネックレスをしている。一方の手にはスマートフォンを持ち、ダイヤモンドのリングとブレスレットで飾られている。設定は柔らかく照明されたエレガントな部屋で、ニュートラルなベージュの壁と控えめな装飾があり、壁には少し金色で「Keor」と書かれている（反転なし）。彼女の表情は落ち着いて優雅で、グロッシーな唇と柔らかいメイクをしている。小さな装飾付きハンドバッグが彼女の横に置かれている。全体の雰囲気はグラマラスで、暖かみのあるトーンと豪華な印象。
+
+— via [https://x.com/chatgptpaglu/status/2045512902883553366](https://x.com/chatgptpaglu/status/2045512902883553366)
 
 ### 企業エグゼクティブのヘッドショット
 
@@ -274,308 +650,6 @@
 ### ミュージックイベント・サムネイル
 
 > SNS音楽イベントプロモ向けYouTubeサムネイル、ステージライトの中のコンサート群衆、中央にDJ、テキスト「Live Music Fest 2024」、鮮やかなネオンカラー、モーションブラーのフォトグラフィー、16:9
-
----
-
-## ポスター <a id="poster"></a>
-
-### ジャズフェスティバル・タイポグラフィックポスター
-
-> ジャズフェスティバルの大判タイポグラフィックポスター：太いネイビーのコンデンスドサンセリフ体で「BLUE NOTE SESSIONS」のタイトル、エレガントなスクリプト体のサブタイトル「Summer 2026 · Central Park」、ミッドナイトブルーからウォームアンバーへのグラデーション背景、右端にゴールドのサクソフォンシルエット、クリーンなタイプで並ぶ出演者名、ヴィンテージコンサートポスターの美学 --ar 2:3
-
-### SF映画ポスター
-
-> 「CHRONOS」というSFスリラー映画のシネマティックポスター：深宇宙に渦巻く巨大な時空の渦に向かって立つ孤独な宇宙飛行士、ドラマチックな逆光でスーツのシルエットが浮かび上がる、下部にメタリックな太いタイトルタイポグラフィ、小さい文字でキャッチコピー「Time waits for no one」、フォトリアリスティックなデジタルアート、壮大なスケール --ar 2:3
-
-### ヴィンテージウェディング招待状
-
-> エレガントなヴィンテージスタイルのウェディング招待状：ダークフォレストグリーンのベースにテクスチャのあるクリーム色の紙を重ね、ゴールド箔のスクリプト体タイポグラフィで「Together with their families」とカップル名「Emily & James」、オリーブの枝の装飾ボタニカルボーダー、下部にワックスシールのディテール、印刷品質、ロマンチックでタイムレス
-
-### サイケデリック音楽フェスティバル
-
-> 「ETHEREAL BLOOM」夏の音楽フェスティバルの鮮烈なサイケデリックポスター：液体のような色彩と有機的なフォルムの超現実的な爆発、フェスティバル名をアールヌーヴォー風の流れるタイポグラフィで表現、さまざまなサイズで散りばめられた出演者名、60年代のコンサートポスターとモダンデザインの融合、マゼンタ、ティール、ゴールドの万華鏡カラーパレット --ar 2:3
-
-### ミニマリスト美術展覧会
-
-> ミニマリストの美術展覧会ポスター：オフホワイトの背景にたっぷりの余白、中央やや右に配置された一本の黒インクの線画による人物の横顔、クリーンなサンセリフ体で展覧会タイトル「LINES & SILENCE」、その下に日程とギャラリー名、洗練されたギャラリー品質のレイアウト、上品で控えめなデザイン
-
-### SF映画ポスター
-
-> 宇宙冒険映画のヴィンテージ風ポスター、異星の惑星に立つ宇宙飛行士たち、レトロフォント、赤と青の配色、ドラマチックな構図
-
-### エコポスターデザイン
-
-> 環境保護テーマのポスター、地球と樹木のモチーフ、スローガン「Save the Planet」、力強いコントラストカラー
-
-### エコロジーポスターデザイン
-
-> 環境保護テーマのポスター、森林、河川、野生動物を描写、テキスト「保護地球、從我做起」、鮮やかな色彩、人の心を動かすデザイン
-
-### 音楽ポスターアート
-
-> バンドメンバーとライトを配したコンサートポスター、鮮やかな色彩とダイナミックな構図
-
-### ヴィヴィッド・ミュージックポスター
-
-> サンセリフの太字タイポグラフィを中心にしたダイナミックなポスターデザイン、抽象的な波のパターンを持つ音楽テーマ、赤とブルーの鮮やかな色彩、ハイコントラスト、4K解像度
-
-### ミニマリスト・テックポスター
-
-> シンフォントのエレガントなタイポグラフィを使ったミニマリストポスター、回路やホログラムなどのフューチャリスティックなテック要素、モノクロマティックブルーの配色、クリーンなレイアウト、超高精細
-
-### アブストラクトアート・ポスター
-
-> 幾何学的な形と流れるような文字を融合したクリエイティブなタイポグラフィのアブストラクトポスターデザイン、モダンアートムーブメントにインスパイアされた、ウォームカラーパレット、ハイディテール
-
-### エコフレンドリーデザイン・ポスター
-
-> エコテーマを強調したタイポグラフィのポスター、セリフフォントでアクセント、リーフモチーフとグリーンのグラデーション、バランスのとれた構図、1080p品質
-
-### レトロスタイル・ポスター
-
-> ヴィンテージタイポグラフィのレトロ風ポスター、太字とイタリック体のフォント、1950年代の車やダイナーの要素、暖かいセピアトーン、精緻なテクスチャ
-
-### コーポレートブランド・ポスター
-
-> スリークなコーポレートタイポグラフィのプロフェッショナルポスター、ブランディング用カスタムフォント、ロゴ要素とアブストラクト背景の統合、クールなコーポレートカラー、高解像度
-
-### フェスティバルイベント・ポスター
-
-> スクリプトフォントとブロックフォントを組み合わせた遊び心のあるタイポグラフィのフェスティブポスターデザイン、カラフルなイラスト付きのイベント詳細、ヴィヴィッドでエネルギッシュな雰囲気
-
-### イノベーティブSFポスター
-
-> グロウイングエフェクトのフューチャリスティックタイポグラフィを特徴とするイノベーティブなSFポスター、惑星と星のスペーステーマ、ネオンアクセントのダーク背景、精緻なディテール
-
-### ボールドタイポグラフィ・ポスター
-
-> 太字フォントでテーマを際立たせたボールドな現代ポスター、抽象的な幾何学模様を融合、モノクロを基調に、クリーンなレイアウト、高精細効果
-
-### アーティスティック・ポスターデザイン
-
-> エレガントな曲線フォントを中心にしたアーティスティックスタイルのポスター、花や線画などの絵画的要素と融合、柔らかなカラーグラデーション、4K解像度
-
-### テクノロジーテーマ・ポスター
-
-> 未来感あるフォントを使用したテクノロジーテーマのポスター、デジタルマトリックスと光線効果の背景、ブルーグリーントーン、ハイコントラスト、高品質画像
-
-### カルチャーフェスティバル・ポスター
-
-> 伝統的なフォントとモダンフォントを融合したカルチャーフェスティバルのポスターデザイン、民族的なパターンとテキストを含む、ウォームカラー、バランスの良い構図
-
-### ファッションブランド・ポスター
-
-> 精緻なフォントを中心にしたファッションブランドのポスター、モデルとアパレル要素を添えて、上品なグレートーン、リッチなディテール
-
-### スポーツイベント・ポスター
-
-> ダイナミックなフォントを使用したスポーツイベントのポスター、アスリートと競技場の画像を融合、赤と白を基調に、高精細バージョン
-
-### クリエイティブ・アブストラクトポスター
-
-> 歪みと変形を加えたフォントによるクリエイティブなアブストラクトポスター、フルイドアート効果の背景、マルチカラーグラデーション、精緻なディテール
-
-### ビジネスグロース・ポスター
-
-> SNSビジネスティップス向けのプロフェッショナルYouTubeサムネイル、上昇グラフとコラボレーションするチーム、テキスト「Scale Your Business Now」、モダンなインフォグラフィックデザイン、ブルーとグレーのパレット、クリーンでミニマリスティックなスタイル
-
-### 環境保護テーマ・ポスター
-
-> 環境保護に関するSNS YouTubeサムネイル、森林と野生動物を表示、カーボンフットプリントのアイコンなどのインフォグラフィックを融合、テキスト「拯救地球行動」、アーティスティックスタイル、グリーン基調、高精細解像度
-
-### ファッション雑誌表紙
-
-> 人物をハイファッション雑誌の表紙に配置。上部に優雅なセリフ体の雑誌タイトル、両サイドに見出し、プロのカラーグレーディング、グラマラスなスタジオライティング、Vogueエディトリアル美学
-
----
-
-## 商品広告 <a id="product"></a>
-
-### 浮遊するスマートフォン・ヒーローショット
-
-> クリーンなダークグラデーション背景に、ダイナミックな角度で浮遊するモダンなスマートフォン、左上からの単一光源のドラマチックなスタジオライティングがガラススクリーンとメタルフレームにシャープなスペキュラーハイライトを生み出す、さりげないブルーのアクセントグロー、超精細なプロダクトテクスチャ、コマーシャルヒーローショット品質、4K
-
-### ラグジュアリー香水ボトル
-
-> 磨かれたダークオブシディアンの表面に置かれたラグジュアリーガラス香水ボトル、ソフトなゴールドのリムバックライトがエレガントなハロー効果を生み出す、カーブしたガラスの上で水滴がきらめく、アンバー色の液体が内部で光を捉える、プロフェッショナルなエディトリアル商品撮影、浅いボケ背景、超高精細
-
-### ワイヤレスイヤホン広告
-
-> マットホワイトの充電ケースに入ったミニマルワイヤレスイヤホンのヒーローアングル商品撮影、ブラッシュドスチールのアクセント付きアノダイズドアルミ仕上げ、防水性を示唆するように空中に凍りついた微小な水滴、クリスプなエッジハイライトのソフトスタジオライティング、マットブラック面の反射、カタログ品質のコマーシャルフォトグラフィー、4K
-
-### スキンケア・フラットレイ
-
-> 白い大理石の上にスタイリングされたフラットレイ：3本のガラス製スキンケアボトルをゆるやかな三角形に配置、ボトルの間にフレッシュなボタニカルとドライフラワー、左からの柔らかい拡散窓光、パステルピンクとクリームの配色、真上からのショットで中央配置の構図、ボタニカルに浅い被写界深度、商品ラベルにシャープなフォーカス、4K商品撮影
-
-### トロピカルフルーツ・スプラッシュ
-
-> 透き通った水のスプラッシュの中で爆発する瞬間を捉えたカラフルなトロピカルフルーツの配置、鮮やかなマンゴー、イチゴ、キウイがクリーンなホワイトスタジオ背景の前でダイナミックに躍動、ハイスピードコマーシャルフォトグラフィー、個々の水滴まで捉えた超シャープなディテール、フレッシュで活力あふれるムード
-
-### ハイエンド・スマートフォン展示
-
-> ガラス台の上に置かれた高級スマートフォンのリアリスティック商品写真、ディテール豊かなスクリーン表示、柔らかい照明、プロフェッショナルな撮影スタイル
-
-### ラグジュアリーウォッチ商品写真
-
-> ベルベットスタンドの上に置かれたラグジュアリーゴールドウォッチのリアリスティック商品写真、精緻なディテール、スタジオライティング、エレガントな背景
-
-### スマートウォッチ商品写真
-
-> モダンなデスクの上に置かれたハイテクスマートウォッチ、精緻な反射のディテール、ブルーのアクセントとフューチャリスティックな要素
-
-### ファッション商品展示
-
-> 高級ハンドバッグの商品写真、繊細なレザーテクスチャ、照明が映える、シンプルな背景
-
-### ラグジュアリー腕時計ショット
-
-> ダークベルベットの上に置かれたゴールドのラグジュアリー腕時計のプロフェッショナル商品写真、ソフトなスタジオライト、ハイディテールと反射、ウォッチのコマーシャル広告
-
-### コスメティック商品ディスプレイ
-
-> きれいに並べられたメイクブラシとパレットの高品質商品写真、テクスチャを映すイーブンなライティング、ビューティープロダクトのコマーシャルスタイル
-
-### ファッションアクセサリー写真
-
-> 木製の棚に並んだレザーハンドバッグのスタイリッシュなコマーシャル写真、暖かい室内照明、奥行きを生み出すハイコントラストとシャドウ
-
-### ジュエリーディスプレイショット
-
-> ブラックスタンドに置かれたダイヤモンドイヤリングのハイエンドコマーシャル写真、スポットライト照明、きらめく効果と精緻なディテール
-
-### 電子デバイスセットアップ
-
-> デスク上のノートPCとアクセサリーのダイナミックな商品写真、オフィス環境のライティング、シャープなエッジとスクリーンの反射、コマーシャル用途
-
-### フィットネス機器広告
-
-> ジムセッティングのダンベルとマットのプロフェッショナルイメージ、モチベーショナルなライティング、汗とテクスチャのディテール、コマーシャルフィットネスプロモーション
-
-### ツールキットディスプレイ
-
-> 広げられたツールキットの精緻な商品画像、作業場のライティング、メタリックな輝きと整理整頓、コマーシャルハードウェア広告
-
-### テックレビュー・サムネイル
-
-> SNSテックレビュー向けのスリークなYouTubeサムネイル、スペックオーバーレイ付きの新しいノートPC、テキスト「Best Laptops 2024」、モダンなプロダクトデザインスタイル、シルバーとブラックのカラー、ハイディテール
-
-### パッケージ入りフィギュア
-
-<img src="https://storage.tiktomato.com/uploads/20260417/task_960b321c-6b5a-4c3c-b520-5e1f4295989f_0.jpeg" width="500" />
-
-> 写真の人物を精巧なコレクタブルフィギュアに変換、印刷台紙付きの透明プラスチックパッケージ内に配置。トイフォトスタイル、スタジオ照明、ミニチュアスケール、リアルなプラスチック質感
-
-### コーデ分解フラットレイ
-
-<img src="https://storage.tiktomato.com/uploads/20260417/task_3ba59b68-ffaa-4e4a-88bd-28c898aff046_0.jpeg" width="500" />
-
-> このコーディネートを個々の衣類とアクセサリーに分解し、清潔な白い表面にフラットレイで整然と配置、俯瞰視点、均一照明、整列グリッドパターン、ファッションフォトスタイル
-
-### ラグジュアリー商品撮影
-
-> 商品をプレミアムなライフスタイルシーンに配置、シアーカーテンから差し込む柔らかい朝日の大理石カウンタートップ、新鮮な花とゴールドのアクセント、浅い被写界深度、高級ブランド広告フォトスタイル
-
----
-
-## 写真 <a id="photography"></a>
-
-### ゴールデンアワーのファッションポートレート
-
-> 陽光が降り注ぐワイルドフラワーの草原に佇む、流れるようなエメラルドグリーンのシルクドレスを纏った若い女性、暖かい夏風にそっと髪がなびく、自然なそばかすが見える、ぼやけた花々の浅いボケ背景、ソフトなゴールデンアワーライティングのエディトリアルファッション撮影、85mmレンズ f/1.8、暖かいシネマティックカラーグレード
-
-### 風雪に鍛えられた漁師のポートレート
-
-> 深く刻まれたしわのある肌と鋭いブルーの瞳を持つ老漁師のクローズアップポートレート、擦り切れた海風にさらされたウールコートを着用、嵐の大西洋の海景を背にしたドラマチックなレンブラントサイドライティング、超リアルな8K肌テクスチャのディテール、ドキュメンタリー写真スタイル、50mmレンズ
-
-### ローファイ・フィルムポートレート
-
-> 陽光の差し込むアパートの窓辺に座る若い女性のポートレート、Kodak Portra 400 35mmフィルムで撮影、暖かいゴールデントーンと繊細なグリーンシャドウ、左端にわずかな光漏れとフィルムグレイン、やや褪せたブラック、ヴィンテージ50mmレンズ、くつろいだ自然な表情、ローファイでノスタルジックなムード
-
-### 黄昏のユキヒョウ
-
-> ヒマラヤの崖の端に佇む荘厳なユキヒョウ、夕暮れの深い青空に星が現れ始める、毛並みの一本一本まで見える精緻なディテール、ナショナルジオグラフィック風のワイルドライフフォトグラフィー、ドラマチックな自然光、400mm望遠レンズ、浅い被写界深度、8K
-
-### 黄金のサバンナを歩くアフリカライオン
-
-> 見事なダークメインを持つ雄のアフリカライオンが夕陽の中、黄金に輝く背の高いサバンナの草原を歩く、暖かい逆光がたてがみの周りに光り輝くハローを作る、琥珀色の瞳がカメラをまっすぐ見つめる、400mm望遠レンズ、ナショナルジオグラフィック風、浅い被写界深度、8K
-
-### 凍てつく北欧のオーロラ
-
-> 真冬の凍った北欧の湖上に踊るグリーンとバイオレットのリボン状のオーロラ、湖畔に並ぶ雪に覆われたトウヒの森、鏡のような氷の表面が夜空を完璧に映し出す、長時間露光撮影の美学、幻想的な光、8K天体写真
-
-### 砂漠の天の川
-
-> 真夜中の広大な砂漠の風景にアーチを描く天の川、数百万の星で満たされた空をバックに砂岩の岩層がシルエットとなる、前景に赤い砂に暖かいオレンジの光を投げかける小さなキャンプファイヤー、25秒露光撮影の美学、天体写真、深い被写界深度、8K
-
-### 山岳写真
-
-> 夜明けの雪山の圧巻のランドスケープフォトグラフィー、霧に包まれた谷、透き通った湖の反射、広角レンズ、自然光
-
-### 都市写真
-
-> 夜の賑やかな都市のヴィヴィッドなストリートフォトグラフィー、ネオンライト、行き交う人々、広角レンズ、アトモスフェリックなムード
-
-### ストリートフォトグラフィー
-
-> 雨の中の都市ストリートフォトグラフィー、傘をさす行人、水たまりに反射するネオン、モノクロ調色、高いリアリティ
-
-### 自然風景写真
-
-> 夜明けの山上湖の静謐なランドスケープフォトグラフィー、霧と野生動物
-
-### スタイリッシュなスマートフォン展示
-
-> ミニマリストの白い背景にモダンスマートフォンの高解像度コマーシャル写真、機能をハイライトするドラマチックなライティング、プロフェッショナルな商品撮影スタイル
-
-### エレガント・パフューム広告
-
-> フローラル要素に囲まれたガラス香水ボトルの洗練されたコマーシャルイメージ、窓からの自然光、鮮やかな色彩とシャープなフォーカス
-
-### テックガジェット・クローズアップ
-
-> 充電ケースに入ったワイヤレスイヤホンの精緻なコマーシャルショット、マクロレンズで繊細なディテール、ブルーのアンビエントライティング、プロフェッショナルなセッティング
-
-### キッチン家電広告
-
-> 新鮮なフルーツに囲まれたブレンダーのプロフェッショナル商品写真、明るいキッチンセッティング、リアルなテクスチャと反射、コマーシャルプロモーション
-
-### ビューティーセラムボトル
-
-> ドロップレットが付いたスキンケアセラムボトルのクリーンなコマーシャルイメージ、ソフトなディフューズドライト、透明なガラスの効果、プロフェッショナルなパッケージショット
-
-### ホームデコアイテム
-
-> 花を生けた陶器の花瓶のコマーシャル写真、自然な窓光、繊細な模様とテクスチャ、インテリアデザイン向けの高いリアリズム
-
-### ドリンク商品ショット
-
-> 結露の付いた炭酸缶の高解像度コマーシャル写真、屋外ピクニック背景、鮮やかな色彩とバブル
-
-### アパレルライン写真
-
-> マネキンに着せたジャケットのコマーシャルファッションフォトグラフィー、スタジオフラッシュライト、生地のテクスチャと折り目、プロフェッショナルな衣料品ラインプロモーション
-
-### 旅行写真ポスター
-
-> SNS旅行フォトグラフィー用YouTubeサムネイル、ビーチの日の出を撮影するカメラマン、テキスト「完美旅行照」、リアルなフォトグラフィースタイル、ウォームトーン、高解像度
-
-### 冬景色への変換
-
-<img src="https://storage.tiktomato.com/uploads/20260417/task_6794dc25-f39f-4053-bce2-379698e0dda3_0.jpeg" width="500" />
-
-> シーンを寒い冬に変換。畑は深い雪に覆われ、木は霜のついた裸枝。空は冷たい青と淡いピンクに変化。道路、建物、構図はそのまま維持
-
-### 昼から夜へ
-
-> シーンを澄んだ夜景に変換。空は天の川と無数の星で満たされる。表面が星明かりを反射。建物とレイアウトはそのまま維持。クールブルートーン、窓から暖かい光、長時間露光の質感
-
-### 大雨を追加
-
-> シーンに大雨を追加。髪は濡れ、肌と服に水滴。空中に雨筋が見える、背景の濡れた表面が光を反射。人物、ポーズ、フレーミングはそのまま維持
-
-### 背景置換
-
-> 背景をパリの夕暮れの街並みに置き換え、被写体はシャープなまま維持。被写体に暖かいオレンジのリムライトを追加して新しい夕焼けの雰囲気に合わせる
 
 ---
 
